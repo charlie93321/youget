@@ -19,8 +19,7 @@ def download(url, path):
 
 
 if __name__ == '__main__':
-    # 视频网站的地址
-    url = 'https://www.bilibili.com/bangumi/play/ep118488?from=search&seid=5050973611974373611'
+    url = 'https://www.bilibili.com/video/BV17K4y1h7Li?spm_id_from=333.851.b_7265706f7274466972737431.7'
     # 视频输出的位置
-    path = 'G:/test'
+    path = r'F:\bilibili'
     download(url, path)
