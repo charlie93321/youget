@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1174,
+    "shopId": 843,
+    "name": "TOKOPEDIA-3A",
+    "itemSku": "charlie-sku-10000",
+    "images": "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/9/16/4734339/4734339_de94cc69-e2e8-43bb-a90d-ce6bc39b7fb3.jpg,https://ecs7.tokopedia.net/img/cache/700/product-1/2020/9/16/4734339/4734339_e06e73c7-edc0-44f2-8a91-0c0379fb3337.jpg,https://ecs7.tokopedia.net/img/cache/700/product-1/2020/9/16/4734339/4734339_f4f2978f-7434-481a-88a6-e72df12a6adf.jpg,https://ecs7.tokopedia.net/img/cache/700/product-1/2020/9/16/4734339/4734339_1014fc84-e69c-4315-94c9-37e82480baa8.jpg,https://ecs7.tokopedia.net/img/cache/700/product-1/2020/9/16/4734339/4734339_782b95d0-6d59-4063-b02d-76a8b3556cd2.jpg",
+    "price": 115819,
+    "salePrice": "22235",
+    "saleStartDate": "10/19/2020 00:00",
+    "saleEndDate": "10/19/2020 23:59",
+    "stock": 999983,
+    "weight": 100,
+    "length": "12",
+    "width": "22",
+    "height": "22",
+    "unitId": 1,
+    "productType": 1,
+    "variationEditVos": null
+  },
+  {
+    "id": 1172,
+    "shopId": 843,
+    "name": "Set Bộ Phối Duyên Dáng Hot",
+    "itemSku": "charlie-sku-10001",
+    "images": "https://media3.scdn.vn/img4/2020/06_22/APDx0EqSRxtMYmNJIa6I_simg_b5529c_250x250_maxb.jpg,https://media3.scdn.vn/img4/2020/06_22/APDx0EqSRxtMYmNJIa6I.jpg,https://media3.scdn.vn/img4/2020/06_22/NBYlDJZyO32xwekTknqp.jpg,https://media3.scdn.vn/img4/2020/06_22/91ydFoKCsEh1Mcbgfxym.jpg",
+    "price": null,
+    "salePrice": null,
+    "saleStartDate": null,
+    "saleEndDate": null,
+    "stock": null,
+    "weight": 400,
+    "length": "45",
+    "width": "45",
+    "height": "45",
+    "unitId": 1,
+    "productType": 1,
+    "variationEditVos": [
+      {
+        "id": 7159,
+        "variationSku": "XL_Cam",
+        "price": 109000,
+        "stock": 992,
+        "salePrice": null,
+        "saleStartDateStr": "",
+        "saleEndDateStr": ""
+      },
+      {
+        "id": 7160,
+        "variationSku": "M_Vàng",
+        "price": 109000,
+        "stock": 1000,
+        "salePrice": null,
+        "saleStartDateStr": "",
+        "saleEndDateStr": ""
+      },
+      {
+        "id": 7161,
+        "variationSku": "XL_Vàng",
+        "price": 109000,
+        "stock": 986,
+        "salePrice": "22235",
+        "saleStartDateStr": "2020-10-19 00:00:00",
+        "saleEndDateStr": "2020-10-21 23:59:00"
+      },
+      {
+        "id": 7162,
+        "variationSku": "L_Vàng",
+        "price": 109000,
+        "stock": 996,
+        "salePrice": null,
+        "saleStartDateStr": "",
+        "saleEndDateStr": ""
+      },
+      {
+        "id": 7163,
+        "variationSku": "L_Cam",
+        "price": 109000,
+        "stock": 999,
+        "salePrice": null,
+        "saleStartDateStr": "",
+        "saleEndDateStr": ""
+      },
+      {
+        "id": 7164,
+        "variationSku": "M_Cam",
+        "price": 109000,
+        "stock": 998,
+        "salePrice": null,
+        "saleStartDateStr": "",
+        "saleEndDateStr": ""
+      }
+    ]
+  }
+]

@@ -25,6 +25,7 @@ lines = """
 
 import qrcode
 
-img = qrcode.make(lines)
+img = qrcode.make(lines).convert("RGB")
+img = img.resize((200,200))
 img.save('test.png')
 
