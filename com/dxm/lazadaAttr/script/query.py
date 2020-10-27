@@ -27,7 +27,7 @@ url='https://open.sendo.vn/api/partner/product'
 
 
 
-url='https://open.sendo.vn/api/partner/product?sku=find-date'
+url='https://open.sendo.vn/api/partner/product?sku=MASKER-ANAK-MOTIF'
 
 resp = requests.get(url=url,headers={
     'Authorization':auth_token
@@ -37,7 +37,7 @@ resp = requests.get(url=url,headers={
 data = resp.json()['result']
 
 variants = data["variants"]
-
+print(data)
 for variant in variants:
     startLong = variant['variant_promotion_start_date_timestamp']
     endLong = variant['variant_promotion_end_date_timestamp']
