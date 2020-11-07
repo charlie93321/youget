@@ -15,49 +15,62 @@ def save_cookie(language,email,passwrod):
 
     options = webdriver.ChromeOptions()
 
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('--headless')
+
     driver = webdriver.Chrome(executable_path=DRIVER_PATH, options=options)
-    driver.set_window_size(1920, 1080)
-    driver.get('https://sellercenter.lazada.vn/product/newpublish/index')
-    sleep(2)
-    user = driver.find_element_by_name("TPL_username")
-    user.clear()
-    user.send_keys(email)
-    pwd = driver.find_element_by_name("TPL_password")
-    pwd.clear()
-    pwd.send_keys(passwrod)
+    try:
+        driver.set_window_size(1920, 1080)
+        driver.get('https://sellercenter.lazada.vn/product/newpublish/index')
+        sleep(2)
+        user = driver.find_element_by_name("TPL_username")
+        user.clear()
+        user.send_keys(email)
+        pwd = driver.find_element_by_name("TPL_password")
+        pwd.clear()
+        pwd.send_keys(passwrod)
 
-    btn = driver.find_element_by_class_name('button-submit').find_element_by_tag_name("button")
+        btn = driver.find_element_by_class_name('button-submit').find_element_by_tag_name("button")
 
-    btn.click()
-    if language == "en":
+        btn.click()
+        if language == "en":
+            sleep(5)
+            btns = driver.find_elements_by_class_name('next-dialog-btn')
+            try:
+                btns[1].click()
+            except Exception as e:
+                print('str(e):\t\t', str(e))
+                print('repr(e):\t', repr(e))
+                # 以下两步都是输出错误的具体位置的
+                traceback.print_exc()
+            langItems = driver.find_elements_by_class_name('layout-menu')
+            for langItem in langItems:
+                if langItem.text =='Vietnam':
+                    langItem.click()
+            sleep(1)
+            items = driver.find_elements_by_class_name("layout-menu-item")
+            for item in items:
+                if item.get_attribute("title") == "English":
+                    item.click()
+                    break
         sleep(5)
-        cancelbtn = driver.find_element_by_xpath('/html/body/div[3]/div[2]/div[2]/button[2]')
-        try:
-            cancelbtn.click()
-        except Exception as e:
-            print('str(e):\t\t', str(e))
-            print('repr(e):\t', repr(e))
-            # 以下两步都是输出错误的具体位置的
-            traceback.print_exc()
-        langItem = driver.find_element_by_xpath(xpath='//*[@id="root"]/div/div[1]/div[2]/div[1]/div[2]/div/ul/li')
-        langItem.click()
-        sleep(1)
-        items = driver.find_elements_by_class_name("layout-menu-item")
-        for item in items:
-            if item.get_attribute("title") == "English":
-                item.click()
-                break
-    sleep(5)
-    cookies = driver.get_cookies()
-    # time.sleep(5)
-    # driver.refresh('http://adnet.qq.com/index')
-    if language == "en":
-        with open("cookies_en.txt", "w") as fp:
-            json.dump(cookies, fp)
-    else:
-        with open("cookies_vn.txt", "w") as fp:
-            json.dump(cookies, fp)
-    driver.close()
+        cookies = driver.get_cookies()
+        # time.sleep(5)
+        # driver.refresh('http://adnet.qq.com/index')
+        if language == "en":
+            with open("cookies_en.txt", "w") as fp:
+                json.dump(cookies, fp)
+        else:
+            with open("cookies_vn.txt", "w") as fp:
+                json.dump(cookies, fp)
+        driver.close()
+    except Exception as e2:
+        driver.close()
+        print('str(e):\t\t', str(e2))
+        print('repr(e):\t', repr(e2))
+        # 以下两步都是输出错误的具体位置的
+        traceback.print_exc()
 
 
 # 将selenium的cookies放到session中
@@ -106,7 +119,7 @@ def query_attr(lang):
 
 
 # query_attr()
-#save_cookie(language='en')
-attrMap = query_attr('en')
 
-print(json.dumps(attrMap))
+#attrMap = query_attr('en')
+
+#print(json.dumps(attrMap))
