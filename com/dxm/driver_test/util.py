@@ -7,12 +7,9 @@ import requests
 from com.dxm.driver_test import proxyutils
 
 
-def save_cookie(language,email,passwrod):
+def save_cookie(language,email,passwrod,DRIVER_PATH):
     import selenium
     from selenium import webdriver
-
-    DRIVER_PATH = 'D:\driver\chromedriver.exe'
-
     options = webdriver.ChromeOptions()
 
     options.add_argument('--no-sandbox')
