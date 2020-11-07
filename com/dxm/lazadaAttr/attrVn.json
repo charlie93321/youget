@@ -1,0 +1,1638 @@
+{
+  "success": True,
+  "ignore": True,
+  "errorCodes": [],
+  "model": None,
+  "successMessage": None,
+  "message": None,
+  "pageDO": None,
+  "extra": {},
+  "data": [
+    {
+      "serviceType": "ifm",
+      "translateIgnoreFields": [
+        "html"
+      ],
+      "currentLogonRole": "SELLER",
+      "switchId": "947090429",
+      "edit": False,
+      "renderTimeStamp": 1604653193513,
+      "protocolFormat": "DADA",
+      "renderTimestamp": 1604660768468,
+      "catId": 14984,
+      "originalLocale": "vi_VN",
+      "sellerId": 200163978075,
+      "gpf_productNames": [],
+      "name": "global",
+      "uiType": "ProductRoute",
+      "gpf_identity": "marketplace-item-100",
+      "dict": {
+        "bulkEdit": "tr(data.bulkEdit.lazada)",
+        "useSkuImageAsThumbnail": "Hình đầu tiên của tùy chọn sẽ được dùng làm hình đại diện thu nhỏ cho tùy chọn.",
+        "requireSkuOrMainImages": "Thiếu hình ảnh. Vui lòng đăng tải ít nhất 1 tấm hình",
+        "skuImageLengthExceeded": "tr(data.skuImageLengthExceeded.lazada)",
+        "requireFullSkuImages": "Tùy chọn này đang thiếu hình ảnh. Vui lòng đăng tải ít nhất 1 tấm hình."
+      },
+      "id": 947090429,
+      "value": {
+        "renderTimestamp": 1604660768468,
+        "originalLocale": "vi_VN",
+        "sellerId": 200163978075,
+        "id": 947090429
+      },
+      "currencyCode": "VND",
+      "Delivery_Option_sof": False
+    },
+    {
+      "name": "dict",
+      "dict": {
+        "bulkEdit": "tr(data.bulkEdit.lazada)",
+        "useSkuImageAsThumbnail": "Hình đầu tiên của tùy chọn sẽ được dùng làm hình đại diện thu nhỏ cho tùy chọn.",
+        "requireSkuOrMainImages": "Thiếu hình ảnh. Vui lòng đăng tải ít nhất 1 tấm hình",
+        "skuImageLengthExceeded": "tr(data.skuImageLengthExceeded.lazada)",
+        "requireFullSkuImages": "Tùy chọn này đang thiếu hình ảnh. Vui lòng đăng tải ít nhất 1 tấm hình."
+      },
+      "group": "basic"
+    },
+    {
+      "maxItems": 8,
+      "visible": True,
+      "rule": {
+        "maxSize": 5242880,
+        "minSize": 0,
+        "accept": [
+          "jpg",
+          "png",
+          "jpeg"
+        ]
+      },
+      "label": "Hình ảnh sản phẩm",
+      "suggest": {
+        "minHeight": 800,
+        "maxHeight": 5000,
+        "iconType": "prompt",
+        "minWidth": 750,
+        "text": "Image not meeting requirements! <br /> \nA. Required aspect ratio: 1:1. Minimum pixel: 800X800 <br /> \nB. Required aspect ratio: 3:4. Minimum pixel: 750X1000 <br /> \nC. Do not add other information besides the product on the product image, such as watermark, psoriasis, etc.",
+        "maxWidth": 5000
+      },
+      "locale": {
+        "widthNoLessThan": "Picture width needs to be larger than $ {minWidth} px. If the size is right but you"re still having troubles uploading, check if the picture format is following the requirements.",
+        "heightNoLessThan": "Pictures height can"t less than ${minHeight}px.",
+        "fixedWidth": "You can only select width for ${fixedWidth} px of pictures.",
+        "tooLarge": "Pictures file can"t exceed ${maxSize}",
+        "systemAbnormal": "System error. Please later try again.",
+        "imageBank": "Pictures bank",
+        "uploadFromLocal": "Upload",
+        "type": "photoBankImages",
+        "uploadText": "Add",
+        "error": "Error",
+        "uploadFailedTryAgain": "Pictures format don"t meet the requirements or analysis failure please re-upload, or replacement other format of pictures.",
+        "redundant": "Please don"t repeat select the same bed pictures.",
+        "fixedHeight": "You can only select height for ${fixedHeight}px of pictures.",
+        "confirm": "Confirm",
+        "heightNoMoreThan": "Pictures height can"t greater than ${maxHeight}px.",
+        "fixedSize": "You can only select size for${fixedWidth}x${fixedHeight} of pictures.",
+        "tooSmall": "Pictures file can"t be less than ${minSize}",
+        "ratioIllegal": "Please upload length and width proportion for ${ratio} of pictures.",
+        "warning": "Warning",
+        "uploadFromBank": "Media Center",
+        "noSizeInfo": "The picture you selected contains no sizing information. Please reselect.",
+        "widthNoMoreThan": "Picture width can"t exceed ${maxWidth}px.",
+        "extIllegal": "Please upload the following type of photos: ${accept}",
+        "reachMaxMsg": "Most can only add ${maxItems} bed pictures."
+      },
+      "title": "Photo Bank",
+      "required": False,
+      "imageConfig": {
+        "imageMaxWidth": 5000,
+        "imageMinWidth": 330,
+        "imageLength": 8,
+        "imageMinHeight": 330,
+        "goldLog": "/LazadaSellerCenter.AddProduct.Image",
+        "imageUploadUrl": "/image/upload",
+        "imagePropName": "__images__",
+        "imageSize": 2048,
+        "imageDownloadUrl": "/product/image/encode",
+        "imageMaxHeight": 5000,
+        "mediaCenterHost": "https://sellercenter.lazada.vn/mediacenter"
+      },
+      "allowEmpty": True,
+      "name": "mainImage",
+      "uiType": "MainImage",
+      "showImageBankBtn": True,
+      "promptImages": [],
+      "imageBankConfig": {
+        "dialogType": "dialog",
+        "sendDataType": "url",
+        "winInfo": {
+          "width": 1016,
+          "height": 678
+        },
+        "disabled": False,
+        "openTabUrl": False,
+        "config": {
+          "single": False,
+          "hideBanner": True,
+          "atoken": "temp",
+          "active": "select",
+          "height": 678
+        }
+      },
+      "prompts": [
+        "Front",
+        "Back",
+        "Real shot",
+        "Side view",
+        "Close-up",
+        "Close-up",
+        "Close-up",
+        "Close-up"
+      ],
+      "group": "base",
+      "info": {
+        "help": "Đây là hình ảnh chính của sản phẩm. Đối với một số trường hợp và ngành hàng, bạn cũng có thể cập nhật hình ảnh cho từng tùy chọn ở mục "Giá & Hàng tồn"",
+        "top": "Đây là hình ảnh chính trên trang sản phẩm. Bạn có thể up nhiều hình ảnh cùng lúc và tối đa có thể có 8 hình. Hình ảnh cần có kích thước từ 330x300 px đến 5000x5000px và không dược phép chứa nội dung nhạy cảm."
+      }
+    },
+    {
+      "checkNotice": {
+        "method": "post",
+        "url": "/product/newpublish/api.product.post.async?optType=titleBrandWarn"
+      },
+      "visible": True,
+      "showCounter": True,
+      "multiLanguage": {
+        "dialog": {
+          "inputConfig": {
+            "maxLength": 255
+          },
+          "action": {
+            "method": "post",
+            "url": "/product/newpublish/api.product.post.async?optType=multiLanguageTranslate"
+          }
+        },
+        "iconType": "duoyuyan"
+      },
+      "label": "Tên sản phẩm",
+      "locale": {
+        "dialogDesc": "Tính năng này sẽ hỗ trợ dịch tự động, nhưng bạn vẫn có thể tự chỉnh sửa lại sau đó",
+        "edit": "Cài đặt Đa ngôn ngữ",
+        "ignore": "Bỏ qua",
+        "dialogTitle": "Cài đặt Đa ngôn ngữ",
+        "dialogCancel": "Hủy",
+        "dialogOk": "Lưu",
+        "dialogTranslate": "Dịch",
+        "type": "globalInput",
+        "tips": "Chức năng Đa ngôn ngữ đã được thêm, hãy vào mục "Cài đặt Đa ngôn ngữ" để cài đặt",
+        "setLanguage": "Thêm Đa ngôn ngữ",
+        "otherLanguage": "Ngôn ngữ khác"
+      },
+      "required": True,
+      "name": "title",
+      "uiType": "translateInput",
+      "placeholder": "Ex. Nikon Coolpix A300 Máy Ảnh Kỹ Thuật Số",
+      "illegalPatterns": [
+        {
+          "pattern": "[]",
+          "message": "The input title contains Chinese."
+        }
+      ],
+      "value": [
+        {
+          "label": "Vietnamese",
+          "key": "vi_VN"
+        },
+        {
+          "label": "English",
+          "key": "en_US"
+        }
+      ],
+      "maxLength": 255,
+      "hasLimitHint": True,
+      "group": "base",
+      "info": {
+        "help": "Tên sản phẩm phải đồng nhất về Thương hiệu, Dòng sản phẩm, Tính năng nổi bật và Màu (nếu có). Màu của sản phẩm đặt trong dấu ngoặc đơn, nằm ở cuối tên. Tên sản phẩm được viết hoa và không chứa các ký tự đặc biệt (# ! ?), trừ trường hợp các ký tự này là một phần của thương hiệu. Để hiểu rõ hơn, vui lòng xem Quy cách đặt tên ở mục Hỗ trợ, trong mục Bắt đầu nằm ở bên phải cửa sổ Seller Center."
+      }
+    },
+    {
+      "itemDirection": "ver",
+      "visible": False,
+      "name": "categorySuggest",
+      "uiType": "RadioGroup",
+      "label": "Category Gợi Ý",
+      "required": False,
+      "group": "base"
+    },
+    {
+      "itemDirection": "ver",
+      "visible": False,
+      "name": "imgCategorySuggest",
+      "uiType": "RadioGroup",
+      "label": "Category Gợi Ý",
+      "required": False,
+      "group": "base"
+    },
+    {
+      "showCascade": True,
+      "showRecently": True,
+      "switchSubmitUrl": "/product/newpublish/api.product.post.switch.submit",
+      "hasEdit": False,
+      "showPath": True,
+      "locale": {
+        "cancel": "Cancel",
+        "historyPlaceholder": "Recently used",
+        "searchPlaceholder": "Type product name (e.g. mp3) or product ID or URL of an existing product",
+        "pathLabel": "Current selection:",
+        "recentlyUse": "Sử Dụng Gần Đây",
+        "clear": "Clear",
+        "cascadeSearchPlaceholder": "Keyword",
+        "searchLabel": "Search",
+        "type": "categoryPath",
+        "ok": "Confirm",
+        "tips": "<div style="margin-top:-10px">Don\"t have a suitable category option? <a target="_blank" href="https://cpv.alibaba.com/report/categoryIssueReport.htm?spm=5261.ae_offer_item_post_product.0.0.6b7bbdf9ARJDBv&channelId=5">Click here to submit</a> </br>\r\n\r\nHaven\"t applied for category rights yet? <a target="_blank" href="https://userauth.aliexpress.com/invite/myPermissionList.htm?type=category">Click here to apply</a></div>",
+        "content": "Thay đổi danh mục sẽ xóa tất cả thông tin đầu vào bên dưới. Bạn vẫn muốn tiếp tục?"
+      },
+      "required": True,
+      "historyPlaceholder": "Recently used",
+      "showSearch": False,
+      "searchUrl": "/product/newpublish/api.product.post.category.async?optType=searchCategory",
+      "syncSearch": False,
+      "value": {
+        "path": [
+          "Chăm sóc thú cưng",
+          "Chăm sóc thú cưng",
+          "Chăm sóc răng miệng & sức khỏe",
+          "kem đánh răng"
+        ],
+        "spell": "kem đánh răng",
+        "idpath": [
+          12403,
+          10100888,
+          14579,
+          14984
+        ],
+        "name": "kem đánh răng",
+        "id": 14984,
+        "leaf": True
+      },
+      "group": "base",
+      "renderUrl": "/product/newpublish/api.product.post.render.v1",
+      "maxItems": 1,
+      "visible": True,
+      "currentPath": [],
+      "label": "Danh mục ngành hàng",
+      "filters": [],
+      "openUrl": False,
+      "realTime": True,
+      "historyUrl": "/product/newpublish/api.product.post.category.async?optType=queryCategoryHistory",
+      "selectLeaf": True,
+      "misPrompt": {
+        "showMisPrompt": False,
+        "showButton": False,
+        "misCatPrompt": "We find that the category selected is incorrect. \n<br/>Recommended Category: <b>{0}</b>.",
+        "promoteCatId": 0,
+        "promoteButton": "Correct the Category"
+      },
+      "showFilter": False,
+      "showHistory": False,
+      "name": "categoryPath",
+      "uiType": "catInput",
+      "catCascadeUrl": "/product/newpublish/api.product.post.category.async?optType=queryCategoryCascade",
+      "selectParent": False,
+      "selectedCats": []
+    },
+    {
+      "important": False,
+      "visible": True,
+      "hasMediaCenter": True,
+      "name": "video",
+      "uiType": "Videos",
+      "label": "Đường dẫn video",
+      "required": False,
+      "maxLength": 128,
+      "group": "base",
+      "info": {}
+    },
+    {
+      "visible": True,
+      "name": "catProperty",
+      "uiType": "catProp",
+      "label": "Thông Tin Sản Phẩm",
+      "locale": {
+        "clear": "Xóa tất cả",
+        "type": "catPropertyLocaleModel"
+      },
+      "hideSecondaryProp": True,
+      "dataSource": [
+        {
+          "important": True,
+          "async": {
+            "method": "POST",
+            "searchUrl": "/product/newpublish/api.product.post.async?optType=searchBrandAsyncOpt"
+          },
+          "name": "p-20000",
+          "uiType": "searchSelect",
+          "label": "Thương hiệu",
+          "placeholder": "Chọn",
+          "locale": {
+            "noBrand": "No Brand",
+            "type": "brandPropLocaleModel"
+          },
+          "required": True,
+          "group": "base",
+          "info": {
+            "help": [
+              "Vui lòng điền từ khóa để tìm kiếm thương hiệu của bạn. Nếu không tìm thấy thương hiệu thích hợp, hãy bấm chọn "Không có thương hiệu" hoặc yêu cầu tạo thương hiệu mới tại đây",
+              "<a href="/product/publish/brand" target="_blank">Vui lòng nhấp vào đây để yêu cầu tạo Thương hiệu mới</a>"
+            ]
+          },
+          "allowImageUpload": True
+        },
+        {
+          "multiple": True,
+          "label": "Loại động vật",
+          "locale": {
+            "searchPlaceholder": "Search",
+            "cancel": "Cancel",
+            "selectAll": "Select All",
+            "edit": "Modify",
+            "hasSelect": "Selected",
+            "dialogTitle": "Chọn",
+            "type": "globalItemPropLocaleModel",
+            "ok": "Confirm",
+            "setting": "Settings"
+          },
+          "required": False,
+          "important": False,
+          "name": "p-100007637",
+          "uiType": "checkbox",
+          "placeholder": "Chọn",
+          "illegalPatterns": [
+            {
+              "pattern": "[\\u4e00-\\u9fa5]",
+              "message": "No special characters allowed for custom properties e.g. #, <, >, etc."
+            }
+          ],
+          "secondaryProp": True,
+          "dataSource": [
+            {
+              "text": "Cá",
+              "value": 61264
+            },
+            {
+              "text": "Da bò sát",
+              "value": 136711
+            },
+            {
+              "text": "Bird",
+              "value": 209986
+            },
+            {
+              "text": "con mèo",
+              "value": 209987
+            },
+            {
+              "text": "Thú cưng nhỏ",
+              "value": 209989
+            },
+            {
+              "text": "Dog",
+              "value": 110008901
+            }
+          ],
+          "group": "base",
+          "info": {
+            "help": [
+              "Loại động vật",
+              "<a href="https://xform.lazada.vn/form/show.do" target="_blank">Xin vui lòng bấm vào đây để yêu cầu mới giá trị</a>"
+            ]
+          },
+          "allowImageUpload": True
+        },
+        {
+          "multiple": True,
+          "label": "Nhóm màu",
+          "locale": {
+            "searchPlaceholder": "Search",
+            "cancel": "Cancel",
+            "selectAll": "Select All",
+            "edit": "Modify",
+            "hasSelect": "Selected",
+            "dialogTitle": "Chọn",
+            "type": "globalItemPropLocaleModel",
+            "ok": "Confirm",
+            "setting": "Settings"
+          },
+          "required": False,
+          "important": False,
+          "maxCustomItems": 1,
+          "name": "p-100005652",
+          "uiType": "combobox",
+          "placeholder": "Xin vui lòng Nhập Vào hoặc chọn tùy chọn",
+          "illegalPatterns": [
+            {
+              "pattern": "[\\u4e00-\\u9fa5]",
+              "message": "No special characters allowed for custom properties e.g. #, <, >, etc."
+            }
+          ],
+          "secondaryProp": True,
+          "dataSource": [
+            {
+              "text": "Màu Đỏ cherry",
+              "value": 205
+            },
+            {
+              "text": "Màu ngân hà",
+              "value": 412
+            },
+            {
+              "text": "Blue",
+              "value": 1239
+            },
+            {
+              "text": "Vàng cam",
+              "value": 1472
+            },
+            {
+              "text": "Màu camel",
+              "value": 1943
+            },
+            {
+              "text": "Màu vàng ánh kim",
+              "value": 4477
+            },
+            {
+              "text": "Màu bạc hà",
+              "value": 5447
+            },
+            {
+              "text": "Cam",
+              "value": 7314
+            },
+            {
+              "text": "Màu ngà",
+              "value": 8693
+            },
+            {
+              "text": "Green",
+              "value": 8700
+            },
+            {
+              "text": "Màu tím violet",
+              "value": 9510
+            },
+            {
+              "text": "Màu tím oải hương",
+              "value": 10261
+            },
+            {
+              "text": "Không màu",
+              "value": 16050
+            },
+            {
+              "text": "Không xác định",
+              "value": 16918
+            },
+            {
+              "text": "Màu xanh đậm",
+              "value": 18135
+            },
+            {
+              "text": "Màu dạ quang",
+              "value": 18706
+            },
+            {
+              "text": "Cầu vồng",
+              "value": 18788
+            },
+            {
+              "text": "Màu Socola",
+              "value": 21198
+            },
+            {
+              "text": "Màu hồng cánh sen",
+              "value": 24334
+            },
+            {
+              "text": "Màu nâu đỏ",
+              "value": 24347
+            },
+            {
+              "text": "Màu xanh ngọc",
+              "value": 34214
+            },
+            {
+              "text": "White",
+              "value": 35520
+            },
+            {
+              "text": "Ô liu",
+              "value": 37745
+            },
+            {
+              "text": "Purple",
+              "value": 38050
+            },
+            {
+              "text": "Màu hạt dẻ sẫm",
+              "value": 41500
+            },
+            {
+              "text": "Màu đỏ",
+              "value": 41816
+            },
+            {
+              "text": "Màu bạc",
+              "value": 45114
+            },
+            {
+              "text": "Màu đồng",
+              "value": 45128
+            },
+            {
+              "text": "Màu việt quất",
+              "value": 45342
+            },
+            {
+              "text": "Màu vàng",
+              "value": 47005
+            },
+            {
+              "text": "Màu cà phê",
+              "value": 47549
+            },
+            {
+              "text": "Kem",
+              "value": 47564
+            },
+            {
+              "text": "Nhiều màu",
+              "value": 47576
+            },
+            {
+              "text": "Màu xám",
+              "value": 47588
+            },
+            {
+              "text": "Hoa lá",
+              "value": 47643
+            },
+            {
+              "text": "Quế",
+              "value": 47716
+            },
+            {
+              "text": "Màu Nâu hạt dẻ",
+              "value": 52820
+            },
+            {
+              "text": "Màu trung tính",
+              "value": 61231
+            },
+            {
+              "text": "Sâm panh",
+              "value": 61324
+            },
+            {
+              "text": "Màu đen nhám",
+              "value": 61681
+            },
+            {
+              "text": "Màu xanh lam",
+              "value": 61721
+            },
+            {
+              "text": "Màu nâu đậm",
+              "value": 62347
+            },
+            {
+              "text": "Màu vàng hồng",
+              "value": 62596
+            },
+            {
+              "text": "Vàng mơ",
+              "value": 63483
+            },
+            {
+              "text": "Màu xanh bơ",
+              "value": 63498
+            },
+            {
+              "text": "Màu hồng phấn",
+              "value": 63511
+            },
+            {
+              "text": "Xám than",
+              "value": 63534
+            },
+            {
+              "text": "Mà đỏ dưa hấu",
+              "value": 63550
+            },
+            {
+              "text": "Màu đỏ burgundy",
+              "value": 63554
+            },
+            {
+              "text": "Màu đỏ ớt",
+              "value": 63567
+            },
+            {
+              "text": "Màu hồng đậm",
+              "value": 63617
+            },
+            {
+              "text": "Màu khaki",
+              "value": 63622
+            },
+            {
+              "text": "Màu off white",
+              "value": 63643
+            },
+            {
+              "text": "Màu tan",
+              "value": 63748
+            },
+            {
+              "text": "Màu xanh lá nhạt",
+              "value": 63822
+            },
+            {
+              "text": "Màu xanh quân đội",
+              "value": 63823
+            },
+            {
+              "text": "Màu xanh huỳnh quang",
+              "value": 63826
+            },
+            {
+              "text": "Xanh lá nhạt",
+              "value": 63827
+            },
+            {
+              "text": "Màu vàng huỳnh quang",
+              "value": 63829
+            },
+            {
+              "text": "Màu vàng nhạt",
+              "value": 63830
+            },
+            {
+              "text": "Màu xanh dương đậm",
+              "value": 63831
+            },
+            {
+              "text": "Vàng chanh",
+              "value": 63832
+            },
+            {
+              "text": "Màu xanh mặt hồ",
+              "value": 63833
+            },
+            {
+              "text": "Màu xanh ngọc lục bảo",
+              "value": 63835
+            },
+            {
+              "text": "Màu xanh dương nhạt",
+              "value": 63845
+            },
+            {
+              "text": "Màu xanh navy",
+              "value": 63846
+            },
+            {
+              "text": "Màu xanh lá đậm",
+              "value": 63847
+            },
+            {
+              "text": "Màu hồng",
+              "value": 63858
+            },
+            {
+              "text": "Màu đen",
+              "value": 63859
+            },
+            {
+              "text": "Màu nâu",
+              "value": 63861
+            },
+            {
+              "text": "Màu Be",
+              "value": 63862
+            },
+            {
+              "text": "Màu hoa hồng",
+              "value": 63879
+            },
+            {
+              "text": "Xanh thiên thanh",
+              "value": 64008
+            },
+            {
+              "text": "Đậu phộng",
+              "value": 66714
+            },
+            {
+              "text": "…",
+              "value": 68144
+            },
+            {
+              "text": "Peach",
+              "value": 70514
+            },
+            {
+              "text": "Màu Xám đen",
+              "value": 75915
+            },
+            {
+              "text": "Màu hồng fuchsia",
+              "value": 76157
+            },
+            {
+              "text": "Màu xám xanh",
+              "value": 76158
+            },
+            {
+              "text": "Màu cát",
+              "value": 85920
+            },
+            {
+              "text": "Màu orchid grey",
+              "value": 100960
+            },
+            {
+              "text": "Màu xanh két",
+              "value": 121591
+            },
+            {
+              "text": "Màu đen bóng",
+              "value": 136716
+            },
+            {
+              "text": "Màu cacao",
+              "value": 158046
+            },
+            {
+              "text": "Màu đen úa",
+              "value": 158047
+            },
+            {
+              "text": "Màu nâu cát",
+              "value": 158048
+            },
+            {
+              "text": "Màu xám khói",
+              "value": 158049
+            },
+            {
+              "text": "Màu xám đậm",
+              "value": 158050
+            },
+            {
+              "text": "Hồng sâm panh",
+              "value": 158051
+            },
+            {
+              "text": "Màu khói sáng",
+              "value": 158052
+            },
+            {
+              "text": "Màu trắng kem",
+              "value": 158053
+            },
+            {
+              "text": "Màu nâu đất",
+              "value": 158054
+            },
+            {
+              "text": "Màu đen nhũ",
+              "value": 158059
+            },
+            {
+              "text": "Màu xanh dương nhũ",
+              "value": 158060
+            },
+            {
+              "text": "Màu cherry ánh kim",
+              "value": 158061
+            },
+            {
+              "text": "Màu tím ánh kim",
+              "value": 158062
+            },
+            {
+              "text": "Xanh ánh kim",
+              "value": 158063
+            },
+            {
+              "text": "Màu xám khói",
+              "value": 158766
+            },
+            {
+              "text": "Màu đen nhạt",
+              "value": 170236
+            },
+            {
+              "text": "Màu đỏ hồng",
+              "value": 170237
+            },
+            {
+              "text": "Màu đen đậm",
+              "value": 170238
+            },
+            {
+              "text": "Màu vàng nhũ",
+              "value": 170239
+            },
+            {
+              "text": "Màu dạ quang sáng",
+              "value": 170240
+            }
+          ],
+          "group": "base",
+          "info": {
+            "help": [
+              "Indicate the color of the product. This color is used for filtering on the category pages of Lazada. Customers will be able to find products faster by selecting the color filter of their choice.",
+              "<a href="https://xform.lazada.vn/form/show.do" target="_blank">Xin vui lòng bấm vào đây để yêu cầu mới giá trị</a>"
+            ]
+          },
+          "allowImageUpload": True
+        },
+        {
+          "label": "Nước sản xuất",
+          "required": False,
+          "important": False,
+          "async": {
+            "matchUrl": "/product/newpublish/api.product.post.async?optType=catPropRenderAsyncOpt&catId=14984"
+          },
+          "showSearch": True,
+          "name": "p-100007394",
+          "uiType": "combobox",
+          "placeholder": "Xin vui lòng Nhập Vào hoặc chọn tùy chọn",
+          "illegalPatterns": [
+            {
+              "pattern": "[\\u4e00-\\u9fa5]",
+              "message": "No special characters allowed for custom properties e.g. #, <, >, etc."
+            }
+          ],
+          "secondaryProp": True,
+          "group": "base",
+          "info": {
+            "help": [
+              "Please choose the\xa0country\xa0of\xa0manufacture",
+              "<a href="https://xform.lazada.vn/form/show.do" target="_blank">Xin vui lòng bấm vào đây để yêu cầu mới giá trị</a>"
+            ]
+          },
+          "allowImageUpload": True
+        },
+        {
+          "important": False,
+          "name": "p-100005645",
+          "uiType": "input",
+          "label": "Dòng sản phẩm",
+          "placeholder": "Đầu vào ở đây",
+          "illegalPatterns": [
+            {
+              "pattern": "[\\u4e00-\\u9fa5]",
+              "message": "No special characters allowed for custom properties e.g. #, <, >, etc."
+            }
+          ],
+          "secondaryProp": True,
+          "locale": {
+            "searchPlaceholder": "Search",
+            "cancel": "Cancel",
+            "selectAll": "Select All",
+            "edit": "Modify",
+            "hasSelect": "Selected",
+            "dialogTitle": "Chọn",
+            "type": "globalItemPropLocaleModel",
+            "ok": "Confirm",
+            "setting": "Settings"
+          },
+          "required": False,
+          "group": "base",
+          "info": {
+            "help": "Model"
+          },
+          "allowImageUpload": True
+        },
+        {
+          "label": "Đơn vị số liệu",
+          "required": False,
+          "important": False,
+          "async": {
+            "matchUrl": "/product/newpublish/api.product.post.async?optType=catPropRenderAsyncOpt&catId=14984"
+          },
+          "showSearch": True,
+          "name": "p-100007663",
+          "uiType": "combobox",
+          "placeholder": "Xin vui lòng Nhập Vào hoặc chọn tùy chọn",
+          "illegalPatterns": [
+            {
+              "pattern": "[\\u4e00-\\u9fa5]",
+              "message": "No special characters allowed for custom properties e.g. #, <, >, etc."
+            }
+          ],
+          "secondaryProp": True,
+          "group": "base",
+          "info": {
+            "help": "<a href="https://xform.lazada.vn/form/show.do" target="_blank">Xin vui lòng bấm vào đây để yêu cầu mới giá trị</a>"
+          },
+          "allowImageUpload": True
+        }
+      ],
+      "value": {},
+      "required": True,
+      "group": "base",
+      "info": {
+        "help": "Thuộc tính có vai trò rất quan trọng đến việc chọn lựa sản phẩm của khách hàng vì vậy hãy điền thuộc tính sản phẩm thật chính xác, đặc biệt là những mục có nhãn "key" để gia tăng khả năng hiển thị cho sản phẩm. Ngoài ra, các thông tin này còn giúp khách hàng hiểu rõ hơn về sản phẩm của bạn.",
+        "top": "Hãy điền thuộc tính để sản phẩm của bạn hiển thị tốt hơn. Các nhiều thuộc tính được điền, tỉ lệ khách hàng tìm thấy sản phẩm càng cao. Chúng tôi khuyến khích điền tất cả thuộc tính có nhãn "KEY"."
+      }
+    },
+    {
+      "important": False,
+      "visible": True,
+      "name": "description",
+      "uiType": "CustomEditor",
+      "iframeParams": {
+        "itemId": 947090429,
+        "sellerId": 200163978075,
+        "sellerName": "shoptanninh",
+        "beta": True,
+        "cloneProduction": False
+      },
+      "label": "Mô tả sản phẩm (Lorikeet)",
+      "value": {
+        "html": {},
+        "type": "html"
+      },
+      "required": False,
+      "hasOptions": True,
+      "group": "desc",
+      "info": {
+        "help": "Phần Mô tả sản phẩm cung cấp những thông tin hữu ích về sản phẩm để giúp khách hàng quyết định mua sắm."
+      }
+    },
+    {
+      "important": False,
+      "visible": True,
+      "name": "enDescription",
+      "uiType": "RichText",
+      "label": "Mô tả sản phẩm tiếng Anh (tùy chọn)",
+      "required": False,
+      "group": "desc",
+      "info": {
+        "help": "Phần Mô tả sản phẩm cung cấp những thông tin hữu ích về sản phẩm để giúp khách hàng quyết định mua sắm."
+      }
+    },
+    {
+      "visible": True,
+      "translateUrl": "/product/newpublish/api.product.post.async?optType=descLocaleSwitch",
+      "showCounter": True,
+      "name": "shortDescription",
+      "uiType": "ListEditor",
+      "label": "Đặc điểm nổi bật",
+      "languageList": [
+        {
+          "label": "Vietnamese",
+          "value": "vi_VN"
+        }
+      ],
+      "value": [
+        {
+          "label": "Vietnamese",
+          "key": "vi_VN"
+        }
+      ],
+      "required": False,
+      "group": "desc",
+      "info": {
+        "help": "Điền vào các thông tin nổi bật nhất của sản phẩm, nhằm giúp khách hàng dễ dàng quyết định mua sắm."
+      }
+    },
+    {
+      "visible": True,
+      "showCounter": True,
+      "name": "packageContent",
+      "uiType": "translateInput",
+      "multiLanguage": {
+        "dialog": {
+          "inputConfig": {
+            "maxLength": 255
+          },
+          "action": {
+            "method": "post",
+            "url": "/product/newpublish/api.product.post.async?optType=multiLanguageTranslate"
+          }
+        },
+        "iconType": "duoyuyan"
+      },
+      "label": "Bộ sản phẩm đầy đủ",
+      "illegalPatterns": [
+        {
+          "pattern": "[]",
+          "message": "The input title contains Chinese."
+        }
+      ],
+      "locale": {
+        "dialogDesc": "The multi-language is machine translated but you can edit manually.",
+        "edit": "Cài đặt Đa ngôn ngữ",
+        "ignore": "Ignore",
+        "dialogTitle": "Set up multi-language",
+        "dialogCancel": "Cancel",
+        "dialogOk": "Save",
+        "dialogTranslate": "Translate",
+        "type": "globalInput",
+        "tips": "Multi-language haven\"t been added for edited content. Go to "Set up multi-language" to synchronize.",
+        "setLanguage": "Thêm Đa ngôn ngữ",
+        "otherLanguage": "Other languages"
+      },
+      "value": [
+        {
+          "label": "Vietnamese",
+          "key": "vi_VN"
+        }
+      ],
+      "required": False,
+      "group": "desc",
+      "info": {
+        "help": "Ghi rõ các chi tiết mà người mua có thể nhận được trong kiện hàng"
+      }
+    },
+    {
+      "visible": True,
+      "name": "standaloneColorFamily",
+      "uiType": "ProductImage",
+      "hasImage": True,
+      "locale": {
+        "image": "Hình ảnh",
+        "cropFromList": "Cắt từ hình đã đăng tải",
+        "cropNew": "Cắt từ hình ảnh mới",
+        "tipContent": "Giá trị trùng lặp, vui lòng điều chỉnh",
+        "view": "Xem",
+        "images": "Các hình ảnh",
+        "upload": {
+          "thumbnail": "Thumbnail",
+          "clickHere": "Bấm vào đây",
+          "cropSizeTip": "Kích thước phải nằm trong khoảng từ 330x330 đến 5000x5000",
+          "cropError": "Cắt ảnh không thành công",
+          "duplicate": "Hình ảnh trùng lặp",
+          "title": "Đăng tải",
+          "uploadError": "Lỗi đăng tải",
+          "saveClose": "Lưu và đóng lại",
+          "addPicture": "Thêm hình ảnh",
+          "mainImage": "Hình ảnh chính",
+          "maxSizeError": "Dung lượng hình ảnh không được vượt quá 2M. Vui lòng đăng tải hình ảnh khác.",
+          "uploadTip1": "Kéo và thả hình ảnh bên dưới để tải lên.",
+          "width": "Chiều rộng",
+          "uploadTip4": "See Guidelines here",
+          "uploadTip2": "Nhiều hình ảnh có thể được tải lên cùng một lúc.",
+          "uploadTip3": "Tối thiểu 3 ảnh và Tối đa 8 ảnh, kích thước từ 330 x 330 đến 5000 x 5000 px. Hình ảnh tục tĩu bị nghiêm cấm.",
+          "uploadTips": "Kéo và thả hình ảnh để đăng tải. Tối đa 8 hình ảnh, kích cỡ từ 330x330 đến 5000x5000px. Hình ảnh tục tĩu bị nghiêm cấm.",
+          "mediaCenter": "Media Center",
+          "toCopy": "để sao chép hình ảnh từ SKU phía trên.",
+          "height": "Chiều cao"
+        },
+        "tipTitle": "Mẹo",
+        "type": "globalColorProp",
+        "collapse": "Sập",
+        "useDifferent": "Sử dụng hình thumbnail khác"
+      },
+      "value": {
+        "value": -1
+      },
+      "dataSource": [
+        {
+          "value": -1
+        }
+      ],
+      "maxLength": 200,
+      "imageConfig": {
+        "imageMaxWidth": 5000,
+        "imageMinWidth": 330,
+        "imageLength": 8,
+        "imageMinHeight": 330,
+        "goldLog": "/LazadaSellerCenter.AddProduct.Image",
+        "imageUploadUrl": "/image/upload",
+        "imagePropName": "__images__",
+        "imageSize": 2048,
+        "imageDownloadUrl": "/product/image/encode",
+        "imageMaxHeight": 5000,
+        "mediaCenterHost": "https://sellercenter.lazada.vn/mediacenter"
+      },
+      "group": "sale",
+      "info": {
+        "help": "tr(help@colorFamily)"
+      }
+    },
+    {
+      "visible": True,
+      "hasSaleProps": False,
+      "salewithoutpair": True,
+      "copyAttributes": [
+        "salePrice",
+        "skuBarcode",
+        "skuPrice"
+      ],
+      "label": "\nThông tin biến thể",
+      "locale": {
+        "cancel": "Hủy bỏ",
+        "copyFirst": "Copy thông tin SKU đầu tiên cho các SKU còn lại",
+        "copyFirstStock": "Copy số lượng của SKU đầu tiên cho các SKU còn lại",
+        "copyFirstPrice": "Copy giá SKU đầu tiên cho các SKU còn lại",
+        "addSku": "Thêm sản phẩm",
+        "promotionDate": "Ngày khuyến mãi",
+        "availability": "Hiển thị",
+        "history": "Lịch sử",
+        "type": "sku",
+        "done": "\nÁp dụng cho tất cả",
+        "success": "Thành công",
+        "copySuccess": "Sao chép thành công",
+        "calculate": "Tính toán"
+      },
+      "canEditSaleProp": True,
+      "required": True,
+      "sequence": [
+        "price",
+        "special_price",
+        "quantity",
+        "SellerSku",
+        "skuId",
+        "active",
+        "key",
+        "images"
+      ],
+      "batchAttributes": [
+        "price",
+        "quantity",
+        "SellerSku"
+      ],
+      "name": "sku",
+      "uiType": "SkuTableV2",
+      "rowLocked": False,
+      "attributes": {
+        "images": {
+          "important": False,
+          "name": "images",
+          "uiType": "hidden",
+          "label": "hình ảnh",
+          "required": False,
+          "info": {
+            "help": "Hình ảnh cần phải có ít nhất 500 x 500 pixel với tối đa 2000 x 2000 pixel."
+          }
+        },
+        "quantity": {
+          "important": False,
+          "min": "0",
+          "name": "quantity",
+          "uiType": "NumberPicker",
+          "label": "Số lượng",
+          "required": False,
+          "info": {}
+        },
+        "special_price": {
+          "precision": 2,
+          "label": "Giá đặc biệt",
+          "discountRateMin": 0.5,
+          "specialPriceMsg1": "The special price must be less than the price.",
+          "specialPriceMsg2": "The special price must be between $min and $max.",
+          "required": False,
+          "important": False,
+          "priceNotInputMsg": "Firstly please input the price",
+          "min": "0",
+          "name": "special_price",
+          "uiType": "SpecialPrice",
+          "discountRateMax": 1,
+          "info": {
+            "help": [
+              "Giá bán lẻ của sản phẩm cho chương trình khuyến mãi",
+              ". Tỷ lệ của các Đặc biệt giá để Giá phải được giữa 0.50 và 1.00"
+            ]
+          }
+        },
+        "price": {
+          "important": False,
+          "min": "0",
+          "precision": 2,
+          "name": "price",
+          "uiType": "NumberPicker",
+          "label": "Giá",
+          "required": True,
+          "info": {
+            "help": "Đây là số tiền khách hàng phải trả khi mua sản phẩm. Giá này đã bao gồm thuế GTGT. Các đơn vị được phân cách bởi dấu chấm."
+          }
+        },
+        "SellerSku": {
+          "important": False,
+          "checkVersion": "V2",
+          "name": "SellerSku",
+          "uiType": "input",
+          "label": "SellerSku",
+          "placeholder": "Optional",
+          "checkUrl": "/product/newpublish/api.product.post.async?optType=sellerSkuCheckAsyncOptV2",
+          "required": False,
+          "maxLength": 200,
+          "info": {
+            "help": "Mã định danh sản phẩm của Nhà bán hàng"
+          }
+        },
+        "active": {
+          "name": "active",
+          "uiType": "hidden"
+        },
+        "key": {
+          "name": "key",
+          "uiType": "hidden"
+        },
+        "skuId": {
+          "name": "skuId",
+          "uiType": "hidden"
+        }
+      },
+      "value": [],
+      "dataSource": [],
+      "group": "sale"
+    },
+    {
+      "important": False,
+      "visible": True,
+      "name": "warrantyType",
+      "uiType": "select",
+      "label": "Loại bảo hành",
+      "placeholder": "Chọn",
+      "dataSource": [
+        {
+          "text": "Bằng Hóa đơn mua hàng",
+          "value": 63502
+        },
+        {
+          "text": "Bằng Tem bảo hành",
+          "value": 63499
+        },
+        {
+          "text": "Bằng Phiếu bảo hành và Hóa đơn",
+          "value": 63482
+        },
+        {
+          "text": "Bằng Thẻ bảo hành và Hóa đơn",
+          "value": 63497
+        },
+        {
+          "text": "Bảo hành điện tử",
+          "value": 63508
+        },
+        {
+          "text": "Bảo hành Toàn cầu",
+          "value": 63507
+        },
+        {
+          "text": "Không Bảo hành",
+          "value": 63666
+        },
+        {
+          "text": "Bằng hộp sản phẩm hoặc Số seri",
+          "value": 63501
+        },
+        {
+          "text": "Nhà cung cấp trong nước bảo hành",
+          "value": 110010124
+        },
+        {
+          "text": "Bảo hành bởi Nhà sản xuất trong nước",
+          "value": 119085
+        },
+        {
+          "text": "Bảo hành bởi Nhà bán hàng nước ngoài",
+          "value": 119086
+        },
+        {
+          "text": "Bảo hành bởi nhà cung cấp trong nước",
+          "value": 119087
+        }
+      ],
+      "required": False,
+      "group": "package",
+      "info": {
+        "help": "tr(help@warrantyType)"
+      }
+    },
+    {
+      "important": False,
+      "visible": True,
+      "name": "warrantyPeriod",
+      "uiType": "select",
+      "label": "Thời gian bảo hành",
+      "placeholder": "Chọn",
+      "dataSource": [
+        {
+          "text": "1 tháng",
+          "value": 63415
+        },
+        {
+          "text": "2 tháng",
+          "value": 63429
+        },
+        {
+          "text": "3 tháng",
+          "value": 63434
+        },
+        {
+          "text": "4 tháng",
+          "value": 63431
+        },
+        {
+          "text": "5 tháng",
+          "value": 63428
+        },
+        {
+          "text": "6 tháng",
+          "value": 63437
+        },
+        {
+          "text": "7 tháng",
+          "value": 63439
+        },
+        {
+          "text": "8 tháng",
+          "value": 63478
+        },
+        {
+          "text": "9 tháng",
+          "value": 63464
+        },
+        {
+          "text": "10 tháng",
+          "value": 63416
+        },
+        {
+          "text": "11 tháng",
+          "value": 63418
+        },
+        {
+          "text": "12 months",
+          "value": 63423
+        },
+        {
+          "text": "18 tháng",
+          "value": 63422
+        },
+        {
+          "text": "2 năm",
+          "value": 63474
+        },
+        {
+          "text": "3 năm",
+          "value": 64006
+        },
+        {
+          "text": "4 năm",
+          "value": 64005
+        },
+        {
+          "text": "5 năm",
+          "value": 63430
+        },
+        {
+          "text": "6 năm",
+          "value": 63436
+        },
+        {
+          "text": "7 năm",
+          "value": 63438
+        },
+        {
+          "text": "15 tháng",
+          "value": 63421
+        },
+        {
+          "text": "8 năm",
+          "value": 63476
+        },
+        {
+          "text": "9 năm",
+          "value": 63479
+        },
+        {
+          "text": "10 năm",
+          "value": 63417
+        },
+        {
+          "text": "15 năm",
+          "value": 63420
+        },
+        {
+          "text": "20 năm",
+          "value": 63475
+        },
+        {
+          "text": "25 năm",
+          "value": 63465
+        },
+        {
+          "text": "Bảo hành trọn đời",
+          "value": 63506
+        },
+        {
+          "text": "50 Nămี",
+          "value": 63435
+        },
+        {
+          "text": "30 năm",
+          "value": 118427
+        }
+      ],
+      "required": False,
+      "group": "package",
+      "info": {
+        "help": "tr(help@warrantyPeriod)"
+      }
+    },
+    {
+      "visible": True,
+      "showCounter": True,
+      "name": "warrantyPolicy",
+      "uiType": "translateInput",
+      "multiLanguage": {
+        "dialog": {
+          "inputConfig": {
+            "maxLength": 255
+          },
+          "action": {
+            "method": "post",
+            "url": "/product/newpublish/api.product.post.async?optType=multiLanguageTranslate"
+          }
+        },
+        "iconType": "duoyuyan"
+      },
+      "label": "Chính sách Bảo hành",
+      "illegalPatterns": [
+        {
+          "pattern": "[]",
+          "message": "The input title contains Chinese."
+        }
+      ],
+      "locale": {
+        "dialogDesc": "The multi-language is machine translated but you can edit manually.",
+        "edit": "Cài đặt Đa ngôn ngữ",
+        "ignore": "Ignore",
+        "dialogTitle": "Set up multi-language",
+        "dialogCancel": "Cancel",
+        "dialogOk": "Save",
+        "dialogTranslate": "Translate",
+        "type": "globalInput",
+        "tips": "Multi-language haven\"t been added for edited content. Go to "Set up multi-language" to synchronize.",
+        "setLanguage": "Thêm Đa ngôn ngữ",
+        "otherLanguage": "Other languages"
+      },
+      "value": [
+        {
+          "label": "Vietnamese",
+          "key": "vi_VN"
+        },
+        {
+          "label": "English",
+          "key": "en_US"
+        }
+      ],
+      "required": False,
+      "group": "package",
+      "info": {
+        "help": "tr(help@warrantyPolicy)"
+      }
+    },
+    {
+      "important": False,
+      "visible": True,
+      "name": "dangerousGoods",
+      "uiType": "CheckboxGroup",
+      "multiple": True,
+      "label": "Chất liệu nguy hiểm",
+      "dataSource": [
+        {
+          "text": "Lỏng",
+          "value": 4742
+        },
+        {
+          "text": "Chất dễ cháy",
+          "value": 69272
+        },
+        {
+          "text": "Pin",
+          "value": 45311
+        },
+        {
+          "text": "None",
+          "value": 16802
+        }
+      ],
+      "required": False,
+      "group": "package",
+      "info": {
+        "help": "Vui lòng xác nhận sản phẩm của bạn có chứa pin, chất lỏng hoặc các thành phần dễ gây cháy nổ khác để đảm bảo quá trình vận chuyển diễn ra an toàn. Bạn có thể lựa chọn nhiều mục"
+      }
+    },
+    {
+      "visible": True,
+      "precision": 3,
+      "name": "logisticsWeight",
+      "uiType": "PackageWeight",
+      "maximum": 300,
+      "step": 0.01,
+      "label": "Package Weight (kg)",
+      "locale": {
+        "priceUnitText": "kg/piece",
+        "appendexSuffixLabel": "kg",
+        "customizeWeightText": "Custom weight",
+        "helpInfo": "When you complete fill in self-definition weight of information after, system will in accordance with you of set to calculation total freight ignore Products Packaging size;\r\n\r\nFor volume major in actual weight of products please choose carefully fill in, can calculation the volume heavy after fill in.",
+        "customizeText4": "pieces each time, and the weight increases.",
+        "type": "logisticsWeight",
+        "customizeText1": "Buyers purchase",
+        "customizeText3": "On this basis, buyers buy",
+        "customizeText2": "or less, and calculate shipping cost based on the weight of a single product."
+      },
+      "minimum": 0,
+      "required": True,
+      "group": "package",
+      "info": {
+        "help": "Vui lòng đảm bảo nhập đúng khối lượng đóng gói (kg) và kích thước đóng gói (cm) để tránh sai phí vận chuyển. Bấm vào đây để xem thêm thông tin https://bit.ly/2D6ahoBn"
+      }
+    },
+    {
+      "visible": True,
+      "precision": 2,
+      "name": "logisticsSize",
+      "uiType": "PackageVolume",
+      "maximum": 300,
+      "step": 0.01,
+      "label": "Kích thước kiện hàng sau đóng gói (cm)",
+      "locale": {
+        "volume": "${volume}cm³ per piece",
+        "length": "Chiều dài (cm)",
+        "width": "Chiều rộng (cm)",
+        "height": "Cao (cm)"
+      },
+      "minimum": 0,
+      "required": True,
+      "group": "package",
+      "info": {
+        "help": "Weight and packaging size: accurate fill in packaging after weight and product packaging size, avoid for fill in error and cause of shipping loss and trading reduce."
+      }
+    },
+    {
+      "visible": False,
+      "name": "shipping_fee",
+      "uiType": "ShippingFee",
+      "group": "package"
+    },
+    {
+      "visible": True,
+      "name": "indexTab",
+      "group": "layout"
+    },
+    {
+      "visible": True,
+      "name": "basicBlock",
+      "group": "layout"
+    },
+    {
+      "visible": True,
+      "name": "detailBlock",
+      "group": "layout"
+    },
+    {
+      "visible": True,
+      "name": "skuBlock",
+      "group": "layout"
+    },
+    {
+      "visible": True,
+      "name": "warrantyBlock",
+      "group": "layout"
+    },
+    {
+      "visible": False,
+      "name": "eticketBlock",
+      "group": "layout"
+    },
+    {
+      "visible": False,
+      "name": "shopee_id",
+      "group": "layout"
+    }
+  ],
+  "type": None,
+  "errorCode": None,
+  "error": None,
+  "models": None,
+  "components": None,
+  "code": None,
+  "request": None,
+  "rules": None,
+  "msg": None,
+  "group": None,
+  "showReporter": False,
+  "reportUrl": None,
+  "next": None,
+  "firstErrorCode": None
+}

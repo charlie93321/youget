@@ -1,0 +1,1681 @@
+{
+  "success": True,
+  "ignore": True,
+  "errorCodes": [],
+  "model": None,
+  "successMessage": None,
+  "message": None,
+  "pageDO": None,
+  "extra": {},
+  "data": [
+    {
+      "serviceType": "ifm",
+      "translateIgnoreFields": [
+        "html"
+      ],
+      "currentLogonRole": "SELLER",
+      "edit": False,
+      "switchId": "947090429",
+      "protocolFormat": "DADA",
+      "renderTimestamp": 1604718820866,
+      "catId": 1462,
+      "originalLocale": "vi_VN",
+      "sellerId": 200163978075,
+      "gpf_productNames": [],
+      "name": "global",
+      "uiType": "ProductRoute",
+      "gpf_identity": "marketplace-item-100",
+      "dict": {
+        "bulkEdit": "tr(data.bulkEdit.lazada)",
+        "useSkuImageAsThumbnail": "The first variant image will be used as variation thumbnail.",
+        "requireSkuOrMainImages": "Image is missing. Please upload at least 1 image.",
+        "skuImageLengthExceeded": "tr(data.skuImageLengthExceeded.lazada)",
+        "requireFullSkuImages": "You must add all the variation images or leave all of them empty."
+      },
+      "id": 947090429,
+      "value": {
+        "renderTimestamp": 1604718820866,
+        "originalLocale": "vi_VN",
+        "sellerId": 200163978075,
+        "id": 947090429
+      },
+      "currencyCode": "VND",
+      "Delivery_Option_sof": False
+    },
+    {
+      "name": "dict",
+      "dict": {
+        "bulkEdit": "tr(data.bulkEdit.lazada)",
+        "useSkuImageAsThumbnail": "The first variant image will be used as variation thumbnail.",
+        "requireSkuOrMainImages": "Image is missing. Please upload at least 1 image.",
+        "skuImageLengthExceeded": "tr(data.skuImageLengthExceeded.lazada)",
+        "requireFullSkuImages": "You must add all the variation images or leave all of them empty."
+      },
+      "group": "basic"
+    },
+    {
+      "maxItems": 8,
+      "visible": True,
+      "rule": {
+        "maxSize": 5242880,
+        "minSize": 0,
+        "accept": [
+          "jpg",
+          "png",
+          "jpeg"
+        ]
+      },
+      "label": "Product Images",
+      "suggest": {
+        "minHeight": 800,
+        "maxHeight": 5000,
+        "iconType": "prompt",
+        "minWidth": 750,
+        "text": "Image not meeting requirements! <br /> \nA. Required aspect ratio: 1:1. Minimum pixel: 800X800 <br /> \nB. Required aspect ratio: 3:4. Minimum pixel: 750X1000 <br /> \nC. Do not add other information besides the product on the product image, such as watermark, psoriasis, etc.",
+        "maxWidth": 5000
+      },
+      "locale": {
+        "widthNoLessThan": "Picture width needs to be larger than $ {minWidth} px. If the size is right but you"re still having troubles uploading, check if the picture format is following the requirements.",
+        "heightNoLessThan": "Pictures height can"t less than ${minHeight}px.",
+        "fixedWidth": "You can only select width for ${fixedWidth} px of pictures.",
+        "tooLarge": "Pictures file can"t exceed ${maxSize}",
+        "systemAbnormal": "System error. Please later try again.",
+        "imageBank": "Pictures bank",
+        "uploadFromLocal": "Upload",
+        "type": "photoBankImages",
+        "uploadText": "Add",
+        "error": "Error",
+        "uploadFailedTryAgain": "Pictures format don"t meet the requirements or analysis failure please re-upload, or replacement other format of pictures.",
+        "redundant": "Please don"t repeat select the same bed pictures.",
+        "fixedHeight": "You can only select height for ${fixedHeight}px of pictures.",
+        "confirm": "Confirm",
+        "heightNoMoreThan": "Pictures height can"t greater than ${maxHeight}px.",
+        "fixedSize": "You can only select size for${fixedWidth}x${fixedHeight} of pictures.",
+        "tooSmall": "Pictures file can"t be less than ${minSize}",
+        "ratioIllegal": "Please upload length and width proportion for ${ratio} of pictures.",
+        "warning": "Warning",
+        "uploadFromBank": "Media Center",
+        "noSizeInfo": "The picture you selected contains no sizing information. Please reselect.",
+        "widthNoMoreThan": "Picture width can"t exceed ${maxWidth}px.",
+        "extIllegal": "Please upload the following type of photos: ${accept}",
+        "reachMaxMsg": "Most can only add ${maxItems} bed pictures."
+      },
+      "title": "Photo Bank",
+      "required": False,
+      "imageConfig": {
+        "imageMaxWidth": 5000,
+        "imageMinWidth": 330,
+        "imageLength": 8,
+        "imageMinHeight": 330,
+        "goldLog": "/LazadaSellerCenter.AddProduct.Image",
+        "imageUploadUrl": "/image/upload",
+        "imagePropName": "__images__",
+        "imageSize": 2048,
+        "imageDownloadUrl": "/product/image/encode",
+        "imageMaxHeight": 5000,
+        "mediaCenterHost": "https://sellercenter.lazada.vn/mediacenter"
+      },
+      "allowEmpty": True,
+      "name": "mainImage",
+      "uiType": "MainImage",
+      "showImageBankBtn": True,
+      "promptImages": [],
+      "imageBankConfig": {
+        "dialogType": "dialog",
+        "sendDataType": "url",
+        "winInfo": {
+          "width": 1016,
+          "height": 678
+        },
+        "disabled": False,
+        "openTabUrl": False,
+        "config": {
+          "single": False,
+          "hideBanner": True,
+          "atoken": "temp",
+          "active": "select",
+          "height": 678
+        }
+      },
+      "prompts": [
+        "Front",
+        "Back",
+        "Real shot",
+        "Side view",
+        "Close-up",
+        "Close-up",
+        "Close-up",
+        "Close-up"
+      ],
+      "group": "base",
+      "info": {
+        "help": "Product images are the main images of your item. For some cases and categories, you can also upload variant level image below on Price & Stock section.",
+        "top": "This is the main image of your product page. Multiple images can be uploaded at once. Maximum 8 pictures. Size between 330x330 and 5000x5000 px. Obscene image is strictly prohibited."
+      }
+    },
+    {
+      "checkNotice": {
+        "method": "post",
+        "url": "/product/newpublish/api.product.post.async?optType=titleBrandWarn"
+      },
+      "visible": True,
+      "showCounter": True,
+      "multiLanguage": {
+        "dialog": {
+          "inputConfig": {
+            "maxLength": 255
+          },
+          "action": {
+            "method": "post",
+            "url": "/product/newpublish/api.product.post.async?optType=multiLanguageTranslate"
+          }
+        },
+        "iconType": "duoyuyan"
+      },
+      "label": "Product Name",
+      "locale": {
+        "dialogDesc": "This feature allows you to translate automatically, but you can edit manually",
+        "edit": "Setup Multi-Languages",
+        "ignore": "Ignore",
+        "dialogTitle": "Setup Multi-Languages",
+        "dialogCancel": "Cancel",
+        "dialogOk": "Save",
+        "dialogTranslate": "Translate",
+        "type": "globalInput",
+        "tips": "Multi-Languages hasn\"t been added for the edited content. Go to "Setup Multi-Languages" to synchronize.",
+        "setLanguage": "Add Multi-Languages",
+        "otherLanguage": "Other languages"
+      },
+      "required": True,
+      "name": "title",
+      "uiType": "translateInput",
+      "placeholder": "Ex. Nikon Coolpix A300 Digital Camera",
+      "illegalPatterns": [
+        {
+          "pattern": "[]",
+          "message": "The input title contains Chinese."
+        }
+      ],
+      "value": [
+        {
+          "label": "Vietnamese",
+          "key": "vi_VN"
+        },
+        {
+          "label": "English",
+          "key": "en_US"
+        }
+      ],
+      "maxLength": 255,
+      "hasLimitHint": True,
+      "group": "base",
+      "info": {
+        "help": "The name of your product should consist of the Brand, Model, important product"s features and, if available, Color.Color should be put in brackets at the end of the name. Product names must be in Title Case and should not contain any special characters (# ! ?) except if it"s a part of a trade name. For a better listing quality, please find the correct naming convention in the HELP, Getting Started tab on the top right corner of Seller Center screen."
+      }
+    },
+    {
+      "itemDirection": "ver",
+      "visible": False,
+      "name": "categorySuggest",
+      "uiType": "RadioGroup",
+      "label": "Category Suggestions",
+      "required": False,
+      "group": "base"
+    },
+    {
+      "itemDirection": "ver",
+      "visible": False,
+      "name": "imgCategorySuggest",
+      "uiType": "RadioGroup",
+      "label": "Category Suggestions",
+      "required": False,
+      "group": "base"
+    },
+    {
+      "showCascade": True,
+      "showRecently": True,
+      "switchSubmitUrl": "/product/newpublish/api.product.post.switch.submit",
+      "hasEdit": False,
+      "showPath": True,
+      "locale": {
+        "cancel": "Cancel",
+        "historyPlaceholder": "Recently used",
+        "searchPlaceholder": "Type product name (e.g. mp3) or product ID or URL of an existing product",
+        "pathLabel": "Current selection:",
+        "recentlyUse": "Recently used",
+        "clear": "Clear",
+        "cascadeSearchPlaceholder": "Keyword",
+        "searchLabel": "Search",
+        "type": "categoryPath",
+        "ok": "Confirm",
+        "tips": "<div style="margin-top:-10px">Don\"t have a suitable category option? <a target="_blank" href="https://cpv.alibaba.com/report/categoryIssueReport.htm?spm=5261.ae_offer_item_post_product.0.0.6b7bbdf9ARJDBv&channelId=5">Click here to submit</a> </br>\r\n\r\nHaven\"t applied for category rights yet? <a target="_blank" href="https://userauth.aliexpress.com/invite/myPermissionList.htm?type=category">Click here to apply</a></div>",
+        "content": "Changing category will not effect basic attributes such as \"Name\", \"Brand\", \"Description\" or product ratings and performance history. However, some category-specific attributes may be removed.\r\n\r\nAny changes will not be final until you click "Publish". Do you still want to continue?"
+      },
+      "required": True,
+      "historyPlaceholder": "Recently used",
+      "showSearch": False,
+      "searchUrl": "/product/newpublish/api.product.post.category.async?optType=searchCategory",
+      "syncSearch": False,
+      "value": {
+        "path": [
+          "Sports & Outdoors",
+          "Sports Equipment",
+          "Racket Sports",
+          "Squash",
+          "Rackets"
+        ],
+        "spell": "Rackets",
+        "idpath": [
+          1355,
+          10100280,
+          6591,
+          1459,
+          1462
+        ],
+        "name": "Rackets",
+        "id": 1462,
+        "leaf": True
+      },
+      "group": "base",
+      "renderUrl": "/product/newpublish/api.product.post.render.v1",
+      "maxItems": 1,
+      "visible": True,
+      "currentPath": [],
+      "label": "Category",
+      "filters": [],
+      "openUrl": False,
+      "realTime": True,
+      "historyUrl": "/product/newpublish/api.product.post.category.async?optType=queryCategoryHistory",
+      "selectLeaf": True,
+      "misPrompt": {
+        "showMisPrompt": False,
+        "showButton": False,
+        "misCatPrompt": "We find that the category selected is incorrect. \n<br/>Recommended Category: <b>{0}</b>.",
+        "promoteCatId": 0,
+        "promoteButton": "Correct the Category"
+      },
+      "showFilter": False,
+      "showHistory": False,
+      "name": "categoryPath",
+      "uiType": "catInput",
+      "catCascadeUrl": "/product/newpublish/api.product.post.category.async?optType=queryCategoryCascade",
+      "selectParent": False,
+      "selectedCats": []
+    },
+    {
+      "important": False,
+      "visible": True,
+      "hasMediaCenter": True,
+      "name": "video",
+      "uiType": "Videos",
+      "label": "Video URL",
+      "required": False,
+      "maxLength": 128,
+      "group": "base",
+      "info": {}
+    },
+    {
+      "visible": True,
+      "name": "catProperty",
+      "uiType": "catProp",
+      "label": "Product Attributes",
+      "locale": {
+        "clear": "Clear all",
+        "type": "catPropertyLocaleModel"
+      },
+      "hideSecondaryProp": True,
+      "dataSource": [
+        {
+          "important": True,
+          "async": {
+            "method": "POST",
+            "searchUrl": "/product/newpublish/api.product.post.async?optType=searchBrandAsyncOpt"
+          },
+          "name": "p-20000",
+          "uiType": "searchSelect",
+          "label": "Brand",
+          "placeholder": "Select",
+          "locale": {
+            "noBrand": "No Brand",
+            "type": "brandPropLocaleModel"
+          },
+          "required": True,
+          "group": "base",
+          "info": {
+            "help": [
+              "Search your brand by typing the keyword. If your brand is not in the list, click No Brand button or request to create a new brand here",
+              "<a href="/product/publish/brand" target="_blank">Please click here to request for a new brand</a>"
+            ]
+          },
+          "allowImageUpload": True
+        },
+        {
+          "label": "Racquet Stringing",
+          "required": False,
+          "important": False,
+          "async": {
+            "matchUrl": "/product/newpublish/api.product.post.async?optType=catPropRenderAsyncOpt&catId=1462"
+          },
+          "showSearch": True,
+          "name": "p-100006385",
+          "uiType": "combobox",
+          "placeholder": "Please Input or select option",
+          "illegalPatterns": [
+            {
+              "pattern": "[\\u4e00-\\u9fa5]",
+              "message": "No special characters allowed for custom properties e.g. #, <, >, etc."
+            }
+          ],
+          "secondaryProp": True,
+          "dataSource": [
+            {
+              "text": "Strung",
+              "value": 52894
+            },
+            {
+              "text": "Unstrung",
+              "value": 52893
+            }
+          ],
+          "group": "base",
+          "info": {
+            "help": [
+              "Racquet Stringing",
+              "<a href="https://xform.lazada.vn/form/show.do" target="_blank">Please click here to request new values</a>"
+            ]
+          },
+          "allowImageUpload": True
+        },
+        {
+          "label": "Racquet Material",
+          "required": False,
+          "important": False,
+          "async": {
+            "matchUrl": "/product/newpublish/api.product.post.async?optType=catPropRenderAsyncOpt&catId=1462"
+          },
+          "showSearch": True,
+          "name": "p-100006387",
+          "uiType": "combobox",
+          "placeholder": "Please Input or select option",
+          "illegalPatterns": [
+            {
+              "pattern": "[\\u4e00-\\u9fa5]",
+              "message": "No special characters allowed for custom properties e.g. #, <, >, etc."
+            }
+          ],
+          "secondaryProp": True,
+          "dataSource": [
+            {
+              "text": "Aluminum",
+              "value": 47763
+            },
+            {
+              "text": "Graphite Steel",
+              "value": 63035
+            },
+            {
+              "text": "Carbon Graphite",
+              "value": 106801
+            },
+            {
+              "text": "Nano carbon",
+              "value": 106802
+            },
+            {
+              "text": "Hi Tech Graphite",
+              "value": 106803
+            }
+          ],
+          "group": "base",
+          "info": {
+            "help": [
+              "Material of Racquets",
+              "<a href="https://xform.lazada.vn/form/show.do" target="_blank">Please click here to request new values</a>"
+            ]
+          },
+          "allowImageUpload": True
+        },
+        {
+          "important": False,
+          "name": "p-100007394",
+          "uiType": "input",
+          "label": "Country of origin",
+          "placeholder": "Input here",
+          "illegalPatterns": [
+            {
+              "pattern": "[\\u4e00-\\u9fa5]",
+              "message": "No special characters allowed for custom properties e.g. #, <, >, etc."
+            }
+          ],
+          "secondaryProp": True,
+          "locale": {
+            "searchPlaceholder": "Search",
+            "cancel": "Cancel",
+            "selectAll": "Select All",
+            "edit": "Modify",
+            "hasSelect": "Selected",
+            "dialogTitle": "Select",
+            "type": "globalItemPropLocaleModel",
+            "ok": "Confirm",
+            "setting": "Settings"
+          },
+          "required": False,
+          "group": "base",
+          "info": {
+            "help": "Please choose the\xa0country\xa0of\xa0manufacture"
+          },
+          "allowImageUpload": True
+        },
+        {
+          "important": True,
+          "name": "p-100005645",
+          "uiType": "input",
+          "label": "Model",
+          "placeholder": "Input here",
+          "illegalPatterns": [
+            {
+              "pattern": "[\\u4e00-\\u9fa5]",
+              "message": "No special characters allowed for custom properties e.g. #, <, >, etc."
+            }
+          ],
+          "secondaryProp": True,
+          "locale": {
+            "searchPlaceholder": "Search",
+            "cancel": "Cancel",
+            "selectAll": "Select All",
+            "edit": "Modify",
+            "hasSelect": "Selected",
+            "dialogTitle": "Select",
+            "type": "globalItemPropLocaleModel",
+            "ok": "Confirm",
+            "setting": "Settings"
+          },
+          "required": False,
+          "group": "base",
+          "info": {},
+          "allowImageUpload": True
+        },
+        {
+          "label": "Age Group",
+          "required": False,
+          "important": False,
+          "async": {
+            "matchUrl": "/product/newpublish/api.product.post.async?optType=catPropRenderAsyncOpt&catId=1462"
+          },
+          "showSearch": True,
+          "name": "p-100006188",
+          "uiType": "select",
+          "placeholder": "Select",
+          "illegalPatterns": [
+            {
+              "pattern": "[\\u4e00-\\u9fa5]",
+              "message": "No special characters allowed for custom properties e.g. #, <, >, etc."
+            }
+          ],
+          "secondaryProp": True,
+          "dataSource": [
+            {
+              "text": "Adults",
+              "value": 63039
+            },
+            {
+              "text": "Youth",
+              "value": 63037
+            },
+            {
+              "text": "Children",
+              "value": 63041
+            }
+          ],
+          "group": "base",
+          "info": {
+            "help": [
+              "Recommended Age suitable to use the product",
+              "<a href="https://xform.lazada.vn/form/show.do" target="_blank">Please click here to request new values</a>"
+            ]
+          },
+          "allowImageUpload": True
+        }
+      ],
+      "value": {},
+      "required": True,
+      "group": "base",
+      "info": {
+        "help": "Product Attributes are important for customers when choosing products. Please fill in the product attributes accurately, especially those marked as "key" by the system, in order to increase the chance of exposure. Filling in product attributes can also allow buyers to have a more comprehensive understanding of your products.",
+        "top": "Boost your item"s searchability by filling-up the Key Product Information marked with KEY. The more you fill-up, the easier for buyers to find your product."
+      }
+    },
+    {
+      "important": False,
+      "visible": True,
+      "name": "description",
+      "uiType": "CustomEditor",
+      "iframeParams": {
+        "itemId": 947090429,
+        "sellerId": 200163978075,
+        "sellerName": "shoptanninh",
+        "beta": True,
+        "cloneProduction": False
+      },
+      "label": "Long Description (Lorikeet)",
+      "value": {
+        "html": {},
+        "type": "html"
+      },
+      "required": False,
+      "hasOptions": True,
+      "group": "desc",
+      "info": {
+        "help": "The product description should give the customer usefull information about the product to ensure a purchase."
+      }
+    },
+    {
+      "important": False,
+      "visible": True,
+      "name": "enDescription",
+      "uiType": "RichText",
+      "label": "English Long Description (optional)",
+      "required": False,
+      "group": "desc",
+      "info": {
+        "help": "The product description should give the customer usefull information about the product to ensure a purchase."
+      }
+    },
+    {
+      "visible": True,
+      "translateUrl": "/product/newpublish/api.product.post.async?optType=descLocaleSwitch",
+      "showCounter": True,
+      "name": "shortDescription",
+      "uiType": "ListEditor",
+      "label": "Short Description",
+      "languageList": [
+        {
+          "label": "Vietnamese",
+          "value": "vi_VN"
+        }
+      ],
+      "value": [
+        {
+          "label": "Vietnamese",
+          "key": "vi_VN"
+        }
+      ],
+      "required": False,
+      "group": "desc",
+      "info": {
+        "help": "Enter short major highlights of the product, to make the purchase decision for the customer easier."
+      }
+    },
+    {
+      "visible": True,
+      "showCounter": True,
+      "name": "packageContent",
+      "uiType": "translateInput",
+      "multiLanguage": {
+        "dialog": {
+          "inputConfig": {
+            "maxLength": 255
+          },
+          "action": {
+            "method": "post",
+            "url": "/product/newpublish/api.product.post.async?optType=multiLanguageTranslate"
+          }
+        },
+        "iconType": "duoyuyan"
+      },
+      "label": "What"s in the box",
+      "illegalPatterns": [
+        {
+          "pattern": "[]",
+          "message": "The input title contains Chinese."
+        }
+      ],
+      "locale": {
+        "dialogDesc": "The multi-language is machine translated but you can edit manually.",
+        "edit": "Setup Multi-Languages",
+        "ignore": "Ignore",
+        "dialogTitle": "Set up multi-language",
+        "dialogCancel": "Cancel",
+        "dialogOk": "Save",
+        "dialogTranslate": "Translate",
+        "type": "globalInput",
+        "tips": "Multi-language haven\"t been added for edited content. Go to "Set up multi-language" to synchronize.",
+        "setLanguage": "Add Multi-Languages",
+        "otherLanguage": "Other languages"
+      },
+      "value": [
+        {
+          "label": "Vietnamese",
+          "key": "vi_VN"
+        }
+      ],
+      "required": False,
+      "group": "desc",
+      "info": {
+        "help": "Indicates the items inside the box that customer will get"
+      }
+    },
+    {
+      "visible": True,
+      "bizType": "saleProp",
+      "hasThumbnail": True,
+      "multiple": True,
+      "hasImage": True,
+      "label": "Color Family",
+      "locale": {
+        "image": "Image",
+        "cropFromList": "Crop from uploaded images",
+        "cropNew": "Upload a new image",
+        "tipContent": "Duplicate current value, please modify",
+        "view": "View",
+        "images": "Images",
+        "upload": {
+          "thumbnail": "Thumbnail",
+          "clickHere": "Click here",
+          "cropSizeTip": "Dimensions should be between 330x330 and 2000x2000",
+          "cropError": "Image clipping failed",
+          "duplicate": "Duplicate Pictures",
+          "title": "Upload",
+          "uploadError": "Upload Error",
+          "saveClose": "save and close",
+          "addPicture": "Add Picture",
+          "mainImage": "Main Image",
+          "maxSizeError": "Image size should not exceed 2M. Upload a different image.",
+          "uploadTip1": "Drag and drop pictures below to upload.",
+          "width": "width",
+          "uploadTip4": "See Guidelines here",
+          "uploadTip2": "Multiple images can be uploaded at once.",
+          "uploadTip3": "Maximum 8 pictures. Size between 500x500 and 2000x2000 px. Obscene image is strictly prohibited.",
+          "uploadTips": "Drag and drop pictures below to upload. Maximum 8 pictures, size between 500x500 and 2000x2000 px. Obscene image is strictly prohibited.",
+          "mediaCenter": "Media Center",
+          "toCopy": "to copy images from above SKU.",
+          "height": "height"
+        },
+        "tipTitle": "Tips",
+        "type": "globalColorProp",
+        "collapse": "Collapse",
+        "useDifferent": "Use a different thumbnail"
+      },
+      "customize": True,
+      "required": False,
+      "imageConfig": {
+        "imageMaxWidth": 5000,
+        "imageMinWidth": 330,
+        "imageLength": 8,
+        "imageMinHeight": 330,
+        "goldLog": "/LazadaSellerCenter.AddProduct.Image",
+        "imageUploadUrl": "/image/upload",
+        "imagePropName": "__images__",
+        "imageSize": 2048,
+        "imageDownloadUrl": "/product/image/encode",
+        "imageMaxHeight": 5000,
+        "mediaCenterHost": "https://sellercenter.lazada.vn/mediacenter"
+      },
+      "important": False,
+      "aliasPattern": "^[A-Za-z\\d\\s\\.\\(\\)\\-]{0,20}$",
+      "showSearch": True,
+      "name": "p-100005652",
+      "uiType": "SalesSelect",
+      "thumbnailConfig": {
+        "imageMaxWidth": 1920,
+        "imageMinWidth": 330,
+        "imageLength": 1,
+        "imageMinHeight": 330,
+        "imageUploadUrl": "/image/upload",
+        "imagePropName": "color_thumbnail",
+        "imageSize": 2048,
+        "imageDownloadUrl": "/product/image/encode",
+        "imageMaxHeight": 1920,
+        "mediaCenterHost": "https://sellercenter.lazada.vn/mediacenter"
+      },
+      "dataSource": [
+        {
+          "text": "Cherry",
+          "value": 205
+        },
+        {
+          "text": "Galaxy",
+          "value": 412
+        },
+        {
+          "text": "Blue",
+          "value": 1239
+        },
+        {
+          "text": "Mango",
+          "value": 1472
+        },
+        {
+          "text": "Camel",
+          "value": 1943
+        },
+        {
+          "text": "Gold",
+          "value": 4477
+        },
+        {
+          "text": "Mint",
+          "value": 5447
+        },
+        {
+          "text": "Orange",
+          "value": 7314
+        },
+        {
+          "text": "Ivory",
+          "value": 8693
+        },
+        {
+          "text": "Green",
+          "value": 8700
+        },
+        {
+          "text": "Violet",
+          "value": 9510
+        },
+        {
+          "text": "Lavender",
+          "value": 10261
+        },
+        {
+          "text": "Clear",
+          "value": 16050
+        },
+        {
+          "text": "Not Specified",
+          "value": 16918
+        },
+        {
+          "text": "Deep Blue",
+          "value": 18135
+        },
+        {
+          "text": "Neon",
+          "value": 18706
+        },
+        {
+          "text": "Rainbow",
+          "value": 18788
+        },
+        {
+          "text": "Chocolate",
+          "value": 21198
+        },
+        {
+          "text": "Magenta",
+          "value": 24334
+        },
+        {
+          "text": "Mahogany",
+          "value": 24347
+        },
+        {
+          "text": "Jade",
+          "value": 34214
+        },
+        {
+          "text": "White",
+          "value": 35520
+        },
+        {
+          "text": "Olive",
+          "value": 37745
+        },
+        {
+          "text": "Purple",
+          "value": 38050
+        },
+        {
+          "text": "Maroon",
+          "value": 41500
+        },
+        {
+          "text": "Red",
+          "value": 41816
+        },
+        {
+          "text": "Silver",
+          "value": 45114
+        },
+        {
+          "text": "Bronze",
+          "value": 45128
+        },
+        {
+          "text": "Blueberry",
+          "value": 45342
+        },
+        {
+          "text": "Yellow",
+          "value": 47005
+        },
+        {
+          "text": "Coffee",
+          "value": 47549
+        },
+        {
+          "text": "Cream",
+          "value": 47564
+        },
+        {
+          "text": "Multicolor",
+          "value": 47576
+        },
+        {
+          "text": "Grey",
+          "value": 47588
+        },
+        {
+          "text": "Floral",
+          "value": 47643
+        },
+        {
+          "text": "Cinnamon",
+          "value": 47716
+        },
+        {
+          "text": "Chestnut",
+          "value": 52820
+        },
+        {
+          "text": "Neutral",
+          "value": 61231
+        },
+        {
+          "text": "Champagne",
+          "value": 61324
+        },
+        {
+          "text": "Matte Black",
+          "value": 61681
+        },
+        {
+          "text": "Turquoise",
+          "value": 61721
+        },
+        {
+          "text": "Dark Brown",
+          "value": 62347
+        },
+        {
+          "text": "Rose Gold",
+          "value": 62596
+        },
+        {
+          "text": "Apricot",
+          "value": 63483
+        },
+        {
+          "text": "Avocado",
+          "value": 63498
+        },
+        {
+          "text": "Blush Pink",
+          "value": 63511
+        },
+        {
+          "text": "Charcoal",
+          "value": 63534
+        },
+        {
+          "text": "Watermelon red",
+          "value": 63550
+        },
+        {
+          "text": "Burgundy",
+          "value": 63554
+        },
+        {
+          "text": "Chili Red",
+          "value": 63567
+        },
+        {
+          "text": "Hotpink",
+          "value": 63617
+        },
+        {
+          "text": "Khaki",
+          "value": 63622
+        },
+        {
+          "text": "Off White",
+          "value": 63643
+        },
+        {
+          "text": "Tan",
+          "value": 63748
+        },
+        {
+          "text": "Light Grey",
+          "value": 63822
+        },
+        {
+          "text": "Army Green",
+          "value": 63823
+        },
+        {
+          "text": "Fluorescent Green",
+          "value": 63826
+        },
+        {
+          "text": "Light green",
+          "value": 63827
+        },
+        {
+          "text": "Fluorescent Yellow",
+          "value": 63829
+        },
+        {
+          "text": "Light yellow",
+          "value": 63830
+        },
+        {
+          "text": "Dark blue",
+          "value": 63831
+        },
+        {
+          "text": "Lemon Yellow",
+          "value": 63832
+        },
+        {
+          "text": "Lake Blue",
+          "value": 63833
+        },
+        {
+          "text": "Emerald Green",
+          "value": 63835
+        },
+        {
+          "text": "Light blue",
+          "value": 63845
+        },
+        {
+          "text": "Navy Blue",
+          "value": 63846
+        },
+        {
+          "text": "Deep green",
+          "value": 63847
+        },
+        {
+          "text": "Pink",
+          "value": 63858
+        },
+        {
+          "text": "Black",
+          "value": 63859
+        },
+        {
+          "text": "Brown",
+          "value": 63861
+        },
+        {
+          "text": "Beige",
+          "value": 63862
+        },
+        {
+          "text": "Rose",
+          "value": 63879
+        },
+        {
+          "text": "Aqua",
+          "value": 64008
+        },
+        {
+          "text": "Peanut",
+          "value": 66714
+        },
+        {
+          "text": "…",
+          "value": 68144
+        },
+        {
+          "text": "Peach",
+          "value": 70514
+        },
+        {
+          "text": "Dark Grey",
+          "value": 75915
+        },
+        {
+          "text": "Fuchsia",
+          "value": 76157
+        },
+        {
+          "text": "Blue Gray",
+          "value": 76158
+        },
+        {
+          "text": "Sand",
+          "value": 85920
+        },
+        {
+          "text": "Orchid Grey",
+          "value": 100960
+        },
+        {
+          "text": "Teal",
+          "value": 121591
+        },
+        {
+          "text": "Jet Black",
+          "value": 136716
+        },
+        {
+          "text": "Cacao",
+          "value": 158046
+        },
+        {
+          "text": "Wither Black",
+          "value": 158047
+        },
+        {
+          "text": "Sand Brown",
+          "value": 158048
+        },
+        {
+          "text": "Dark Ash",
+          "value": 158049
+        },
+        {
+          "text": "Deep Gray",
+          "value": 158050
+        },
+        {
+          "text": "Champagne Pink",
+          "value": 158051
+        },
+        {
+          "text": "Light Ash",
+          "value": 158052
+        },
+        {
+          "text": "Antique White",
+          "value": 158053
+        },
+        {
+          "text": "Ochre Brown",
+          "value": 158054
+        },
+        {
+          "text": "Glitter Black",
+          "value": 158059
+        },
+        {
+          "text": "Glitter Blue",
+          "value": 158060
+        },
+        {
+          "text": "Metallic Cherry",
+          "value": 158061
+        },
+        {
+          "text": "Metallic Lilac",
+          "value": 158062
+        },
+        {
+          "text": "Metallic Teal",
+          "value": 158063
+        },
+        {
+          "text": "Space Grey",
+          "value": 158766
+        },
+        {
+          "text": "Light Black",
+          "value": 170236
+        },
+        {
+          "text": "Rose Red",
+          "value": 170237
+        },
+        {
+          "text": "Deep Black",
+          "value": 170238
+        },
+        {
+          "text": "Glow Yellow",
+          "value": 170239
+        },
+        {
+          "text": "Neo Bright",
+          "value": 170240
+        }
+      ],
+      "value": [],
+      "maxLength": 200,
+      "group": "sale",
+      "info": {
+        "help": [
+          "Add a generalisation of the main color, to help customers find the product using the provided color-filter in the shop",
+          "<a href="https://xform.lazada.vn/form/show.do" target="_blank">Please click here to request new values</a>"
+        ]
+      },
+      "allowImageUpload": False
+    },
+    {
+      "visible": True,
+      "hasSaleProps": True,
+      "salewithoutpair": True,
+      "copyAttributes": [
+        "salePrice",
+        "skuBarcode",
+        "skuPrice"
+      ],
+      "label": "Variation Information",
+      "locale": {
+        "cancel": "Cancel",
+        "copyFirst": "Copy the first to the rest",
+        "copyFirstStock": "Copy the first stock to the rest only",
+        "copyFirstPrice": "Copy the first price to the rest only",
+        "addSku": "Add a new SKU",
+        "promotionDate": "Promotion Date",
+        "availability": "Availability",
+        "history": "History",
+        "type": "sku",
+        "done": "Apply To All",
+        "success": "Success",
+        "copySuccess": "Copy Success",
+        "calculate": "Calculate"
+      },
+      "canEditSaleProp": True,
+      "required": True,
+      "sequence": [
+        "price",
+        "special_price",
+        "quantity",
+        "SellerSku",
+        "skuId",
+        "active",
+        "key",
+        "images",
+        "color_thumbnail"
+      ],
+      "batchAttributes": [
+        "price",
+        "quantity",
+        "SellerSku"
+      ],
+      "name": "sku",
+      "uiType": "SkuTableV2",
+      "rowLocked": False,
+      "attributes": {
+        "images": {
+          "important": False,
+          "name": "images",
+          "uiType": "hidden",
+          "label": "Images",
+          "required": False,
+          "info": {
+            "help": "Images need to be at least 500 x 500 pixel with a maximum of 2000 x 2000 pixel.\n"
+          }
+        },
+        "quantity": {
+          "important": False,
+          "min": "0",
+          "name": "quantity",
+          "uiType": "NumberPicker",
+          "label": "Quantity",
+          "required": False,
+          "info": {}
+        },
+        "special_price": {
+          "precision": 2,
+          "label": "Special Price",
+          "discountRateMin": 0.5,
+          "specialPriceMsg1": "The special price must be less than the price.",
+          "specialPriceMsg2": "The special price must be between $min and $max.",
+          "required": False,
+          "important": False,
+          "priceNotInputMsg": "Firstly please input the price",
+          "min": "0",
+          "name": "special_price",
+          "uiType": "SpecialPrice",
+          "discountRateMax": 1,
+          "info": {
+            "help": [
+              "Sales Price for a Product for Promotion",
+              ". The rate of the special price to the price must be between 0.50 and 1.00"
+            ]
+          }
+        },
+        "price": {
+          "important": False,
+          "min": "0",
+          "precision": 2,
+          "name": "price",
+          "uiType": "NumberPicker",
+          "label": "Price",
+          "required": True,
+          "info": {
+            "help": "This is the price, that the customer has to pay for the product. This price includes the taxes. The price is separated with a point delimiter"
+          }
+        },
+        "color_thumbnail": {
+          "important": False,
+          "name": "color_thumbnail",
+          "uiType": "hidden",
+          "label": "Color thumbnail",
+          "required": False,
+          "info": {
+            "help": "Upload high quality thumbnail image to show different color options available"
+          }
+        },
+        "SellerSku": {
+          "important": False,
+          "checkVersion": "V2",
+          "name": "SellerSku",
+          "uiType": "input",
+          "label": "SellerSKU",
+          "placeholder": "Optional",
+          "checkUrl": "/product/newpublish/api.product.post.async?optType=sellerSkuCheckAsyncOptV2",
+          "required": False,
+          "maxLength": 200,
+          "info": {
+            "help": "Identifier of an item from the seller"
+          }
+        },
+        "active": {
+          "name": "active",
+          "uiType": "hidden"
+        },
+        "key": {
+          "name": "key",
+          "uiType": "hidden"
+        },
+        "skuId": {
+          "name": "skuId",
+          "uiType": "hidden"
+        }
+      },
+      "value": [],
+      "dataSource": [
+        {
+          "name": "p-100005652",
+          "label": "Color Family"
+        }
+      ],
+      "group": "sale"
+    },
+    {
+      "important": False,
+      "visible": True,
+      "name": "warrantyType",
+      "uiType": "select",
+      "label": "Warranty Type",
+      "placeholder": "Select",
+      "dataSource": [
+        {
+          "text": "Invoice",
+          "value": 63502
+        },
+        {
+          "text": "Warranty Stamp",
+          "value": 63499
+        },
+        {
+          "text": "Warranty Paper and Invoice",
+          "value": 63482
+        },
+        {
+          "text": "Warranty Card and Invoice",
+          "value": 63497
+        },
+        {
+          "text": "Electronic Warranty",
+          "value": 63508
+        },
+        {
+          "text": "International Manufacturer Warranty",
+          "value": 63507
+        },
+        {
+          "text": "No Warranty",
+          "value": 63666
+        },
+        {
+          "text": "Product Box or Serial Number",
+          "value": 63501
+        },
+        {
+          "text": "Local Supplier Warranty",
+          "value": 110010124
+        },
+        {
+          "text": "Local Manufacturer Warranty",
+          "value": 119085
+        },
+        {
+          "text": "International Seller Warranty",
+          "value": 119086
+        },
+        {
+          "text": "Local supplier warranty",
+          "value": 119087
+        }
+      ],
+      "required": False,
+      "group": "package",
+      "info": {
+        "help": "tr(help@warrantyType)"
+      }
+    },
+    {
+      "important": False,
+      "visible": True,
+      "name": "warrantyPeriod",
+      "uiType": "select",
+      "label": "Warranty Period",
+      "placeholder": "Select",
+      "dataSource": [
+        {
+          "text": "1 Month",
+          "value": 63415
+        },
+        {
+          "text": "2 Months",
+          "value": 63429
+        },
+        {
+          "text": "3 Months",
+          "value": 63434
+        },
+        {
+          "text": "4 Months",
+          "value": 63431
+        },
+        {
+          "text": "5 Months",
+          "value": 63428
+        },
+        {
+          "text": "6 Months",
+          "value": 63437
+        },
+        {
+          "text": "7 Months",
+          "value": 63439
+        },
+        {
+          "text": "8 Months",
+          "value": 63478
+        },
+        {
+          "text": "9 Months",
+          "value": 63464
+        },
+        {
+          "text": "10 Months",
+          "value": 63416
+        },
+        {
+          "text": "11 Months",
+          "value": 63418
+        },
+        {
+          "text": "12 Months",
+          "value": 63423
+        },
+        {
+          "text": "18 Months",
+          "value": 63422
+        },
+        {
+          "text": "2 Years",
+          "value": 63474
+        },
+        {
+          "text": "3 Years",
+          "value": 64006
+        },
+        {
+          "text": "4 Years",
+          "value": 64005
+        },
+        {
+          "text": "5 Years",
+          "value": 63430
+        },
+        {
+          "text": "6 Years",
+          "value": 63436
+        },
+        {
+          "text": "7 Years",
+          "value": 63438
+        },
+        {
+          "text": "15 months",
+          "value": 63421
+        },
+        {
+          "text": "8 Years",
+          "value": 63476
+        },
+        {
+          "text": "9 Years",
+          "value": 63479
+        },
+        {
+          "text": "10 Years",
+          "value": 63417
+        },
+        {
+          "text": "15 Years",
+          "value": 63420
+        },
+        {
+          "text": "20 Years",
+          "value": 63475
+        },
+        {
+          "text": "25 Years",
+          "value": 63465
+        },
+        {
+          "text": "Life Time Warranty",
+          "value": 63506
+        },
+        {
+          "text": "50 Years",
+          "value": 63435
+        },
+        {
+          "text": "30 Years",
+          "value": 118427
+        }
+      ],
+      "required": False,
+      "group": "package",
+      "info": {
+        "help": "tr(help@warrantyPeriod)"
+      }
+    },
+    {
+      "visible": True,
+      "showCounter": True,
+      "name": "warrantyPolicy",
+      "uiType": "translateInput",
+      "multiLanguage": {
+        "dialog": {
+          "inputConfig": {
+            "maxLength": 255
+          },
+          "action": {
+            "method": "post",
+            "url": "/product/newpublish/api.product.post.async?optType=multiLanguageTranslate"
+          }
+        },
+        "iconType": "duoyuyan"
+      },
+      "label": "Warranty Policy",
+      "illegalPatterns": [
+        {
+          "pattern": "[]",
+          "message": "The input title contains Chinese."
+        }
+      ],
+      "locale": {
+        "dialogDesc": "The multi-language is machine translated but you can edit manually.",
+        "edit": "Setup Multi-Languages",
+        "ignore": "Ignore",
+        "dialogTitle": "Set up multi-language",
+        "dialogCancel": "Cancel",
+        "dialogOk": "Save",
+        "dialogTranslate": "Translate",
+        "type": "globalInput",
+        "tips": "Multi-language haven\"t been added for edited content. Go to "Set up multi-language" to synchronize.",
+        "setLanguage": "Add Multi-Languages",
+        "otherLanguage": "Other languages"
+      },
+      "value": [
+        {
+          "label": "Vietnamese",
+          "key": "vi_VN"
+        },
+        {
+          "label": "English",
+          "key": "en_US"
+        }
+      ],
+      "required": False,
+      "group": "package",
+      "info": {
+        "help": "tr(help@warrantyPolicy)"
+      }
+    },
+    {
+      "important": False,
+      "visible": True,
+      "name": "dangerousGoods",
+      "uiType": "CheckboxGroup",
+      "multiple": True,
+      "label": "Dangerous Goods",
+      "dataSource": [
+        {
+          "text": "Liquid",
+          "value": 4742
+        },
+        {
+          "text": "Flammable",
+          "value": 69272
+        },
+        {
+          "text": "Battery",
+          "value": 45311
+        },
+        {
+          "text": "None",
+          "value": 16802
+        }
+      ],
+      "required": False,
+      "group": "package",
+      "info": {
+        "help": "Please indicate if your product contains battery, liquid or other\xa0dangerous\xa0components\xa0so as to ensure smooth logistics\xa0process, multiple selection is available"
+      }
+    },
+    {
+      "visible": True,
+      "precision": 3,
+      "name": "logisticsWeight",
+      "uiType": "PackageWeight",
+      "maximum": 300,
+      "step": 0.01,
+      "label": "Package Weight (kg)",
+      "locale": {
+        "priceUnitText": "kg/piece",
+        "appendexSuffixLabel": "kg",
+        "customizeWeightText": "Custom weight",
+        "helpInfo": "When you complete fill in self-definition weight of information after, system will in accordance with you of set to calculation total freight ignore Products Packaging size;\r\n\r\nFor volume major in actual weight of products please choose carefully fill in, can calculation the volume heavy after fill in.",
+        "customizeText4": "pieces each time, and the weight increases.",
+        "type": "logisticsWeight",
+        "customizeText1": "Buyers purchase",
+        "customizeText3": "On this basis, buyers buy",
+        "customizeText2": "or less, and calculate shipping cost based on the weight of a single product."
+      },
+      "minimum": 0,
+      "required": True,
+      "group": "package",
+      "info": {
+        "help": "Please ensure you have entered the right package weight (kg) and dimensions (cm) to avoid incorrect shipping fee charges.\xa0Click here for more information https://bit.ly/2D6ahoBn"
+      }
+    },
+    {
+      "visible": True,
+      "precision": 2,
+      "name": "logisticsSize",
+      "uiType": "PackageVolume",
+      "maximum": 300,
+      "step": 0.01,
+      "label": "Package Dimensions (cm)",
+      "locale": {
+        "volume": "${volume}cm³ per piece",
+        "length": "Length (cm)",
+        "width": "Width (cm)",
+        "height": "Height (cm)"
+      },
+      "minimum": 0,
+      "required": True,
+      "group": "package",
+      "info": {
+        "help": "Weight and packaging size: accurate fill in packaging after weight and product packaging size, avoid for fill in error and cause of shipping loss and trading reduce."
+      }
+    },
+    {
+      "visible": False,
+      "name": "shipping_fee",
+      "uiType": "ShippingFee",
+      "group": "package"
+    },
+    {
+      "visible": True,
+      "name": "indexTab",
+      "group": "layout"
+    },
+    {
+      "visible": True,
+      "name": "basicBlock",
+      "group": "layout"
+    },
+    {
+      "visible": True,
+      "name": "detailBlock",
+      "group": "layout"
+    },
+    {
+      "visible": True,
+      "name": "skuBlock",
+      "group": "layout"
+    },
+    {
+      "visible": True,
+      "name": "warrantyBlock",
+      "group": "layout"
+    },
+    {
+      "visible": False,
+      "name": "eticketBlock",
+      "group": "layout"
+    },
+    {
+      "visible": False,
+      "name": "shopee_id",
+      "group": "layout"
+    }
+  ],
+  "type": None,
+  "errorCode": None,
+  "error": None,
+  "models": None,
+  "components": None,
+  "code": None,
+  "request": None,
+  "rules": None,
+  "msg": None,
+  "group": None,
+  "showReporter": False,
+  "reportUrl": None,
+  "next": None,
+  "firstErrorCode": None
+}

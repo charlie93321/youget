@@ -1,0 +1,2235 @@
+{
+  'data': [
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'name',
+      'input_type': 'text',
+      'options': [],
+      'is_mandatory': 1,
+      'attribute_type': 'normal',
+      'label': 'Name'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'short_description',
+      'input_type': 'richText',
+      'options': [],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Short Description'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'description',
+      'input_type': 'richText',
+      'options': [],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Long Description (Lorikeet)'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'video',
+      'input_type': 'text',
+      'options': [],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Video URL'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'flavor',
+      'input_type': 'enumInput',
+      'options': [
+        {
+          'name': 'Almond'
+        },
+        {
+          'name': 'Aloe'
+        },
+        {
+          'name': 'Apple'
+        },
+        {
+          'name': 'Apple Cinnamon'
+        },
+        {
+          'name': 'Apricot peanut'
+        },
+        {
+          'name': 'BERRY'
+        },
+        {
+          'name': 'Banana'
+        },
+        {
+          'name': 'Barbecue'
+        },
+        {
+          'name': 'Basil taste'
+        },
+        {
+          'name': 'Beef'
+        },
+        {
+          'name': 'Black Sesame'
+        },
+        {
+          'name': 'Blackberry'
+        },
+        {
+          'name': 'Blackcurrant flavor'
+        },
+        {
+          'name': 'Blueberry'
+        },
+        {
+          'name': 'Blueberry Crisp'
+        },
+        {
+          'name': 'Brown Rice & Milk'
+        },
+        {
+          'name': 'Butter Vanilla'
+        },
+        {
+          'name': 'Buttered Popcorn'
+        },
+        {
+          'name': 'Buttery Sweet Dough'
+        },
+        {
+          'name': 'Cappuccino'
+        },
+        {
+          'name': 'Caramel'
+        },
+        {
+          'name': 'Caramel Cashew'
+        },
+        {
+          'name': 'Caramel flavor'
+        },
+        {
+          'name': 'Carrot'
+        },
+        {
+          'name': 'Cashew'
+        },
+        {
+          'name': 'Cheese'
+        },
+        {
+          'name': 'Cheese Cake'
+        },
+        {
+          'name': 'Cherry'
+        },
+        {
+          'name': 'Chicken'
+        },
+        {
+          'name': 'Chocolate'
+        },
+        {
+          'name': 'Chocolate Almond Fudge'
+        },
+        {
+          'name': 'Chocolate Chip'
+        },
+        {
+          'name': 'Chrysanthemum flavor'
+        },
+        {
+          'name': 'Cocoa'
+        },
+        {
+          'name': 'Coconut'
+        },
+        {
+          'name': 'Coconut Chocolate'
+        },
+        {
+          'name': 'Coconut Chocolate Chip'
+        },
+        {
+          'name': 'Cod'
+        },
+        {
+          'name': 'Coffee'
+        },
+        {
+          'name': 'Cola taste'
+        },
+        {
+          'name': 'Cookies & Cream'
+        },
+        {
+          'name': 'Cookies flavor'
+        },
+        {
+          'name': 'Cool Mint Chocolate'
+        },
+        {
+          'name': 'Corn'
+        },
+        {
+          'name': 'Cranberry'
+        },
+        {
+          'name': 'Cranberry & Pecan'
+        },
+        {
+          'name': 'Cream'
+        },
+        {
+          'name': 'Crisp plum flavor'
+        },
+        {
+          'name': 'Crunchy Peanut Butter'
+        },
+        {
+          'name': 'Egg flavor'
+        },
+        {
+          'name': 'English Toffee'
+        },
+        {
+          'name': 'Fish'
+        },
+        {
+          'name': 'Flavor Mint'
+        },
+        {
+          'name': 'Fresh mint'
+        },
+        {
+          'name': 'Fruity'
+        },
+        {
+          'name': 'Grape'
+        },
+        {
+          'name': 'Grape taste'
+        },
+        {
+          'name': 'Grapefruit'
+        },
+        {
+          'name': 'Green pea flavor'
+        },
+        {
+          'name': 'Green tea taste'
+        },
+        {
+          'name': 'Hazelnut'
+        },
+        {
+          'name': 'Hazelnut taste'
+        },
+        {
+          'name': 'Herbal jelly'
+        },
+        {
+          'name': 'Honey'
+        },
+        {
+          'name': 'Honeydew'
+        },
+        {
+          'name': 'Ice Cream'
+        },
+        {
+          'name': 'Jasmine flavor'
+        },
+        {
+          'name': 'Juice taste'
+        },
+        {
+          'name': 'Kiwi fruit'
+        },
+        {
+          'name': 'Lavender Oil'
+        },
+        {
+          'name': 'Lemon Grass'
+        },
+        {
+          'name': 'Linden honey flavor'
+        },
+        {
+          'name': 'Longan'
+        },
+        {
+          'name': 'MELON'
+        },
+        {
+          'name': 'Macadamia'
+        },
+        {
+          'name': 'Mango'
+        },
+        {
+          'name': 'Mangosteen flavor'
+        },
+        {
+          'name': 'Maple'
+        },
+        {
+          'name': 'Matcha taste'
+        },
+        {
+          'name': 'Mint'
+        },
+        {
+          'name': 'Mint Chocolate Chip'
+        },
+        {
+          'name': 'Mixed'
+        },
+        {
+          'name': 'Mocha'
+        },
+        {
+          'name': 'Multi Grain & Garden Vegetables'
+        },
+        {
+          'name': 'Mushroom'
+        },
+        {
+          'name': 'NA'
+        },
+        {
+          'name': 'Natural'
+        },
+        {
+          'name': 'Not Specified'
+        },
+        {
+          'name': 'Nuts'
+        },
+        {
+          'name': 'Oatmeal Raisin Walnut'
+        },
+        {
+          'name': 'Oats, Wheat & Prunes'
+        },
+        {
+          'name': 'Orange'
+        },
+        {
+          'name': 'Osmanthus'
+        },
+        {
+          'name': 'Others'
+        },
+        {
+          'name': 'Papaya flavor'
+        },
+        {
+          'name': 'Peach'
+        },
+        {
+          'name': 'Peanut'
+        },
+        {
+          'name': 'Pepermint'
+        },
+        {
+          'name': 'Peppermint'
+        },
+        {
+          'name': 'Pineapple'
+        },
+        {
+          'name': 'Plum taste'
+        },
+        {
+          'name': 'Pomegranate flavor'
+        },
+        {
+          'name': 'Pork'
+        },
+        {
+          'name': 'Pumpkin'
+        },
+        {
+          'name': 'ROSE'
+        },
+        {
+          'name': 'Raspberry'
+        },
+        {
+          'name': 'Red Velvet'
+        },
+        {
+          'name': 'Red bean taste'
+        },
+        {
+          'name': 'Red berries taste'
+        },
+        {
+          'name': 'Red dates'
+        },
+        {
+          'name': 'Red jujube flavor'
+        },
+        {
+          'name': 'Rice'
+        },
+        {
+          'name': 'Rice & Chicken'
+        },
+        {
+          'name': 'Rice & Milk'
+        },
+        {
+          'name': 'Rice & Mixed Fruits'
+        },
+        {
+          'name': 'Rice & Mixed Vegetables'
+        },
+        {
+          'name': 'Rice & Soya'
+        },
+        {
+          'name': 'Rice (without milk)'
+        },
+        {
+          'name': 'Rum'
+        },
+        {
+          'name': 'Salmon'
+        },
+        {
+          'name': 'Salted caremel flavor'
+        },
+        {
+          'name': 'Salty & savory taste'
+        },
+        {
+          'name': 'Salty sweet cheese'
+        },
+        {
+          'name': 'Smoked Flavor'
+        },
+        {
+          'name': 'Sparkling Wine'
+        },
+        {
+          'name': 'Spicy Lime'
+        },
+        {
+          'name': 'Spinach'
+        },
+        {
+          'name': 'Strawberry'
+        },
+        {
+          'name': 'Sweet Potato'
+        },
+        {
+          'name': 'Tea'
+        },
+        {
+          'name': 'Tiramisu taste'
+        },
+        {
+          'name': 'Tomato'
+        },
+        {
+          'name': 'Tropical Punch'
+        },
+        {
+          'name': 'Tuna'
+        },
+        {
+          'name': 'Tutti Fruity'
+        },
+        {
+          'name': 'Vanilla'
+        },
+        {
+          'name': 'Vanilla Berries'
+        },
+        {
+          'name': 'Various flavor'
+        },
+        {
+          'name': 'Vegetable'
+        },
+        {
+          'name': 'Watermelon'
+        },
+        {
+          'name': 'Wheat & Honey'
+        },
+        {
+          'name': 'Wheat Flavor'
+        },
+        {
+          'name': 'Wheat, Honey & Dates'
+        },
+        {
+          'name': 'Yogurt'
+        },
+        {
+          'name': 'lavender flavor'
+        },
+        {
+          'name': 'lemon'
+        },
+        {
+          'name': 'lychee'
+        }
+      ],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Flavor'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'organic',
+      'input_type': 'singleSelect',
+      'options': [
+        {
+          'name': 'No'
+        },
+        {
+          'name': 'Yes'
+        }
+      ],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Organic'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'packaging_type',
+      'input_type': 'enumInput',
+      'options': [
+        {
+          'name': 'Bag'
+        },
+        {
+          'name': 'Bottle'
+        },
+        {
+          'name': 'Cannister'
+        },
+        {
+          'name': 'Cans'
+        },
+        {
+          'name': 'Glass bottles'
+        },
+        {
+          'name': 'Plastic bottles'
+        },
+        {
+          'name': 'Refill Bottle'
+        },
+        {
+          'name': 'Refill Pouch'
+        }
+      ],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Packaging Type'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'country_origin_hb',
+      'input_type': 'enumInput',
+      'options': [
+        {
+          'name': 'Afghanistan\xa0'
+        },
+        {
+          'name': 'Albania\xa0'
+        },
+        {
+          'name': 'Algeria\xa0'
+        },
+        {
+          'name': 'America'
+        },
+        {
+          'name': 'American Samoa\xa0'
+        },
+        {
+          'name': 'Andorra\xa0'
+        },
+        {
+          'name': 'Angola\xa0'
+        },
+        {
+          'name': 'Anguilla\xa0'
+        },
+        {
+          'name': 'Antarctica\xa0'
+        },
+        {
+          'name': 'Antigua and Barbuda\xa0'
+        },
+        {
+          'name': 'Argentina\xa0'
+        },
+        {
+          'name': 'Armenia\xa0'
+        },
+        {
+          'name': 'Aruba\xa0'
+        },
+        {
+          'name': 'Australia'
+        },
+        {
+          'name': 'Austria'
+        },
+        {
+          'name': 'Azerbaijan\xa0'
+        },
+        {
+          'name': 'Bahamas\xa0'
+        },
+        {
+          'name': 'Bahrain\xa0'
+        },
+        {
+          'name': 'Bangladesh\xa0'
+        },
+        {
+          'name': 'Barbados\xa0'
+        },
+        {
+          'name': 'Belarus\xa0'
+        },
+        {
+          'name': 'Belgium\xa0'
+        },
+        {
+          'name': 'Belize\xa0'
+        },
+        {
+          'name': 'Benin\xa0'
+        },
+        {
+          'name': 'Bermuda\xa0'
+        },
+        {
+          'name': 'Bhutan\xa0'
+        },
+        {
+          'name': 'Bolivia\xa0'
+        },
+        {
+          'name': 'Bosnia and Herzegovina\xa0'
+        },
+        {
+          'name': 'Botswana\xa0'
+        },
+        {
+          'name': 'Bouvet Island\xa0'
+        },
+        {
+          'name': 'Brazil'
+        },
+        {
+          'name': 'British Indian Ocean Territory\xa0'
+        },
+        {
+          'name': 'Brunei Darussalam\xa0'
+        },
+        {
+          'name': 'Bulgaria'
+        },
+        {
+          'name': 'Burkina Faso\xa0'
+        },
+        {
+          'name': 'Burundi\xa0'
+        },
+        {
+          'name': 'Cambodia\xa0'
+        },
+        {
+          'name': 'Cameroon\xa0'
+        },
+        {
+          'name': 'Canada'
+        },
+        {
+          'name': 'Cape Verde\xa0'
+        },
+        {
+          'name': 'Caribbean Netherlands\xa0'
+        },
+        {
+          'name': 'Cayman Islands\xa0'
+        },
+        {
+          'name': 'Central African Republic\xa0'
+        },
+        {
+          'name': 'Chad\xa0'
+        },
+        {
+          'name': 'Chile\xa0'
+        },
+        {
+          'name': 'China'
+        },
+        {
+          'name': 'Christmas Island\xa0'
+        },
+        {
+          'name': 'Cocos (Keeling) Islands\xa0'
+        },
+        {
+          'name': 'Colombia\xa0'
+        },
+        {
+          'name': 'Comoros\xa0'
+        },
+        {
+          'name': 'Congo, Democratic Republic of\xa0'
+        },
+        {
+          'name': 'Congo\xa0'
+        },
+        {
+          'name': 'Cook Islands\xa0'
+        },
+        {
+          'name': 'Costa Rica\xa0'
+        },
+        {
+          'name': 'Croatia\xa0'
+        },
+        {
+          'name': 'Cuba\xa0'
+        },
+        {
+          'name': 'Curaçao\xa0'
+        },
+        {
+          'name': 'Cyprus\xa0'
+        },
+        {
+          'name': 'Czech Republic\xa0'
+        },
+        {
+          'name': "Côte d'Ivoire\xa0"
+        },
+        {
+          'name': 'Denmark\xa0'
+        },
+        {
+          'name': 'Djibouti\xa0'
+        },
+        {
+          'name': 'Dominican Republic\xa0'
+        },
+        {
+          'name': 'Dominica\xa0'
+        },
+        {
+          'name': 'EU'
+        },
+        {
+          'name': 'Ecuador\xa0'
+        },
+        {
+          'name': 'Egypt'
+        },
+        {
+          'name': 'El Salvador\xa0'
+        },
+        {
+          'name': 'Equatorial Guinea\xa0'
+        },
+        {
+          'name': 'Eritrea\xa0'
+        },
+        {
+          'name': 'Estonia'
+        },
+        {
+          'name': 'Ethiopia\xa0'
+        },
+        {
+          'name': 'Europe\xa0'
+        },
+        {
+          'name': 'Falkland Islands\xa0'
+        },
+        {
+          'name': 'Faroe Islands\xa0'
+        },
+        {
+          'name': 'Fiji\xa0'
+        },
+        {
+          'name': 'Finland'
+        },
+        {
+          'name': 'France'
+        },
+        {
+          'name': 'French Guiana\xa0'
+        },
+        {
+          'name': 'French Polynesia\xa0'
+        },
+        {
+          'name': 'French Southern Territories\xa0'
+        },
+        {
+          'name': 'Gabon\xa0'
+        },
+        {
+          'name': 'Gambia\xa0'
+        },
+        {
+          'name': 'Georgia\xa0'
+        },
+        {
+          'name': 'Germany'
+        },
+        {
+          'name': 'Ghana\xa0'
+        },
+        {
+          'name': 'Gibraltar\xa0'
+        },
+        {
+          'name': 'Greece\xa0'
+        },
+        {
+          'name': 'Greenland\xa0'
+        },
+        {
+          'name': 'Grenada\xa0'
+        },
+        {
+          'name': 'Guadeloupe\xa0'
+        },
+        {
+          'name': 'Guam\xa0'
+        },
+        {
+          'name': 'Guatemala\xa0'
+        },
+        {
+          'name': 'Guernsey\xa0'
+        },
+        {
+          'name': 'Guinea-Bissau\xa0'
+        },
+        {
+          'name': 'Guinea\xa0'
+        },
+        {
+          'name': 'Guyana\xa0'
+        },
+        {
+          'name': 'Haiti\xa0'
+        },
+        {
+          'name': 'Heard and McDonald Islands\xa0'
+        },
+        {
+          'name': 'Holland'
+        },
+        {
+          'name': 'Honduras\xa0'
+        },
+        {
+          'name': 'Hong Kong'
+        },
+        {
+          'name': 'Hungary\xa0'
+        },
+        {
+          'name': 'Iceland'
+        },
+        {
+          'name': 'India'
+        },
+        {
+          'name': 'Indonesia'
+        },
+        {
+          'name': 'Iran\xa0'
+        },
+        {
+          'name': 'Iraq\xa0'
+        },
+        {
+          'name': 'Ireland'
+        },
+        {
+          'name': 'Isle of Man\xa0'
+        },
+        {
+          'name': 'Israel'
+        },
+        {
+          'name': 'Italy'
+        },
+        {
+          'name': 'Jamaica\xa0'
+        },
+        {
+          'name': 'Japan'
+        },
+        {
+          'name': 'Jersey\xa0'
+        },
+        {
+          'name': 'Jordan\xa0'
+        },
+        {
+          'name': 'Kazakhstan\xa0'
+        },
+        {
+          'name': 'Kenya\xa0'
+        },
+        {
+          'name': 'Kiribati\xa0'
+        },
+        {
+          'name': 'Korea'
+        },
+        {
+          'name': 'Kuwait\xa0'
+        },
+        {
+          'name': 'Kyrgyzstan\xa0'
+        },
+        {
+          'name': "Lao People's Democratic Republic\xa0"
+        },
+        {
+          'name': 'Latvia\xa0'
+        },
+        {
+          'name': 'Lebanon\xa0'
+        },
+        {
+          'name': 'Lesotho\xa0'
+        },
+        {
+          'name': 'Liberia\xa0'
+        },
+        {
+          'name': 'Libya\xa0'
+        },
+        {
+          'name': 'Liechtenstein\xa0'
+        },
+        {
+          'name': 'Lithuania\xa0'
+        },
+        {
+          'name': 'Luxembourg\xa0'
+        },
+        {
+          'name': 'Macau\xa0'
+        },
+        {
+          'name': 'Macedonia\xa0'
+        },
+        {
+          'name': 'Madagascar'
+        },
+        {
+          'name': 'Malawi\xa0'
+        },
+        {
+          'name': 'Malaysia'
+        },
+        {
+          'name': 'Maldives\xa0'
+        },
+        {
+          'name': 'Mali\xa0'
+        },
+        {
+          'name': 'Malta\xa0'
+        },
+        {
+          'name': 'Marshall Islands\xa0'
+        },
+        {
+          'name': 'Martinique\xa0'
+        },
+        {
+          'name': 'Mauritania\xa0'
+        },
+        {
+          'name': 'Mauritius\xa0'
+        },
+        {
+          'name': 'Mayotte\xa0'
+        },
+        {
+          'name': 'Mexico\xa0'
+        },
+        {
+          'name': 'Micronesia, Federated States of\xa0'
+        },
+        {
+          'name': 'Moldova\xa0'
+        },
+        {
+          'name': 'Monaco\xa0'
+        },
+        {
+          'name': 'Mongolia\xa0'
+        },
+        {
+          'name': 'Montenegro\xa0'
+        },
+        {
+          'name': 'Montserrat\xa0'
+        },
+        {
+          'name': 'Morocco\xa0'
+        },
+        {
+          'name': 'Mozambique\xa0'
+        },
+        {
+          'name': 'Myanmar\xa0'
+        },
+        {
+          'name': 'Namibia\xa0'
+        },
+        {
+          'name': 'Nauru\xa0'
+        },
+        {
+          'name': 'Nepal\xa0'
+        },
+        {
+          'name': 'New Caledonia\xa0'
+        },
+        {
+          'name': 'New Zealand'
+        },
+        {
+          'name': 'Nicaragua\xa0'
+        },
+        {
+          'name': 'Nigeria\xa0'
+        },
+        {
+          'name': 'Niger\xa0'
+        },
+        {
+          'name': 'Niue\xa0'
+        },
+        {
+          'name': 'Norfolk Island\xa0'
+        },
+        {
+          'name': 'North Korea\xa0'
+        },
+        {
+          'name': 'Northern Mariana Islands\xa0'
+        },
+        {
+          'name': 'Norway'
+        },
+        {
+          'name': 'Oman'
+        },
+        {
+          'name': 'Other'
+        },
+        {
+          'name': 'POLAND'
+        },
+        {
+          'name': 'Pakistan\xa0'
+        },
+        {
+          'name': 'Palau\xa0'
+        },
+        {
+          'name': 'Palestinian Territory, Occupied\xa0'
+        },
+        {
+          'name': 'Panama\xa0'
+        },
+        {
+          'name': 'Papua New Guinea\xa0'
+        },
+        {
+          'name': 'Paraguay\xa0'
+        },
+        {
+          'name': 'Peru\xa0'
+        },
+        {
+          'name': 'Philippines'
+        },
+        {
+          'name': 'Pitcairn\xa0'
+        },
+        {
+          'name': 'Portugal\xa0'
+        },
+        {
+          'name': 'Puerto Rico\xa0'
+        },
+        {
+          'name': 'Qatar\xa0'
+        },
+        {
+          'name': 'Reunion\xa0'
+        },
+        {
+          'name': 'Romania\xa0'
+        },
+        {
+          'name': 'Russia'
+        },
+        {
+          'name': 'Russian Federation\xa0'
+        },
+        {
+          'name': 'Rwanda\xa0'
+        },
+        {
+          'name': 'S. Georgia & the S. Sandwich Isl.\xa0'
+        },
+        {
+          'name': 'Saint Barthélemy\xa0'
+        },
+        {
+          'name': 'Saint Helena\xa0'
+        },
+        {
+          'name': 'Saint Kitts and Nevis\xa0'
+        },
+        {
+          'name': 'Saint Lucia\xa0'
+        },
+        {
+          'name': 'Saint Vincent and the Grenadines\xa0'
+        },
+        {
+          'name': 'Saint-Martin (France)\xa0'
+        },
+        {
+          'name': 'Saint-Martin (Pays-Bas)\xa0'
+        },
+        {
+          'name': 'Samoa\xa0'
+        },
+        {
+          'name': 'San Marino\xa0'
+        },
+        {
+          'name': 'Sao Tome and Principe\xa0'
+        },
+        {
+          'name': 'Saudi Arabia'
+        },
+        {
+          'name': 'Scotland\xa0'
+        },
+        {
+          'name': 'Senegal\xa0'
+        },
+        {
+          'name': 'Serbia\xa0'
+        },
+        {
+          'name': 'Seychelles\xa0'
+        },
+        {
+          'name': 'Sierra Leone\xa0'
+        },
+        {
+          'name': 'Singapore'
+        },
+        {
+          'name': 'Slovakia (Slovak Republic)\xa0'
+        },
+        {
+          'name': 'Slovenia\xa0'
+        },
+        {
+          'name': 'Solomon Islands\xa0'
+        },
+        {
+          'name': 'Somalia\xa0'
+        },
+        {
+          'name': 'South Africa\xa0'
+        },
+        {
+          'name': 'South Korea\xa0'
+        },
+        {
+          'name': 'South Sudan\xa0'
+        },
+        {
+          'name': 'Spain'
+        },
+        {
+          'name': 'Sri Lanka'
+        },
+        {
+          'name': 'St. Pierre and Miquelon\xa0'
+        },
+        {
+          'name': 'Sudan\xa0'
+        },
+        {
+          'name': 'Suriname\xa0'
+        },
+        {
+          'name': 'Svalbard and Jan Mayen Islands\xa0'
+        },
+        {
+          'name': 'Swaziland\xa0'
+        },
+        {
+          'name': 'Sweden'
+        },
+        {
+          'name': 'Switzerland'
+        },
+        {
+          'name': 'Syria\xa0'
+        },
+        {
+          'name': 'Taiwan'
+        },
+        {
+          'name': 'Tajikistan\xa0'
+        },
+        {
+          'name': 'Tanzania\xa0'
+        },
+        {
+          'name': 'Thailand'
+        },
+        {
+          'name': 'The Netherlands\xa0'
+        },
+        {
+          'name': 'Timor-Leste\xa0'
+        },
+        {
+          'name': 'Togo\xa0'
+        },
+        {
+          'name': 'Tokelau\xa0'
+        },
+        {
+          'name': 'Tonga\xa0'
+        },
+        {
+          'name': 'Trinidad and Tobago\xa0'
+        },
+        {
+          'name': 'Tunisia\xa0'
+        },
+        {
+          'name': 'Turkey'
+        },
+        {
+          'name': 'Turkmenistan\xa0'
+        },
+        {
+          'name': 'Turks and Caicos Islands\xa0'
+        },
+        {
+          'name': 'Tuvalu\xa0'
+        },
+        {
+          'name': 'UAE (United Arab Emirate)'
+        },
+        {
+          'name': 'Uganda\xa0'
+        },
+        {
+          'name': 'Ukraine\xa0'
+        },
+        {
+          'name': 'United Arab Emirates\xa0'
+        },
+        {
+          'name': 'United Kingdom'
+        },
+        {
+          'name': 'United States Minor Outlying Islands\xa0'
+        },
+        {
+          'name': 'United States\xa0'
+        },
+        {
+          'name': 'Uruguay\xa0'
+        },
+        {
+          'name': 'Uzbekistan\xa0'
+        },
+        {
+          'name': 'Vanuatu\xa0'
+        },
+        {
+          'name': 'Vatican\xa0'
+        },
+        {
+          'name': 'Venezuela\xa0'
+        },
+        {
+          'name': 'Vietnam'
+        },
+        {
+          'name': 'Virgin Islands (British)\xa0'
+        },
+        {
+          'name': 'Virgin Islands (U.S.)\xa0'
+        },
+        {
+          'name': 'Wallis and Futuna Islands\xa0'
+        },
+        {
+          'name': 'Western Sahara\xa0'
+        },
+        {
+          'name': 'Yemen'
+        },
+        {
+          'name': 'Zambia\xa0'
+        },
+        {
+          'name': 'Zimbabwe\xa0'
+        },
+        {
+          'name': 'Åland Islands\xa0'
+        }
+      ],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Country of Origin'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'dietary_needs',
+      'input_type': 'multiEnumInput',
+      'options': [
+        {
+          'name': 'Caffeine Free'
+        },
+        {
+          'name': 'Cholesterol Free'
+        },
+        {
+          'name': 'GMO Free'
+        },
+        {
+          'name': 'Gluten Free'
+        },
+        {
+          'name': 'Halal'
+        },
+        {
+          'name': 'Healthier Choice'
+        },
+        {
+          'name': 'Low Fat'
+        },
+        {
+          'name': 'Low Sodium'
+        },
+        {
+          'name': 'Low Sugar'
+        },
+        {
+          'name': 'Organic'
+        },
+        {
+          'name': 'Saturated Fat Free'
+        },
+        {
+          'name': 'Sugar Free'
+        },
+        {
+          'name': 'Trans fat Free'
+        }
+      ],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Dietary Needs'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'pack_type',
+      'input_type': 'enumInput',
+      'options': [
+        {
+          'name': '6-pack'
+        },
+        {
+          'name': 'Carton'
+        },
+        {
+          'name': 'Large Serve'
+        },
+        {
+          'name': 'Multipack'
+        },
+        {
+          'name': 'Single'
+        }
+      ],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Pack Type'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'storage_type_gr',
+      'input_type': 'singleSelect',
+      'options': [
+        {
+          'name': 'Chilled'
+        },
+        {
+          'name': 'Cupboard'
+        },
+        {
+          'name': 'Frozen'
+        }
+      ],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Storage Type'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'color_family',
+      'input_type': 'multiEnumInput',
+      'options': [
+        {
+          'name': 'Antique White'
+        },
+        {
+          'name': 'Apricot'
+        },
+        {
+          'name': 'Aqua'
+        },
+        {
+          'name': 'Army Green'
+        },
+        {
+          'name': 'Avocado'
+        },
+        {
+          'name': 'Beige'
+        },
+        {
+          'name': 'Black'
+        },
+        {
+          'name': 'Blue'
+        },
+        {
+          'name': 'Blue Gray'
+        },
+        {
+          'name': 'Blueberry'
+        },
+        {
+          'name': 'Blush Pink'
+        },
+        {
+          'name': 'Bronze'
+        },
+        {
+          'name': 'Brown'
+        },
+        {
+          'name': 'Burgundy'
+        },
+        {
+          'name': 'Cacao'
+        },
+        {
+          'name': 'Camel'
+        },
+        {
+          'name': 'Champagne'
+        },
+        {
+          'name': 'Champagne Pink'
+        },
+        {
+          'name': 'Charcoal'
+        },
+        {
+          'name': 'Cherry'
+        },
+        {
+          'name': 'Chestnut'
+        },
+        {
+          'name': 'Chili Red'
+        },
+        {
+          'name': 'Chocolate'
+        },
+        {
+          'name': 'Cinnamon'
+        },
+        {
+          'name': 'Clear'
+        },
+        {
+          'name': 'Coffee'
+        },
+        {
+          'name': 'Cream'
+        },
+        {
+          'name': 'Dark Ash'
+        },
+        {
+          'name': 'Dark Brown'
+        },
+        {
+          'name': 'Dark Grey'
+        },
+        {
+          'name': 'Dark blue'
+        },
+        {
+          'name': 'Deep Black'
+        },
+        {
+          'name': 'Deep Blue'
+        },
+        {
+          'name': 'Deep Gray'
+        },
+        {
+          'name': 'Deep green'
+        },
+        {
+          'name': 'Emerald Green'
+        },
+        {
+          'name': 'Floral'
+        },
+        {
+          'name': 'Fluorescent Green'
+        },
+        {
+          'name': 'Fluorescent Yellow'
+        },
+        {
+          'name': 'Fuchsia'
+        },
+        {
+          'name': 'Galaxy'
+        },
+        {
+          'name': 'Glitter Black'
+        },
+        {
+          'name': 'Glitter Blue'
+        },
+        {
+          'name': 'Glow Yellow'
+        },
+        {
+          'name': 'Gold'
+        },
+        {
+          'name': 'Green'
+        },
+        {
+          'name': 'Grey'
+        },
+        {
+          'name': 'Hotpink'
+        },
+        {
+          'name': 'Ivory'
+        },
+        {
+          'name': 'Jade'
+        },
+        {
+          'name': 'Jet Black'
+        },
+        {
+          'name': 'Khaki'
+        },
+        {
+          'name': 'Lake Blue'
+        },
+        {
+          'name': 'Lavender'
+        },
+        {
+          'name': 'Lemon Yellow'
+        },
+        {
+          'name': 'Light Ash'
+        },
+        {
+          'name': 'Light Black'
+        },
+        {
+          'name': 'Light Grey'
+        },
+        {
+          'name': 'Light blue'
+        },
+        {
+          'name': 'Light green'
+        },
+        {
+          'name': 'Light yellow'
+        },
+        {
+          'name': 'Magenta'
+        },
+        {
+          'name': 'Mahogany'
+        },
+        {
+          'name': 'Mango'
+        },
+        {
+          'name': 'Maroon'
+        },
+        {
+          'name': 'Matte Black'
+        },
+        {
+          'name': 'Metallic Cherry'
+        },
+        {
+          'name': 'Metallic Lilac'
+        },
+        {
+          'name': 'Metallic Teal'
+        },
+        {
+          'name': 'Mint'
+        },
+        {
+          'name': 'Multicolor'
+        },
+        {
+          'name': 'Navy Blue'
+        },
+        {
+          'name': 'Neo Bright'
+        },
+        {
+          'name': 'Neon'
+        },
+        {
+          'name': 'Neutral'
+        },
+        {
+          'name': 'Not Specified'
+        },
+        {
+          'name': 'Ochre Brown'
+        },
+        {
+          'name': 'Off White'
+        },
+        {
+          'name': 'Olive'
+        },
+        {
+          'name': 'Orange'
+        },
+        {
+          'name': 'Orchid Grey'
+        },
+        {
+          'name': 'Peach'
+        },
+        {
+          'name': 'Peanut'
+        },
+        {
+          'name': 'Pink'
+        },
+        {
+          'name': 'Purple'
+        },
+        {
+          'name': 'Rainbow'
+        },
+        {
+          'name': 'Red'
+        },
+        {
+          'name': 'Rose'
+        },
+        {
+          'name': 'Rose Gold'
+        },
+        {
+          'name': 'Rose Red'
+        },
+        {
+          'name': 'Sand'
+        },
+        {
+          'name': 'Sand Brown'
+        },
+        {
+          'name': 'Silver'
+        },
+        {
+          'name': 'Space Grey'
+        },
+        {
+          'name': 'Tan'
+        },
+        {
+          'name': 'Teal'
+        },
+        {
+          'name': 'Turquoise'
+        },
+        {
+          'name': 'Violet'
+        },
+        {
+          'name': 'Watermelon red'
+        },
+        {
+          'name': 'White'
+        },
+        {
+          'name': 'Wither Black'
+        },
+        {
+          'name': 'Yellow'
+        },
+        {
+          'name': '…'
+        }
+      ],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Color Family'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'Delivery_Option_Instant',
+      'input_type': 'singleSelect',
+      'options': [
+        {
+          'name': 'No'
+        },
+        {
+          'name': 'Yes'
+        }
+      ],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Delivery Option Instant'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'SellerSku',
+      'input_type': 'text',
+      'options': [],
+      'is_mandatory': 1,
+      'attribute_type': 'sku',
+      'label': 'SellerSKU'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'warranty_type',
+      'input_type': 'singleSelect',
+      'options': [
+        {
+          'name': 'Electronic Warranty'
+        },
+        {
+          'name': 'International Manufacturer Warranty'
+        },
+        {
+          'name': 'International Seller Warranty'
+        },
+        {
+          'name': 'Invoice'
+        },
+        {
+          'name': 'Local Manufacturer Warranty'
+        },
+        {
+          'name': 'Local Supplier Warranty'
+        },
+        {
+          'name': 'Local supplier warranty'
+        },
+        {
+          'name': 'No Warranty'
+        },
+        {
+          'name': 'Product Box or Serial Number'
+        },
+        {
+          'name': 'Warranty Card and Invoice'
+        },
+        {
+          'name': 'Warranty Paper and Invoice'
+        },
+        {
+          'name': 'Warranty Stamp'
+        }
+      ],
+      'is_mandatory': 1,
+      'attribute_type': 'normal',
+      'label': 'Warranty Type'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'warranty',
+      'input_type': 'singleSelect',
+      'options': [
+        {
+          'name': '1 Month'
+        },
+        {
+          'name': '10 Months'
+        },
+        {
+          'name': '10 Years'
+        },
+        {
+          'name': '11 Months'
+        },
+        {
+          'name': '12 Months'
+        },
+        {
+          'name': '15 Years'
+        },
+        {
+          'name': '15 months'
+        },
+        {
+          'name': '18 Months'
+        },
+        {
+          'name': '2 Months'
+        },
+        {
+          'name': '2 Years'
+        },
+        {
+          'name': '20 Years'
+        },
+        {
+          'name': '25 Years'
+        },
+        {
+          'name': '3 Months'
+        },
+        {
+          'name': '3 Years'
+        },
+        {
+          'name': '30 Years'
+        },
+        {
+          'name': '4 Months'
+        },
+        {
+          'name': '4 Years'
+        },
+        {
+          'name': '5 Months'
+        },
+        {
+          'name': '5 Years'
+        },
+        {
+          'name': '50 Years'
+        },
+        {
+          'name': '6 Months'
+        },
+        {
+          'name': '6 Years'
+        },
+        {
+          'name': '7 Months'
+        },
+        {
+          'name': '7 Years'
+        },
+        {
+          'name': '8 Months'
+        },
+        {
+          'name': '8 Years'
+        },
+        {
+          'name': '9 Months'
+        },
+        {
+          'name': '9 Years'
+        },
+        {
+          'name': 'Life Time Warranty'
+        }
+      ],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Warranty Period'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'name_en',
+      'input_type': 'text',
+      'options': [],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Name (English)'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'quantity',
+      'input_type': 'numeric',
+      'options': [],
+      'is_mandatory': 0,
+      'attribute_type': 'sku',
+      'label': 'Quantity'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'product_warranty',
+      'input_type': 'text',
+      'options': [],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Warranty Policy'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'brand',
+      'input_type': 'singleSelect',
+      'options': [],
+      'is_mandatory': 1,
+      'attribute_type': 'normal',
+      'label': 'Brand'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'price',
+      'input_type': 'numeric',
+      'options': [],
+      'is_mandatory': 1,
+      'attribute_type': 'sku',
+      'label': 'Price'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'product_warranty_en',
+      'input_type': 'text',
+      'options': [],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Warranty Policy (English)'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'special_price',
+      'input_type': 'numeric',
+      'options': [],
+      'is_mandatory': 0,
+      'attribute_type': 'sku',
+      'label': 'Special Price'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'delivery_option_express',
+      'input_type': 'singleSelect',
+      'options': [
+        {
+          'name': 'No'
+        },
+        {
+          'name': 'Yes'
+        }
+      ],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Delivery Option Express'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'description_en',
+      'input_type': 'richText',
+      'options': [],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'English Long Description (optional)'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'special_from_date',
+      'input_type': 'date',
+      'options': [],
+      'is_mandatory': 0,
+      'attribute_type': 'sku',
+      'label': 'Start date of promotion'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'special_to_date',
+      'input_type': 'date',
+      'options': [],
+      'is_mandatory': 0,
+      'attribute_type': 'sku',
+      'label': 'End date of promotion'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'delivery_option_economy',
+      'input_type': 'singleSelect',
+      'options': [
+        {
+          'name': 'No'
+        },
+        {
+          'name': 'Yes'
+        }
+      ],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Delivery Option Economy'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'package_content',
+      'input_type': 'text',
+      'options': [],
+      'is_mandatory': 0,
+      'attribute_type': 'sku',
+      'label': "What's in the box"
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'package_weight',
+      'input_type': 'numeric',
+      'options': [],
+      'is_mandatory': 1,
+      'attribute_type': 'sku',
+      'label': 'Package Weight (kg)'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'package_length',
+      'input_type': 'numeric',
+      'options': [],
+      'is_mandatory': 1,
+      'attribute_type': 'sku',
+      'label': 'Package Length (cm)'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'package_width',
+      'input_type': 'numeric',
+      'options': [],
+      'is_mandatory': 1,
+      'attribute_type': 'sku',
+      'label': 'Package Width (cm)'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'package_height',
+      'input_type': 'numeric',
+      'options': [],
+      'is_mandatory': 1,
+      'attribute_type': 'sku',
+      'label': 'Package Height (cm)'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': '__images__',
+      'input_type': 'img',
+      'options': [],
+      'is_mandatory': 0,
+      'attribute_type': 'sku',
+      'label': 'Images'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'tax_class',
+      'input_type': 'singleSelect',
+      'options': [
+        {
+          'name': 'default'
+        },
+        {
+          'name': 'tax 0'
+        },
+        {
+          'name': 'tax 5'
+        },
+        {
+          'name': 'tax 7'
+        }
+      ],
+      'is_mandatory': 0,
+      'attribute_type': 'sku',
+      'label': 'Taxes'
+    },
+    {
+      'advanced': {
+        'is_key_prop': 0
+      },
+      'is_sale_prop': 0,
+      'name': 'Hazmat',
+      'input_type': 'multiSelect',
+      'options': [
+        {
+          'name': 'Battery'
+        },
+        {
+          'name': 'Flammable'
+        },
+        {
+          'name': 'Liquid'
+        },
+        {
+          'name': 'None'
+        }
+      ],
+      'is_mandatory': 0,
+      'attribute_type': 'normal',
+      'label': 'Dangerous Goods'
+    }
+  ],
+  'code': '0',
+  'request_id': '0be6f7a716039431885542919'
+}

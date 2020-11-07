@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    word-break: break-all;
+    word-break: break-word;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+body {
+    color: #313033;
+    font-family: Roboto, Segoe UI, ProximaNova-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.42857143;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse
+}
+
+td, th {
+    padding: 0
+}
+
+.mr_20 {
+    margin-right: 20px !important
+}
+
+.fw_600 {
+    font-weight: 600;
+    font-family: arial, helvetica, sans-serif;
+}
+
+.img_out {
+    display: inline-block;
+    position: relative;
+    vertical-align: middle
+}
+
+.img_out > img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    padding: 1px
+}
+
+.pack_list_show {
+    margin: 1.2cm 0 0 0.5cm;
+    box-shadow: 0 0 4px 0 rgba(0, 34, 77, .15);
+    padding: 5px;
+    min-height: 450px;
+    width: 90%;
+    background: #fff
+}
+
+.pack_list_show.f_size_big {
+    font-size: 16px
+}
+
+.pack_list_show .show_items_body {
+    margin-top: 5px
+}
+
+.pack_list_show .show_items_body table {
+    width: 100%
+}
+
+.pack_list_show .show_items_body td {
+    border: 1px solid #000;
+    padding: 2px;
+    vertical-align: top
+}
+
+.pack_list_show .show_items_body td.image_box {
+    min-width: 60px;
+    max-width: 60px;
+    width: 60px
+}
+
+.pack_list_show .show_items_body .img_out {
+    width: 100%;
+    height: 60px
+}
+
+.pack_list_show .show_items_body .info_box {
+    width: 100%
+}
+
+.pack_list_show .show_items_body[data-status=\"text\"] td.image_box {
+    display: none
+}
+
+.pack_list_show .show_items_body td.info_box .rows:last-child {
+    max-height: 40px;
+    overflow: hidden
+}
+
+.pack_list_show:not(.f_size_big) .show_items_body td.info_box .rows:last-child {
+    max-height: 35px;
+    font-size: 15px
+}
+
+.pack_list_show .show_items_body[data-status=\"picture\"] td.info_box .rows:last-child {
+    max-height: 55px
+}
+
+.pack_list_show.f_size_big .show_items_body[data-status=\"picture\"] td.info_box .rows:last-child {
+    max-height: 65px
+}
+
+.pack_list_show .show_items_body td.qty_box {
+    min-width: 35px;
+    text-align: center;
+    vertical-align: middle
+}
+							

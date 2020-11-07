@@ -1,40 +1,39 @@
 
 lines='''
-//项目js 根据模块定
-    String commJsVer  = "11.4";
-    String inventoryJsVer  = "9.0";
-    String productCommJsVer  = "10.7";
-    String shopeeJsVer  = "13.0";
-    String lazadaJsVer  = "11.7";
-    String tokopediaJsVer  = "8.5";
-    String sendoJsVer  = "1.2";
-    String templateJsVer  = "1.7";
-    String crawlJsVer  = "8.6";
-    String moveJsVer  = "8.1";
-    String orderJsVar  = "11.4";
-    String orderTrack  = "3.0";
-    String settingsJsVer  = "9.4";
-    String dashboardJsVer  = "7.7";
-    String indexJsVer  = "7.9";
-    String messageJsVer  = "1.5";
-    String manisfestJsVer  = "1.7";
-    String statisJsVer  = "0.9";
+    String commJsVer= "11.9";
+    String inventoryJsVer   = "9.1";
+    String productCommJsVer   = "11.0";
+    String shopeeJsVer= "13.6";
+    String lazadaJsVer= "12.1";
+    String tokopediaJsVer= "8.9";
+    String sendoJsVer= "1.9";
+    String templateJsVer= "1.9";
+    String crawlJsVer= "8.9";
+    String moveJsVer= "8.4";
+    String orderJsVar   = "11.5";
+    String orderTrack   = "3.1";
+    String settingsJsVer   = "9.5";
+    String dashboardJsVer   = "7.8";
+    String indexJsVer   = "8.0";
+    String messageJsVer   = "1.6";
+    String manisfestJsVer   = "1.8";
+    String statisJsVer   = "1.0";
 //项目css (css/*.css)
-    String commCssVer  = "13.3";
-    String productCommCssVer  = "10.9";
-    String crawlCssVer  = "8.8";
-    String shopeeCssVer  = "9.5";
-    String lazadaCssVer  = "9.5";
-    String tokopediaCssVer  = "5.6";
-    String sendoCssVer  = "0.7";
-    String templateCssVer  = "1.9";
-    String orderCssVer  = "10.3";
-    String settingsCssVer  = "8.1";
-    String dashboardCssVer  = "8.2";
-    String indexCssVer  = "8.2";
-    String inventoryCssVer  = "7.3";
-    String messageCssVer  = "1.8";
-    String statisCssVer  = "0.7";
+    String commCssVer   = "13.5";
+    String productCommCssVer   = "11.1";
+    String crawlCssVer   = "9.0";
+    String shopeeCssVer= "9.8";
+    String lazadaCssVer   = "9.7";
+    String tokopediaCssVer   = "5.8";
+    String sendoCssVer   = "0.9";
+    String templateCssVer   = "2.0";
+    String orderCssVer   = "10.4";
+    String settingsCssVer   = "8.2";
+    String dashboardCssVer   = "8.3";
+    String indexCssVer   = "8.3";
+    String inventoryCssVer   = "7.4";
+    String messageCssVer   = "1.9";
+    String statisCssVer   = "0.8";
 
 //自写组件用
 //  js/plugins/image_upload/upload.js
@@ -42,12 +41,12 @@ lines='''
 //  js/plugins/picZoom/picZoom.js
 //  js/plugins/validform/validform.js
 //  js/plugins/tagsForm/tags.js
-    String componentsVer  = "3.9";
+    String componentsVer   = "4.0";
 
 //框架、插件类 (js/plugins/*;  js/com/jq.js;  frame/*;)
-    String pluginVer  = "3.5";
+    String pluginVer   = "3.6";
 //插件edit文件(ckeditor/smEdit.css;  ckeditor/smEdit.js; )
-    String pluginEditVer  = "2.6";
+    String pluginEditVer   = "2.7";
 '''
 
 for line in lines.split("\n"):

@@ -21,5 +21,30 @@ def write_date_to_xls(file_name,dataMap,title):
     ws.col(1).width = 6500  # 第1列
 
     # 将数据流保存到本地磁盘
-    wb.save('../temp/{}'.format(file_name))
+    #wb.save('../temp/{}'.format(file_name))
+    wb.save('d://{}'.format(file_name))
 
+
+def write_data_to_xls(file_name,dicMap,title,site):
+    wb = xlwt.Workbook(encoding='utf-8')  # 创建工作簿对象
+    ws = wb.add_sheet('attr')
+    ws.write(0,0,title[0])
+    ws.write(0, 1, title[1])
+    ws.write(0, 2, title[2])
+    # 下面类似，写入内容
+    row = 1  # 第三行开始写内容数据
+    keyList = list(dicMap.keys())
+    keyList = sorted(keyList,key=lambda x:x)
+
+    for key in keyList:
+        ws.write(row,0,site)
+        ws.write(row,1,key)
+        ws.write(row,2, dicMap[key])
+        row += 1
+    # 指定每列的宽度
+    ws.col(0).width = 6500  # 第0列
+    ws.col(1).width = 6500  # 第1列
+
+    # 将数据流保存到本地磁盘
+    #wb.save('../temp/{}'.format(file_name))
+    wb.save('d://{}'.format(file_name))

@@ -118,5 +118,5 @@ def query_attr(lang):
 # query_attr()
 
 #attrMap = query_attr('en')
-
+save_cookie(language='en',email='lanjinning0@gmail.com',passwrod='LJN20200608vn@#BIG',DRIVER_PATH = 'D:\driver\chromedriver.exe')
 #print(json.dumps(attrMap))

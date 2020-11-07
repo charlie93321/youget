@@ -73,7 +73,7 @@ wip-batchEditSendoProduct-zxy
 wip-shopeeMyExpressPrintLable-zxy                 
 wip-shopeeMyPoslajuQrcode-zxy                    
   '''
-branch_del='wip-pickLableFontSize-zxy'
+branch_del='wip-lazadaAddPickInfo-zxy'
 #r.execute('git branch -d {}'.format(branch_del))
 #r.execute('git push origin --delete  {}'.format(branch_del))
 #print(look_all_branch())

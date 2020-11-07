@@ -1,0 +1,39 @@
+
+Delivery Option Economy
+Delivery Option Express
+Warranty Policy (English)
+Name (English)
+
+{
+  "mainImage": "Product Images",
+  "title": "Product Name",
+  "categorySuggest": "Category Suggestions",
+  "imgCategorySuggest": "Category Suggestions",
+  "categoryPath": "Category",
+  "video": "Video URL",
+  "catProperty": "Product Attributes",
+  "p-20000": "Brand",
+  "p-100006385": "Racquet Stringing",
+  "p-100006387": "Racquet Material",
+  "p-100007394": "Country of origin",
+  "p-100005645": "Model",
+  "p-100006188": "Age Group",
+  "description": "Long Description (Lorikeet)",
+  "enDescription": "English Long Description (optional)",
+  "shortDescription": "Short Description",
+  "packageContent": "What's in the box",
+  "p-100005652": "Color Family",
+  "sku": "Variation Information",
+  "price": "Price",
+  "special_price": "Special Price",
+  "quantity": "Quantity",
+  "SellerSku": "SellerSKU",
+  "images": "Images",
+  "color_thumbnail": "Color thumbnail",
+  "warrantyType": "Warranty Type",
+  "warrantyPeriod": "Warranty Period",
+  "warrantyPolicy": "Warranty Policy",
+  "dangerousGoods": "Dangerous Goods",
+  "logisticsWeight": "Package Weight (kg)",
+  "logisticsSize": "Package Dimensions (cm)"
+}

@@ -1,16 +1,13 @@
-import bs4
-import requests
-
 import os
 import traceback
 import xlrd
 from xlrd import XLRDError
 
-from com.dxm.lazadaAttr.script.excel_util import write_date_to_xls
+
 
 dicMap = {}
 dicCount = []
-dir1 = r'C:\Users\DXM_0093\Desktop\lazada分类_ljl'
+dir1 = r'C:\Users\DXM_0093\Desktop\lazada分类_zxy'
 file_names = os.listdir(dir1)
 
 
@@ -32,11 +29,11 @@ def read_sheet2(sheet2):
 
 
 def read_excel():
-    with open(r'F:\othertool\you_get\com\dxm\lazadaAttr\script\record.txt',mode='w',encoding='utf-8') as f:
+    with open(r'F:\othertool\you_get\com\dxm\lazadaAttr\泰国\record.txt',mode='w',encoding='utf-8') as f:
         for file_name in file_names:
             path = "{}/{}".format(dir1, file_name)
-            if file_name.endswith(".csv") or file_name == 'Lazada分类-越南语.xlsx' :
-                print("{} is not xls".format(path))
+            if file_name.endswith(".csv") or file_name=='Color Family (1).xls' :
+                print("{} is not valid xls".format(path))
                 continue
 
             sheet = None

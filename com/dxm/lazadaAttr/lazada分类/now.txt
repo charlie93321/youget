@@ -1,0 +1,2965 @@
+4.25
+Activity
+Age_suitability
+Air_Humidifier_Features
+Anti-colic
+Arrangement
+AssociatedSku
+Attachment
+Baby_Material
+Baby_Skin_type
+Baby_flavor
+Baby_organic
+Baby_scent
+Bag_Material
+Bag_dimension
+Bathrobe_size
+Battery_Life_(Min)
+Battery_Type
+Bead_Size
+Bedding_Pattern
+Bike_Frame_Material
+Bike_Frame_Size_(cm)
+Bike_Wheel_Size_(Dia/inch)
+Blanket_length
+Blanket_width
+Bluray_Features
+Book_Format
+Bottle_Stage
+Bottle_Type
+Bottle_compatibility
+Bottle_pack_size
+Breastpump_compatibility
+Buildin_Oven_Heating_Methods
+Bulb_Cap_Type
+Cabin_Compatibility
+Capacity_(Lit)
+Capacity_(l)
+Carrying_position
+Ceiling_Fan_Features
+Character_Design
+Cheese
+Cleaning_Tool_Type
+Compatibility
+Connection_Type
+Connectivity
+Cooling_System_Type
+Country_of_use
+Cuisine
+Curl_Diameter
+Data_trans_speed
+Depth
+Dimension
+Dumbell_Material
+Energy_Consumption_Grade
+Energy_Efficiency_Egat
+Energy_Efficiency_Star
+Energy_Efficiency_Tick
+Energy_Saving
+Energy_efficiency_(no_of_ticks)
+Engine_oil_size
+Eyelash_Volume
+Fabric
+Fabric_Feature
+Fabrics
+Fan_Blade_Materials
+Fertilizer_Type
+Folded_Dimension
+Folded_dimension
+Football_Boot_Type
+Free_Gift
+Freezer_Capacity
+Function
+Game_Genre
+Garment_Type
+Garment_type
+Genre
+Graphic_Card_Series
+Graphics_Card_Series
+Grinder_Features
+Hazmat
+Height
+Image2
+Image3
+Image4
+Image5
+Image6
+Image7
+Image8
+Important_notice
+Iron_Features
+Isofix
+Kettle_Features
+Lens_Axis
+Lens_Pack_Size
+Lens_compatibility
+Lifetime
+Lock_type
+Low_Noise
+Luggage_Size
+Lunch_Box_Tiers
+MainImage
+Manufacturing_country
+Mattress_features
+Maximum_recommended_age_to
+Maxmium_child_weight
+Maxmium_recommended_child_weight
+Milk_Formula_Flavor
+Milk_Formula_Form
+Minimum_recommended_age_from
+Mist_Modes
+Mixer_Features
+Necklace_length
+Net_Weight
+No_of_Brushing_Modes
+No_of_pieces
+Noise_Level
+Num_of_mode
+Num_of_pieces
+Num_of_pills
+Number_of_Blades
+Number_of_Camera
+Number_of_Tins
+Number_of_Window
+Occasion
+Oil_Container
+Open_dimension
+Optical_Disk_Drive
+Pack
+Paint_Function
+Parent_facing
+Pen_Thickness
+Picture_Frame_Art_Type
+PillowsBolsters_Length
+PillowsBolsters_width
+Plug_Type
+Pointing_Device
+Pole_Material
+Ports
+Ports_Input
+Power_Consumption_(W)
+Power_Type
+Power_of_Motor_Hp
+Processor_Frequency
+Processor_Frequency_GHz
+Product_Dimension
+Product_Height
+Product_Length
+Product_License
+Product_tier
+Product_width
+Projector_Features
+Projector_Resolution
+Pruner_Type
+Purification_Capacity_(CADR)
+RPM
+Reinforced_Toe_Cap
+Religion
+Rice_Cooker_Features
+Rider_Height_(CM)
+Robot_Vacuum_Features
+SPF_rating
+Saws_Size
+Scent
+Seaweed
+SellerSku
+Shelf_Life
+Shelters&Canopies_Type
+Simcard_Function
+Size_mm
+Sleeping_Bag_Shape
+Smart_TV_OS
+Solution
+Sports_Material
+Storage_Size
+Storage_Type
+Stringlights_length
+Stroller_brand_compatibility
+Stroller_weight
+Subscription
+Suction_Power
+Suction_Power_(Airwatts)
+TV_Features
+TV_Installation
+Tailored_Nutrition
+Tank_Capacity
+Temperature_Rating
+Thematic_Graphic_Design
+Tool_Type
+Topup_Product_Group
+Topup_Type
+Towel_Thickness
+Toy_Size
+Tray
+Type_of_Grinder
+Type_of_Material
+Type_of_Package
+Types_of_Button
+Types_of_Teats
+Types_of_wipes
+USB_Ports_Number
+Virtual_Assistant
+Volume
+Volume_(Litre)
+Volume_(ml)
+Volumn_(ml)
+WIFI_Standard
+Water_Resistance_Level
+Water_Tank_Capacity
+Weighing_scale_maximum
+Weight
+Weight_Kgs
+What's_in_the_box
+Wheel_size
+Wheels
+Width
+Wireless_Charging
+_2_in_1_type
+_3d_glasses_types
+about_product
+about_the_brand
+about_the_store
+ac_adapter
+accessories_material
+accessories_types
+activity_type
+additives_type
+adf_capacity
+adf_tray
+adjustible
+age_group
+age_restriction
+air_conditioner_features
+air_conditioner_rated_capacity
+air_conditioning_type
+air_cooler_features
+air_dehumidifer_capacity
+air_fryer_features
+air_intakes_type
+air_purifier_features
+air_purifier_type
+alcohol_content
+alcoholpct
+animal_pets
+animal_type
+antenna_type
+antennas
+anti_slip
+antitheft_type
+app_activity_type
+artificial_plant_type
+artist
+artist_name
+aspect_ratio
+assembly
+audio_output_mode
+author
+auto_battery_size
+auto_defrost
+auto_focus_point
+auto_shut_off
+award_review_prize
+axle_type
+baby_recommended_age
+baby_weight
+back_height
+back_panel
+backpack_capacity
+bag_shape
+bakeware_cake_shape
+bakeware_cake_type
+bakeware_dish_type
+bakeware_material
+bakeware_tool_type
+bakeware_tray_type
+ball_size
+baseball_bat_length
+basic_size
+bathroom_fitting_type
+bathroom_tapware_type
+batteries_type
+battery_accessories
+battery_average_life
+battery_capacity
+battery_core
+battery_feature
+battery_life
+battery_required
+battery_type_camera
+battery_voltage
+bbq_shape
+bbq_type
+beach_style
+bearing_number
+bed_accessory_type
+bed_type
+bedding_size_2
+beds_size
+beer_style
+belt_material
+belt_styles
+benefits
+bike_frame_size
+bird_cage_acc_type
+blade_size
+blender_features
+blower
+bluetooth
+bluray_3d_technology
+body
+body_armor_type
+body_benefits
+body_jewellery
+body_material
+body_only
+bookcase_design
+boot_shaft_height
+bottoms_types
+bracelet_size
+brake_fluid_type
+brand
+brand_classification
+brand_compatibility
+brand_name
+bras_types
+breast_pump_type
+bridge_system
+built_in_battery
+built_in_microphone
+builtin_oven_features
+bulb_socket_type
+bulb_type
+bundesliga_team
+bundle_dg
+bus_type
+cable_connection
+cable_length
+cable_type
+cable_type_tagg
+calculator_power_source
+calculator_type
+camera_accessories_type
+camera_add_acc
+camera_back
+camera_brand_comp
+camera_front
+capacity
+capacity_battery
+car_model
+car_polishes_type
+carbon_filter
+cargo_management_type
+carriers_type
+carry_on
+case_function
+case_material
+case_shape
+case_type
+cat_breed
+cat_life_stage
+cat_toys_type
+cereal_type
+certifications
+chain_size
+chair_arms
+chair_coasters
+chair_design
+chair_type
+chestback_type
+chipset
+chocolate_type
+cinema_3d
+cl_cable_type
+cl_video_output
+cleaning_bin_type
+cleaning_broom_type
+cleaning_brush_type
+clock_type
+clothing_decoration
+clothing_material
+clothing_size
+cloths_towels_type
+clutches_parts_type
+coffe_machine_features
+coffee_accessory_type
+coffee_machine_capacity
+coffee_machine_type
+coffee_maker_type
+cognac_type
+collar_type
+color_family
+color_hb
+color_text
+color_thumbnail
+colored_gem_type
+coloured_gems_type
+comfort_level
+compatibility_by_model
+compatible_devices
+compatible_laptop_size
+compatible_media
+compatible_products
+computer_memory_type
+concern_oral_care
+concerns_hair_care
+condition
+configuration_fridge
+connection_type
+connectivity
+connectivity_speed
+connectivity_type
+console_model
+console_model_comp
+console_type
+container_feature
+cooking_modes
+cooking_preparation
+cooking_style
+cooktop_ranges_features
+cooktop_surface
+cooktop_type
+cookware_capacity
+cookware_diameter
+cookware_dutchoven_type
+cookware_feature
+cookware_finish
+cookware_kettle_features
+cookware_length
+cookware_material
+cookware_pan_type
+cookware_potrack_type
+cookware_roasting_type
+cookware_shape
+cookware_specialty_type
+cord_interface_type
+cord_length
+cordless
+core_construction
+count
+country_origin_hb
+cover_type
+coverage
+cpu_brand
+cpu_chipset_model
+cpu_gpu_cooling_type
+cpu_speed
+createcar_mountfeature
+createcar_mounttype
+cubit_feet
+cup_size
+curtain_features
+curtain_length
+curtain_material
+curtain_type
+curtain_width
+curved_tv
+customer_support
+customes_themes
+cutlery_type
+dac_connection_type
+data_rate
+days_of_supply
+ddr_variant
+decode_ability
+decor_cushion_type
+deflectors_type
+delivery_and_handling
+delivery_option_sof
+denim_features
+denomination_dg
+description
+description_en
+design_electronics
+desk_chair_type
+desk_design
+desk_features
+desk_shape
+device_compatibility
+device_placement
+diamond_carat_size
+diamond_clarity
+diamond_colour
+diamond_cut
+diaper_pack_size
+dietary_information
+dietary_needs
+dietary_requirements
+digital_zoom
+dimensions_rm
+dining_table_design
+dinnerware_plate_type
+disc_size
+dishwasher_type
+disk_type
+display
+display_features
+display_size
+display_size_mac
+display_size_mobile
+display_size_tablet
+display_size_tv
+diystorage_type
+dock_connector
+dock_feature
+dog_breed_type
+dog_life_stage
+dog_size
+dog_toys_type
+dog_weight
+door_security_type
+door_type
+doors
+double_sided_printing
+drawer_type
+dress_length
+dress_shape
+dresser_design
+drinkware_mug_type
+drip_stop
+drive_interface
+drone_features
+dryer_type
+drying_capacity
+drying_rack_materials
+drying_rack_railing
+earring_size
+eco_credentials
+edition
+edition_type
+ejuice_level
+el_cigarettes_type
+electric_toothbrusher_age
+electric_toothbrusher_features
+electric_toothbrusher_type
+electricaltool_type
+energy_efficiency
+engine_oil_type
+expandable
+expandable_memory
+eyelash_curl
+eyelash_length
+eyelash_thickness
+eyewear_size
+fa_create_year
+fa_general_styles
+fa_pattern
+fa_season
+fan_dimensions
+fan_features
+fan_speed
+fan_type
+fastener_head_style
+fastener_length
+fastener_max_weight
+fastener_surface_type
+fastener_type
+fax_color
+fea_chars_brands
+feature
+file_size
+filling
+film_size
+filter_diameter_el
+filter_lifetime
+filter_type
+filter_type_el
+finish
+finish_lipstick
+fire_alarm_power
+fire_alarm_type
+fire_blanket_feature
+fire_blanket_size
+fire_extinguish_feature
+fire_extinguisher_class
+fire_extinguisher_medium
+fire_extinguisher_size
+fire_ladder_length
+fire_proof
+fishing_rod_length
+fishing_type
+flash_range
+flavor
+flavor_nutrition
+floaties_type
+floor_adhesive
+floor_carpet_type
+floor_timber_type
+floor_vinyl_type
+flooring_material
+flour_type
+flow_level
+flushes_type
+fmlt_deodorant
+fmlt_eyes_makeup
+fmlt_face_makeup
+fmlt_hair_removal
+fmlt_hand_foot
+fmlt_makeup
+fmlt_powder_makeup
+fmlt_remover
+fmlt_skin_care
+fmlt_soaps_shower
+focal_ratio
+foldable
+folded_length
+food_feature
+food_pairing
+foor_tile_type
+football_championships
+footwear_size
+footwear_type
+form_factor
+form_gel
+format_magazines
+formulation
+formulation_body_scrub
+formulation_hair_color
+formulation_supplement
+fragrance_family
+frame_color
+frame_material
+frame_rate
+frame_type
+freezer_type
+freshness
+freshness_metric
+fretboard_material
+from_validation_date
+fruit_type
+function_power
+function_scanner
+furniture_features
+gadget_display
+game_genre
+game_type
+garment_steamer_type
+gifts_event
+gin_type
+glass
+glass_type
+glassware_everyday_type
+glassware_jug_type
+glassware_material
+glassware_service_size
+glassware_specialty_type
+glassware_wine_type
+glove_size
+golfbag_type
+grapes_finestwine
+grapes_redwine
+grapes_whitewine
+graphic_card_chipset
+graphic_card_model
+graphics_card
+graphics_memory_new
+greases_type
+grill_accessory_type
+grilles_guards_type
+grilles_type
+gsm
+gtin
+habitat_acc_type_smallpet
+hair_accessories
+hair_dryer_features
+hair_removal_features
+hair_removal_type
+hair_style_features
+hand_foot_care
+hand_orientation
+hand_tools_type
+hat_brim_styles
+hats_style
+hdd_size
+headphone_acc_types
+headphone_features
+health_benefit
+heel_height
+helmets_type
+hepa_filter
+hijab_styles
+holding_capacity
+home_fragrance_type
+hood_type
+hoodie_style_type
+horsepower
+how_to_use_rm
+hubcap_size
+humidifier_features
+humidifier_part_type
+humidifier_type
+ice_cream_format
+image_capture_resolution
+inclination
+induction_cooker_features
+ingredient
+ingredient_hair_oil
+ingredients
+inner_material
+input_connectivity
+input_tray_capacity
+input_type
+input_voltage
+insect_control_type
+instrument_key
+instrument_range
+interest
+interface_type
+internal_memory
+intimates_types
+inverter
+io_ports
+ionizer
+iron_type
+is_digital
+is_unisex
+isbn_issn
+iso_rating
+issue
+items_per_each
+jacket_coat_styles
+jacket_material
+jackets_closure_type
+jar_type
+jeans_decoration
+jeans_fit_type
+jeans_wash_color
+jel_packaging_type
+jel_tool_equipment
+jug
+juicer_features
+karaoke_features
+karaoke_types
+kettle_material
+key_type
+kid_accessories
+kid_accessory_type
+kid_boot_type
+kid_flat_type
+kid_material_filter
+kid_occasion
+kid_sleep_styles
+kid_sneaker_height
+kid_sneaker_type
+kid_swimwear
+kid_underwear_styles
+kid_years
+kids_bed_design
+kids_bed_size
+kids_bike_age
+kids_desk_features
+kids_desk_type
+kids_storage_type
+kitchen_fittings_type
+kitchen_island_design
+kitchen_island_features
+kitchen_tapware_type
+knife_accessory_type
+knife_type
+la_installation
+la_liga_team
+ladder_type
+landlinephone_features
+language
+laptop_compartment
+laptop_friendly
+laptop_size
+laptop_type
+laundry_needs
+leashes_type
+leather_material
+length
+lens_classification
+lens_color
+lens_diameter
+lens_kit
+lens_model
+lens_mount_compatibility
+lens_quality
+light_bulb_colour
+light_bulb_type
+light_bulb_wattage
+light_effects
+light_type
+lightbulb_type
+lightbulb_wattage
+limited_edition
+linen_accessory_type
+linen_fabric
+lingerie_styles
+liquid_capacity
+listed_year_season
+listening_length
+llghtbulb_wattage
+load_capacity
+location
+location_address
+location_city
+location_postal_code
+lock_type
+logo_url
+lubricant_type
+lug_nuts_type
+luggage_wheels
+lumens
+m_pantshort_fit_type
+m_sleeve_length
+m_swimwear_styles
+m_top_neckline
+m_underwear_style
+mac_model_cmptibility
+magnification
+mahp_or_mahs
+main_stone
+make
+makeup_eyes_finish
+makeup_face_benefit
+makeup_lip_benefit
+makeup_skin_tone
+mal_number
+manufacture_type
+mascara_benefits
+mat_length
+mat_thickness
+mat_width
+material
+material_composition
+material_filter
+material_screen_guard
+material_shaft
+material_type
+materinity_bottom_styles
+maternity_top_styles
+mattress_size
+max_print_res_color
+max_print_res_mono
+max_tv_size
+maximum_aperture_range
+maximum_brightness
+maximum_operating_height
+maximum_resolution
+maximum_spin_speed
+measuring_tools_type
+measuring_type
+media_format
+media_handling_capacity
+megapixels
+memory_card_type
+memory_size
+men_shoes_closure
+mens_trend
+metal
+mic_acc_types
+mic_connectivity
+mic_types
+mice_feature
+microphone_inputs
+microwave_capacity
+microwave_features
+microwave_type
+milk_frother
+milk_type
+min_aperture
+minimum_delivery_acceptance
+mirror_features
+mirror_type
+mixer_type
+mobile_service_provider
+model
+modem_type
+monitor_feature
+mono_color
+motherboard_memory_tech
+moto_battery_size
+moto_tires_size
+motor_type
+motorcycle_make
+motorcycle_model
+mounting
+mounting_type
+movement
+movement_country
+mpn
+mt_fashion_acc_type
+multimedia_playback_time
+multipack_bundle
+multiple_usb_charging
+mus_dress_styles
+mus_top_styles
+name
+name_en
+nas_no_of_bays
+neck_material
+net_depth
+net_height
+net_width
+network
+network_connections
+no_of_bottles
+no_of_cameras_included
+no_of_people
+no_of_ports
+nofrost_system
+non_stick_surface
+number_drawers
+number_of_bottles
+number_of_channels
+number_of_cpu_cores
+number_of_disc
+number_of_doors
+number_of_ethernet_ports
+number_of_exposure
+number_of_fans
+number_of_hdmi_ports
+number_of_hobs
+number_of_key
+number_of_memory_slots
+number_of_pages
+number_of_pieces
+number_of_sata_cables
+number_of_speed
+number_of_speeds
+number_of_stiches
+number_of_waffles
+number_shelves
+nut_type
+occasion
+operating_system
+operating_system_version
+optical_sensor_resolution
+optical_zoom
+organic
+organizers_type
+orientation
+os_compatibility
+other_cooking_features
+otherelectrical_type
+ottoman_design
+outdoor_chair_type
+outdoor_dining_type
+outdoor_shade_fabric
+outdoor_shade_feature
+outdoor_table_type
+outdoor_tool_accessory
+outdoor_tool_type
+outer_material
+output_connectivity
+output_tray_capacity
+oven_capacity
+oven_max_temperature
+oven_toaster_features
+overheat_control
+pa_no_of_channels
+pack_type
+package_content
+package_height
+package_length
+package_weight
+package_width
+packaging_type
+pad_applicable_area
+paint_accessory_type
+paint_adhesive_glue
+paint_adhesive_type
+paint_caulk_category
+paint_caulk_type
+paint_colour_tone
+paint_features
+paint_finish
+paint_product_range
+paint_range_variation
+paint_sealer_finish
+paint_sealer_range
+paint_sealer_surface
+paint_sealer_type
+paint_surface
+paint_type
+paint_volume
+painting_category
+painting_shape
+paints_primers_type
+panties_styles
+pants_fit_type
+pants_fly
+pants_length
+pants_style
+paper_handling
+paper_ply
+paper_size
+paper_tray_capacity
+pattern
+patterned
+pax
+peril_type
+pet_food_size
+pet_size
+pets_flavor
+phone_features
+phone_type
+phonecase_theme
+pickup_configuration
+picture_size
+pillow_fabric
+pillow_shape
+pipes_fittings_type
+pixel_ppi
+plate_frames_type
+platform
+platform_dg
+plumbing_parts_type
+plumbing_tapware_feature
+plumbing_tapware_finish
+ports
+position
+pot_material
+power
+power_adapter_types
+power_capacity
+power_consumption
+power_consumption_grill
+power_consumption_microwave
+power_drill_type
+power_extractor_type
+power_grinder_type
+power_ha
+power_lenses
+power_output
+power_output_amp
+power_polisher_disc
+power_saw_type
+power_source
+power_source_flash
+power_steering_type
+power_supply
+power_tool_accessory_size
+power_tool_accessory_use
+power_tool_amperage
+power_tool_batteries
+power_tool_btu
+power_tool_feature
+power_tool_included
+power_tool_material_uses
+power_tool_torque
+power_tool_welder_type
+powerbank_battery_type
+powerbank_capacity
+powerbank_feature
+powerpoint_type
+premier_league_team
+pressure_cooker_features
+price
+print_speed
+printer_connect_type
+printer_function_type
+privacy
+processor
+processor_speed
+processor_type
+product_options
+product_type
+product_warranty
+product_warranty_en
+productvol
+projector_types
+promo_tag
+protect_clothes_feature
+protect_shoes_features
+ptb_speaker_features
+publish_date
+publisher
+pullers_type
+purification_capacity
+purification_method
+quantity
+rack_pinion_type
+racquet_material
+racquet_stringing
+radio_cdplayer_feature
+radio_cdplayer_types
+radios_scanners_type
+ram_memory
+range_hood_features
+range_mount_type
+read_speed
+receiver_feature
+receiver_type
+recommended_age
+recommended_gender
+recommended_user
+recorder_channel_cap
+refills
+refrigerator_features
+refrigerator_type
+region_coverage
+relays_type
+repair_tools_type
+replacement_type
+resolution
+response_time
+rgb_lighting
+ring_size
+room_size
+rope_type
+rug_material
+rug_pile
+rug_shape
+rug_size
+rug_thickness
+rug_type
+rum_type
+running_boards_type
+safe_type
+safety_feature
+sake_type
+sandal_type
+scan_resolution
+scarves_styles
+scent
+scent_feature
+screen_size
+screen_type
+seat_capacity
+security_camera_feature
+security_camera_style
+security_system_type
+sensor_type
+series_a_team
+serveware_bowl_type
+serveware_compartments
+services
+set_pieces
+set_size
+settings
+sewing_machine_features
+sewing_speed
+shalat_styles
+shape
+shapers_styles
+shaver_features
+shaver_type
+sheet_type
+shelf_design
+shelf_expiry
+shocks_struts_type
+shoe_accessory_type
+shoe_organiser_type
+shoes_closuretype
+shoes_decoration
+shoes_size
+short_description
+signal_type
+sim_slots
+size
+size_baby_clothing
+size_baby_shoes
+size_diaper
+size_helmets
+size_of_jug
+size_stuffed_toys
+size_wear
+skin_benefit
+skin_concern
+skin_type
+skirt_length
+skirt_style
+sleep_lounge_styles
+sleeping_capacity
+sleeves
+smart_glasses_features
+smart_tv
+smartwatch_dial_size
+smartwatch_storage
+smartwear_model_compa
+smartwear_size
+smp_types
+sneaker_upperheight
+sneakers_style
+snow_chains_type
+sock_tight_style
+sockets
+sofa_type
+software_offerings
+sold_in
+soleplate_type
+solution
+sound_card
+speaker_configuration
+speaker_phone
+speakers_features
+special_feature
+special_from_date
+special_price
+special_to_date
+speed_class
+spin_speed
+spinmop_function
+spirit_age
+spoilers_kits_type
+sport_water_bottle_capacity
+sports_toy
+stationery_Notebook_type
+stationery_binder_type
+stationery_board_type
+stationery_cartrdge_form
+stationery_clip_type
+stationery_correct_type
+stationery_cutter_type
+stationery_deskorg_type
+stationery_diary_type
+stationery_envelope_type
+stationery_fastener_type
+stationery_filing_type
+stationery_flag_type
+stationery_glue_type
+stationery_label_feature
+stationery_label_type
+stationery_labeller_tech
+stationery_labeller_type
+stationery_lead_type
+stationery_line_point
+stationery_marker_type
+stationery_note_feature
+stationery_paper_carton
+stationery_paper_feature
+stationery_paper_layout
+stationery_paper_pieces
+stationery_paper_thickness
+stationery_pen_type
+stationery_pencil_type
+stationery_staple_type
+stationery_tape_type
+steamer_features
+steamer_material
+steamer_tiers
+steering_wheels_type
+stem_toys_type
+stool_height
+storage_capacity_new
+storage_feature
+storage_guidelines
+storage_type
+storage_type_gr
+store_name
+strap
+stroke_oils_type
+style
+style_helmet
+stylus_feature
+subwoofer
+suitcase_size
+sun_protection
+sunglasses_lens_type
+suspension_tools_type
+swimwear_type
+switches_type
+system_memory_new
+table_base
+table_feature
+table_height
+tablet_cellular
+tablet_features
+tap_filter_features
+tea_accessory_type
+tea_capacity
+tea_format
+tea_server_type
+tea_type
+tee_neckline
+tee_sleeve_length
+tequila_type
+test_multi_text_attribute
+test_sku_value
+test_value_normalization
+thickness
+thread_count
+throwing_hand
+tie_width
+time_slot
+tire_model
+tires_variation
+title
+to_validation_date
+toe_shape
+tonneau_covers_type
+top_fit_types
+top_type
+top_types
+tops_type
+torch_feature
+touchpad
+towel_fabric
+towel_size
+towing_products_type
+towing_winches_type
+toy_num_pieces
+toy_recommended_age_max
+toy_recommended_age_min
+tracker_styles
+trailer_type
+trampoline_size
+transmission_speed
+transmission_type
+travel_size
+trim_rings_hub
+trimmer_groomer_clipper_application
+truck_bed_type
+tsa_lock
+turntable_types
+tv_adapter_type
+tv_resolution
+tv_technology
+tv_value-added_services
+type
+type_air_conditioner
+type_air_fresherner
+type_ball
+type_burner
+type_care
+type_case_cover
+type_component_switch
+type_concert_percussion
+type_curtain
+type_dg
+type_dg_free
+type_diaper
+type_diaper_bag
+type_digital
+type_feeders
+type_fitness_accessories
+type_food_smallpet
+type_free
+type_gauges
+type_hair_color
+type_of_battery
+type_of_beauty_spa
+type_of_blender
+type_of_boards
+type_of_bundle
+type_of_courses
+type_of_entertainment
+type_of_fitness
+type_of_heels
+type_of_induction_cooktops
+type_of_infrared_cooktops
+type_of_juicer
+type_of_restaurant
+type_of_rice_cooker
+type_of_sport
+type_of_tour_travel
+type_of_vehicle
+type_paint
+type_reptile_food
+type_reptile_habitats
+type_sauces
+type_scanner
+type_screen_guard
+type_seminar
+type_sports_accessories
+type_theme_park
+type_thermometer
+type_tools
+type_toothbrush_bris
+type_wash
+type_washing
+type_woodwinds
+umbrella_category
+unit_metric
+unit_quantity
+units
+units_hb
+universal
+upholstery
+usage_contact_lens
+usb_ports
+usb_support
+utensil_cooking_type
+utensils_barware_type
+utensils_board_features
+utensils_board_material
+utensils_board_type
+utensils_cheese_type
+utensils_cooking_feature
+utensils_fruit_type
+utensils_garlic_type
+utensils_measure_type
+utensils_meat_type
+utensils_oil_type
+utensils_opener_type
+utensils_pasta_features
+utensils_pasta_type
+utensils_peeler_type
+utensils_salt_type
+utensils_serving_type
+utensils_specialty_type
+utensils_spice_type
+utensils_strainer_type
+utensils_therm_features
+utensils_therm_type
+vacuum_cleaner_features
+vacuum_cleaner_type
+vase_vessel_material
+version
+veterinary_diet_type
+video
+video_capture_resolution
+video_resolution
+viewfinder
+vintage
+viscosity
+voice_recorder_types
+volume
+volumetric_capacity
+vr_features
+w_blouse_sleevestyle
+w_sleeve_length
+w_swimwear_style
+waffles_thickness
+waist_type
+wall_mount_feature
+wall_mounted
+wall_oven_type
+wallet_types
+wardrobe_blocks
+wardrobe_door
+wardrobe_materials
+warranty
+warranty_hb
+warranty_type
+washing_capacity
+washing_cleaning_instruction
+washing_features
+washing_mode
+watch_case_size
+watch_dial_size
+watch_strap_color
+water_component
+water_dispenser_features
+water_dispenser_type
+water_efficiency
+water_heater_features
+water_heater_type
+water_heating_energy
+water_resistance
+water_resistant
+waterproof
+waterproof_function
+wattage
+wattage_ha
+wear_acc_connectivity
+wear_acc_feature
+wear_acc_function
+wear_acc_strap_material
+weight
+weight_capacity
+weight_of_metal
+weight_or_age_range
+weight_type
+weight_weight
+wheel_bolt_pattern
+wheel_diameter
+wheel_material
+wheel_offset
+wheel_pcd
+wheel_width
+wheels
+wheels_size
+wheels_type
+whisky_style
+whisky_type
+window_type
+wings
+wiper_size
+wireless
+wireless_charging_type
+wireless_connectivity
+wireless_signal_range
+wireless_trans_speed
+womens_trend
+woofer_size
+worklight_type
+wregion
+writing_speed
+year
+yoga_mat_feature
+|||||||||||||
+4.25
+Activity
+Độ tuổi phù hợp
+Đặc điểm máy hút ẩm
+Anti-colic
+Arrangement
+AssociatedSku
+Số lượng phụ tùng
+Chất liệu trẻ em
+Loại da em bé
+Hương vị em bé
+Hữu cơ cho bé
+Mùi hương trẻ em
+Bag Material
+Kích thước túi
+Bathrobe Size
+Battery Life Run Time (Min)
+Loại pin
+kích thước hạt
+Bedding_Pattern
+Bike Frame Material
+Bike Frame Size (cm)
+Bike Wheel Size (Dia/inch)
+Blanket Length
+Blanket Width
+Bluray Features
+định dạng sách
+Giai đoạn chai
+Giai đoạn chai
+Bottle compatibility
+Kích thước gói chai
+Tương thích
+Phương pháp làm nóng
+Bulb Cap Type
+Tương thích kích thước cabin
+Dung tích
+Dung tích (L)
+Vị trí bế đỡ em bé
+Ceiling Fan Features
+Nhân vật và thiết kế
+Phô mai
+Dụng Cụ làm sạch Loại
+Tương thích
+Connection_Type
+Connectivity
+Loại hệ thống làm mát
+Country of use
+Loại hình ẩm thực
+Đường kính
+Data_trans_speed
+Depth
+Kích thước cửa
+Dumbell Material
+Energy Consumption (W)
+Hiệu suất năng lượng
+Hiệu suất năng lượng
+Nhãn năng lượng
+Tiết kiệm điện
+Hiệu suất năng lượng
+Engine oil size
+Eyelash Volume
+Chất liệu vải
+Đặc điểm vải
+Fabrics
+Vật liệu cánh quạt
+Fertilizer Type
+Kích thước gấp
+Kích thước gấp
+Football Boot Type
+Quà miễn phí
+Dung tích ngăn đông
+Chức năng
+dòng game
+Garment Type
+Kiểu may
+Genre
+รุ่นการ์ดจอ
+Dòng card đồ họa
+Tính năng
+Chất liệu nguy hiểm
+Height
+Image2
+Image3
+Image4
+Image5
+Image6
+Image7
+Image8
+Thông báo quan trọng
+Tính năng
+Isofix
+Tính năng
+Lens Axis
+Lens Pack Size
+Lens_compatibility
+Trọn đời
+Loại khóa
+Độ ồn thấp
+Hành lý Kích Thước
+Số tầng
+MainImage
+Nước sản xuất
+Mattress_features
+Tuổi tối đa được đề nghị
+Cân nặng tối đa của trẻ
+Cân nặng tối đa của trẻ
+Vị sữa
+Công thức sữa
+Tuổi tối thiểu được đề nghị
+Mist Modes
+Tính năng
+Chiều dài vòng cổ
+Trọng Lượng tịnh
+No of Brushing Modes
+Không miếng nào
+Độ ồn (Đe ci ben)
+Số chế độ
+Number of pieces
+Số lượng thuốc
+Số lưỡi dao
+Number of Camera
+Số lượng lon
+Number of Window
+Dịp
+Hộp đựng dầu
+Kích thước mở
+Đĩa quang
+Cách đóng gói
+Paint Function
+Đối mặt với phụ huynh
+Pen Thickness
+Picture_Frame_Art_Type
+Pillowsbolsters Length
+Pillowsbolsters Width
+Loại ổ cắm
+Thiết bị trỏ
+Cực Chất Liệu
+Ports
+Cổng kết nổi
+Power Consumption (W)
+Công suất Loại
+Công suất Motor (HP)
+Processor Frequency
+Tốc độ xử lý (Ghz)
+Kích thước sản phẩm
+Chiều cao
+Product_Length
+giấy phép sản phẩm
+Cấp sản phẩm
+Product_width
+Tính năng máy chiếu
+Độ phân giải máy chiếu
+Máy tỉa Loại
+Dung tích
+Số vòng quay
+Reinforced Toe Cap
+tôn giáo
+Đặc tính nồi cơm điện
+Rider Height (CM)
+Tính năng chân không của robot
+Đánh giá SPF
+Saws Size
+Scent
+Rong biển
+SellerSku
+Hạn sử dụng
+Shelters&Canopies Type
+Simcard_Function
+Size_mm
+Sleeping Bag Shape
+Hệ điều hành
+Hook Type
+Chất liệu
+Storage_Size
+Storage_Type
+Stringlights Length
+Tương thích thương hiệu xe đẩy
+Trọng lượng xe đẩy
+Gói thuê bao
+Suction Power (kPa)
+Sức hút (Airwatts)
+Tính năng
+Hình thức lắp đặt
+Sữa dinh dưỡng
+Dung tích
+Mức nhiệt độ
+Thiết kế đồ họa chuyên đề
+Loại dụng cụ
+Topup Product Group
+Loại top-up
+Towel Thickness
+Toy_Size
+Tray
+Loại máy mài
+Type_of_Material
+Type of Package
+Các loại nút
+Các loại trà
+Các loại khăn lau
+Cổng USB Số
+Trợ lý ảo
+Âm lượng
+Dung tích (Lít)
+Volume_(ml)
+Dung tích (ml)
+Chuẩn WIFI
+Water Resistance Level
+Water Tank Capacity (L)
+Trọng lượng cân tối đa
+Weight
+Khối lượng (Kg)
+What's_in_the_box
+Kích thước bánh xe
+Cân nặng
+Width
+không dây
+2 in 1 Type
+Loại kính 3D
+về sản phẩm
+Về thương hiệu
+Giới thiệu về cửa hàng
+Bộ đổi nguồn AC
+Vật liệu phụ kiện nội thất
+Accessory Type
+Activity Type
+Chất Phụ Gia
+Công suất ADF
+Khay đảo giấy tự động
+Có thể điều chỉnh
+Age Group
+Độ tuổi giới hạn
+Đặc điểm máy lạnh
+Công suất
+Loại điều hòa không khí
+Đặc điểm máy làm mát không khí
+Công suất hút ẩm (ml)
+Tính năng
+Loại van dẫn khí
+air purifier features
+Loại bộ lọc
+alcohol_content
+Phần trăm độ cồn (%)
+Loại động vật
+Loại thú
+Loại ăng ten
+Ăn- ten
+Chống trượt
+Loại chống trộm
+Loại hoạt động
+artificial_plant_type
+Nghệ sĩ
+Tên nghệ sĩ
+Tỷ lệ khung hình
+hội,, tổ hợp
+Chế độ xuất âm thanh
+Tác giả
+Auto Battery Size
+Tan băng tự động
+Lấy nét tự động
+Tắt tự động
+Xếp hạng Robert Parker
+Axle Type
+Độ tuổi phù hợp
+Cân nặng
+Chiều cao lưng ghế
+Kiểu tựa lưng
+Dung tích ba lô (lít)
+Dạng túi
+Loại khuôn bánh
+Hình dạng khuôn bánh
+Loại vỉ nướng
+Chất liệu khuôn làm bánh
+Loại dụng cụ nướng bánh
+Loại khay nướng
+Cỡ bóng
+Chiều dài (inch)
+Kích thước
+Loại lắp đặt phòng tắm
+Loại đồ dùng phòng tắm
+Loại pin
+Loại phụ kiện pin
+Tuổi thọ pin trung bình
+battery_capacity
+Loại lõi pin
+Đặc tính pin
+Thời lượng pin
+Pin
+Loại pin
+Battery Voltage
+Hình dạng bếp BBQ
+Loại nhiên liên BBQ
+Beach Style
+Số vòng bi
+Loại phụ kiện giường
+Loại giường
+Kích cỡ giường
+Kích thước giường cho thú cưng
+Phong cách bia
+Chất liệu dây giày
+Các phong cách thắt lưng
+Lợi ích
+Kích thước khung xe đạp (inches)
+Phụ kiện lồng chim
+Độ lớn cánh quạt
+Tính năng
+Chức năng quạt
+Bluetooth
+Tính năng BluRay 3D
+Độ mạnh
+Loại bọc thân xe
+Công dụng
+Đồ trang sức toàn thân
+Chất liệu thân
+Chỉ có thân máy
+Thiết kế bìa sách
+Chiều cao boot
+Bottom Type
+Cỡ vòng tay
+Brake Fluid Type
+Thương hiệu
+Phân loại thương hiệu
+Thương hiệu sản phẩm tương thích
+Thương hiệu
+Loại áo lót
+Loại máy hút sữa
+Hệ thống cầu nối
+Pin gắn trong
+Microphone tích hợp
+Tính năng
+Bulb Socket Type
+Bulb Type
+Bundesliga đội
+Nhóm
+Loại bus
+Kết nối
+Chiều dài cáp (M)
+Cable Type
+Loại cáp
+Nguồn
+Loại máy tính
+Loại phụ kiện camera
+Camera Additional Accessories
+Camera sau
+sự tương thích thương hiệu camera
+Camera trước
+Dung tích
+Kích thước pin
+car_model
+Loại đánh bóng & sáp xe hơi
+Màn lọc carbon
+Loại thùng xe
+Loại địu em bé
+Xách tay
+Chức năng của ốp lưng/ bao da
+Chất liệu ốp lưng/bao da
+Hình dạng mặt đồng hồ
+Loại ốp lưng
+Các giống mèo
+Giai đoạn sống của mèo
+Đồ chơi cho mèo
+Loại ngũ cốc
+Chứng nhận chất lượng
+Cỡ dây chuyền
+Tay vịn của ghế
+Lớp bao phủ
+Thiết kế ghế
+Loại ghế
+Loại bảo hộ ngực & lưng
+Chipset
+Loại sô cô la
+Xem phim 3D
+Loại cáp
+Cổng ra Video
+Loại thùng
+Loại chổi
+Loại cọ
+Loại đồng hồ
+Kiểu trang trí
+Chất liệu vải
+Kích thước quần áo
+Loại vải & khan
+Loại ly hợp & phụ tùng
+Tính năng
+Loại phụ kiện pha cà phê
+Dung tích
+Loại máy pha cà phê
+Loại máy pha cà phê
+Type of Cognac
+Collar Style / Neckline
+Nhóm màu
+Nhóm màu
+Tên màu
+Color thumbnail
+Loại đá quý
+Loại đá màu
+Độ cứng của nệm
+Dòng sản phẩm tương thích
+Thiết bị tương thích
+Kích thước laptop tương thích
+Truyền thông tương thích
+Sản phẩm tương thích
+Loại bộ nhớ máy tính
+Công dụng
+Công dụng
+condition
+Loại tủ lạnh
+Kết nối máy tính bảng
+Kết nối
+Tốc độ kết nối
+Cổng kết nối
+model máy chơi game
+sự tương thích model máy chơi game
+Loại điều khiển
+Đặc tính thùng chứa
+Chế độ nấu của lò vi sóng
+Chuẩn bị nấu ăn
+Phong cách ẩm thực
+Tính năng
+Mặt bếp
+Loại bếp
+Dung tích dụng cụ nấu ăn
+Đường kính dụng cụ nấu ăn
+Loại lò quay
+Đặc tính dụng cụ nấu ăn
+Bộ nồi chảo
+Đặc tính ấm nước
+Chiều dài dụng cụ nấu ăn
+Chất liệu dụng cụ nấu ăn
+Loại chảo
+Loại giá để nồi
+Loại khay nướng
+Hình dạng dụng cụ nấu ăn
+Loại chảo chuyên dùng
+Loại giao thức
+Chiều dài dây điện của máy hút bụi (m)
+Không dây
+Cấu trúc lõi
+Miếng
+Country of origin
+Loại bọc thân xe
+Độ che phủ
+Bộ vi xử lý
+model chipset CPU
+loại tản nhiệt CPU GPU
+Tốc độc CPU
+Đặc điểm của ngàm
+Loại ngàm
+Cubit Feet
+Kích thước cup ngực
+Đặc tính màn
+Chiều dài màn
+Chất liệu màn
+Loại màn
+Chiều rộng (cm)
+TV màn hình cong
+Tính năng hỗ trợ người dùng
+Chủ đề trang phục
+Loại dụng cụ ăn uống
+loại kết nối DAC
+Tỉ lệ truyền dữ liệu
+Liệu trình
+loại DDR
+Chất lượng âm thanh tương thích
+Loại gối
+Loại chống sét & chắn
+Giao hàng và xử lý
+delivery_option_sof
+Denim Features
+Mệnh giá
+Mô tả sản phẩm (Lorikeet)
+Mô tả sản phẩm tiếng Anh (tùy chọn)
+Thiết kế
+Loại ghế văn phòng
+Thiết kế bàn làm việc
+Đặc tính bàn làm việc
+Hình dạng bàn làm việc
+sự tương thích thiết bị
+Vị trí thiết bị
+Carat
+Diamond Clarity
+Màu kim cương
+Giác cắt kim cương
+Diaper Pack Size
+Giá trị dinh dưỡng
+Nhu cầu dinh dưỡng
+Yêu cầu khẩu phần ăn
+Zoom kỹ thuật số
+Kích thước
+Loại bàn ăn
+Dinner Plate Type
+Kích thước đĩa
+Loại máy rửa chén
+Loại đĩa
+Hiển thị
+Đặc điểm hiển thị
+Kích thước màn hình
+Kích thước màn hình
+display_size_mobile
+Kích thước màn hình (inch)
+Kiính thước màn hình (inches)
+Loại dụng cụ lưu trữ
+Dock sạc
+Các tính năng Dock
+Giống chó
+Giai đoạn sống của chó
+Cỡ chó
+Đồ chơi cho chó
+Trọng lượng chó
+Loại phụ kiện cửa
+Door Type
+Loại cửa/Số cửa
+In hai mặt
+Ngăn kéo đựng giấy
+Độ dài váy
+Kiểu váy đầm
+Thiết kế tủ
+Loại ly
+Bộ phận chống rỉ nước
+Giao diện ổ đĩa
+Tính năng Drone
+Loại máy sấy
+Drying Capacity
+Chất liệu giá phơi
+Số giá phơi
+Earring Size
+Thông tin sinh thái
+Phiên bản
+Loại phiên bản
+Nồng độ Nicotin
+Loại thuốc lá điện tử
+Tuổi thọ bàn chải
+Tính năng
+Loại
+Loại dụng cụ điện
+Hiệu năng (số đánh dấu)
+Loại dầu động cơ
+Có thể mở rộng
+Bộ nhớ mở rộng
+Curl
+eyelash_length
+Thickness (mm)
+Kích thước gọng
+Năm sản xuất
+Phân Loại Thời Trang
+Mẫu/ Chi Tiết
+Mùa
+Kích thước quạt
+Đặc điểm quạt
+Tốc độ quạt
+Loại quạt
+Loại chốt
+Chiều dài chốt (mm)
+Tải trọng tối đa của chốt (mm)
+Loại bề mặt chốt
+Loại chốt
+Fax màu
+Thương hiệu nổi bật
+Tính năng
+Kích thước tập tin
+Chất liệu ruột
+Kích thước phim
+Đường kính màng lọc
+Tuổi thọ
+filter_type
+Loại màng lọc
+Finish
+Hiệu ứng trang điểm môi
+Công suất chuông báo cháy
+Loại chuông báo cháy
+Đặc điểm khăn chữa cháy
+Chiều dài khăn chữa cháy (mm)
+Đặc tính bình chữa cháy
+Kính chữa cháy
+Chất liệu bình chữa cháy
+Kích thước bình chữa cháy
+Chiều dài thang chữa cháy
+Fire Proof
+Chiều dài cần câu (mét)
+Loại cần câu
+Cự ly phủ sáng (M)
+Flavor
+Hương vị dinh dưỡng
+Loại phao bơi
+Loại keo dán sàn
+Loại thảm
+Loại thanh gỗ
+Loại nhựa
+Chất liệu
+Loại bột
+Khả năng thấm hút
+Ngang Bằng
+Dạng sản phẩm
+Dạng sản phẩm
+Dạng sản phẩm
+Dạng sản phẩm
+Dạng sản phẩm
+Hình dạng sản phẩm
+Dạng sản phẩm
+Dạng sản phẩm
+Hình dạng sản phẩm
+Dạng sản phẩm
+Tiêu điểm
+Có thể gập lại
+Độ dài khi gập
+Kích thước giường cho thú cưng
+Phối hợp thực phẩm
+Loại gạch
+Giải vô địch bóng đá
+Cỡ giày
+Loại giày
+Yếu tố hình thức
+Dạng thức
+Định dạng tạp chí
+Dạng sản phẩm
+Thành phần hạt tẩy tế bào chết cho cơ thể
+Dạng sản phẩm
+Dạng sản phẩm
+Hương
+Màu gọng kính
+Chất liệu khung
+Tỷ lệ khung hình
+Loại gọng
+Loại tủ đông
+Tươi sống
+Freshness Metric
+Chất liệu phím đàn
+Ngày bắt đầu (Ngày/tháng/năm)
+Loại trái cây
+Chức năng nguồn
+Chức năng máy scan
+Đặc tính đồ nội thất
+Loại màn hình
+dòng game
+Loại game
+Loại bàn ủi hơi
+Sự kiện
+Loại Gin
+Chất liệu mặt kính đồng hồ
+Loại ly
+Đồ thủy tinh
+Loại bình
+Chất liệu
+Kích cỡ dụng cụ phục vụ
+Loại ly đặc biệt
+Loại ly rượu
+Kích thước găng tay
+Kiểu túi
+Grapes (for Finest Wines)
+Loại nho (dành cho rượu vang đỏ)
+Loại nho (dành cho rượu vang trắng)
+chipset card đồ hoạt
+model card đồ họa
+Card đồ họa
+Bộ nhớ đồ họa
+Loại mỡ
+Loại phụ kiện nướng
+Lưới tản nhiệt & Loại bảo vệ lưới tản nhiệt
+Loại lưới tản nhiệt
+Chất lượng giấy (GSM)
+GTIN
+Phụ kiện cho thú nhỏ
+Hair Accessories
+Tính năng
+Tính năng
+hair removal type
+Tính năng
+Công dụng
+Tay thuận
+Loại dụng cụ cầm tay
+Các phong cách vành nón
+Hat Style
+Hard Drive Capacity
+Phụ kiện tai nghe
+Tính năng tai nghe
+Lợi ích về sức khỏe
+Chiều cao gót giày (cm)
+Helmets Type
+Màng lọc HEPA
+Hijab Style
+Dung tích nước (L)
+home_fragrance_type
+Loại mui
+Kiểu Hoodie
+Mã lực
+cách sử dụng
+Cỡ bọc đùm
+Đặc điểm máy hút ẩm
+Loại bộ phẫm máy hút ẩm
+Loại máy giữ ẩm
+Loại kem
+Độ phân giải hình ảnh chụp
+Độ nghiêng
+Tính năng
+Thành phần
+Thành phần
+Thành phần
+Chất liệu bên trong
+Kết nối đầu vào
+Sức chứa khay đầu vào
+Kiểu đầu vào
+Điện áp đầu vào
+Loại dụng cụ diệt côn trùng
+Phím nhạc cụ
+Loại nhạc cụ
+Lợi ích
+Loại giao diện
+Bộ nhớ trong
+Intimate Type
+Loại máy biến tần
+Io Ports
+Ion hóa
+Loại bàn ủi
+SMS hoặc Email
+Is Unisex
+ISBN/ISSN
+Chỉ số ISO
+Ấn bản
+Mỗi mục
+Jacket Coat Style
+Chất liệu áo khoác bảo hộ
+Kiểu khóa áo khoác
+Loại chất liệu bình
+Kiểu trang trí quần jean
+Loại quần jean
+Màu quần jean
+Hộp đựng và hình minh họa đồ trang sức
+công cụ & thiết bị làm đồ trang sức
+Chất liệu cối xay
+Tính năng
+Tính năng karaoke
+Loại Karaoke
+Vật liệu
+Loại phím
+Accessories
+Accessory Type
+Boot Type
+Shoe Type
+Material
+Occasion
+Sleep Style
+Sneaker Height
+Sneaker Type
+Swimwear Style
+Underwear Style
+Kid years
+Thiết kế giường trẻ em
+Cỡ giuờng trẻ em
+Dùng cho trẻ ở độ tuổi
+Đặc điểm bàn học trẻ em
+Loại bàn học trẻ em
+Loại vật dụng đựng đồ trẻ em
+Loại vật dụng nhà bếp
+Thiết kế nhà bếp
+Đặc điểm nhà bếp
+Loại vòi nước nhà bếp
+Loại phụ kiện dao
+Loại dao
+Provide Installation
+Đội La Liga
+Loại thang
+Tính năng điện thoại cố định
+Ngôn ngữ
+Ngăn đựng laptop
+Laptop Friendly
+Cỡ laptop
+Loại Laptop
+Nhu cầu giặt ủi
+Dây dắt thú cưng
+Chất liệu
+Chiều dài
+Lens classification
+Lens Color
+Đường kính ống kính
+Ống kính đi kèm
+Loại ống kính
+Khả năng tương thích ngàm ống kính
+Độ trong của tròng kính
+Màu bóng đèn
+light_bulb_type
+Công suất bóng đèn
+Đặc điểm bóng đèn
+Loại đèn
+Loại bóng đèn
+Lightbulb Wattage
+Limited Edition
+Loại phụ kiện linen
+Vải linen
+Lingerie Style
+Dung tích lỏng (OZ)
+Mùa trong năm
+Độ dài bản nghe
+Công suất bóng đèn
+Tải trọng (kg)
+Vị trí
+Địa chỉ
+Thành phố
+Vị trí sẵn có theo Mã bưu điện
+Loại khóa
+logo_url
+Loại dầu nhớt
+Ốc bánh xe & Phụ kiện
+Bánh xe
+Lumens (lm)
+Độ bó
+Chiều dài tay áo
+Swimwear Style
+Neckline
+Kiểu quần
+Khả năng tương thích với Mac
+Độ phóng đại
+mahp hay mahs
+Main stone
+Chế tạo
+Hiệu ứng trang điểm mắt
+Công dụng
+Công dụng
+Tông da
+mal number
+Loại sản xuất
+Công dụng
+Chiều dài
+Độ dày
+Chiều rộng
+Chất liệu
+Thành phần vật liệu
+Material
+Loại chất liệu
+Chất liệu tay cầm (vợt)
+Material
+Bottom Style
+Top Style
+Kích thước
+Độ phân giải in màu tối đa
+Maximum Print Resolution
+Cỡ TV cực đại
+Khẩu độ tối đa
+Độ sáng tối đa
+Giới hạn độ cao vận hành tối đa (cm)
+Độ phân giải tối đa
+Tốc độ quay tối đa (vòng/phút)
+Loại công cụ đo lường
+Loại thước đo
+Định dạng
+Khổ giấy in được hỗ trợ
+Độ phân giải camera (MP)
+Loại thẻ nhớ
+Kích thước bộ nhớ
+Kiểu khóa giày
+Xu Hướng Nam
+Metal
+Phụ kiện mic
+Kết nối mic
+Các loại mic
+Tính năng của chuột
+Đầu cắm micro
+Dung tích
+Đặc điểm lò vi sóng
+Loại lò vi sóng
+Máy đánh sữa
+Loại sữa
+Khẩu độ tối thiểu
+Hạn giao hàng tối thiểu (Ngày)
+Đặc điểm gương
+Loại gương
+Loại máy trộn
+Nhà cung cấp
+Dòng sản phẩm
+Loại modem
+đặc điểm màn hình
+Âm thanh Mono/Màu sắc
+Công nghệ bo mạch chủ
+Moto Battery Size
+Kích thước lốp moto
+Motor Type
+Motorcycle Make
+Mẫu xe máy tương thích
+Khớp nối
+Loại ngàm gắn
+Loại máy
+Nơi sản xuất
+MPN
+Phong cách phụ kiện
+Thời gian ghi nội dung đa phương tiện
+Multipack Bundle
+sạc USB nhiều cổng
+Dress Style
+Top Style
+Tên
+Tên (Tiếng Anh)
+nas no of bays
+Chất liệu cần đàn
+Chiều sâu (mm)
+Chiều cao (mm)
+Chiều rộng (mm)
+Mạng kết nối
+network_connections
+Số lượng chai
+số lượng cameras bao gồm
+No Of People
+Số cổng ra
+Hệ thống chống đóng băng
+Không dính
+Số ngăn tủ
+Số chai
+Số kênh
+Số lõi bộ xử vi lý
+Số đĩa
+Số cửa
+Số cổng ethernet
+Độ phơi sáng cho film
+Số quạt
+Số cổng HDMI
+Số ngăn
+Số lượng phím
+Số khe thẻ nhớ
+Số trang
+Multipack
+Số cáp SATA
+Số lượng tốc độ
+Tốc độ
+Số mũi khâu
+Số lượng bánh waffle
+Số kệ
+Loại hạt
+Occasion
+Hệ điều hành
+operating_system_version
+Độ phân giải cảm biến quang học (megapixels)
+Zoom quang
+Hữu cơ
+Loại bảng điều khiển & kết cấu
+Hướng
+Hệ điều hành tương thích
+Các đặc điểm nấu nướng khác
+Loại dụng cụ điện khác
+Thiết kế Ottoman
+Loại ghế ngoài trời
+Loại bàn ăn ngoài trời
+Chất liệu mái vòm
+Đặc điểm mái vòm
+Loại bàn ngoài chời
+Phụ kiện điện ngoài trời
+Loại dụng cụ điện ngoài trời
+Chất liệu bên ngoài
+Kết nối đầu ra
+Sức chứa khay đầu ra
+Dung tích lò nướng (Lít)
+Nhiệt độ tối đa
+Tính năng
+Chức năng chống quá nhiệt
+Số lượng kênh
+Loại đóng gói
+Bộ sản phẩm đầy đủ
+Chiều cao gói hàng (cm)
+Chiều dài gói hàng (cm)
+Khối lượng gói hàng (kg)
+Chiều rộng gói hàng (cm)
+Cách đóng gói
+Khu vực bảo vệ
+Phụ kiện sơn
+Loại keo
+Loại sản phẩm keo
+Ngành hàn
+Loại hàn
+Tông màu sơn
+Đặc tính khóa sơn
+Sơn phủ
+Loại sản phẩm sơn
+Các loại sơn
+Lớp phủ chống thấm
+Các sản phẩm chống thấm
+Loại bề mặt chống thấm
+Cách dùng chống thấm
+Loại bề mặt sơn
+Loại sơn
+Dung tích sơn (L)
+Loại tranh
+Hình dáng
+Loại sơn & sơn lót
+Loại quần lót
+Fit Type
+Khóa quần
+Length
+Kiểu dáng quần dài
+Xử lý giấy
+Lớp giấy
+Paper Type
+Sức chứa khay giấy
+Họa tiết
+patterned
+Pax
+Loại nguy cơ
+Pet Food Bag Size
+Kích thước thú cưng
+Hương vị
+phone_features
+phone_type
+Chủ đề của ốp lưng
+Dạng pickup
+Kích thước hình ảnh
+Chất liệu vỏ
+Hình dạng gối
+Phụ kiện lắp ráp ống
+pixel_ppi
+Khung & Bọc phủ bảng số
+Loại nền tảng
+Nền tảng
+Loại phụ kiện bơm nước
+Đặc điểm vòi bơm nước
+Vòi xả nước
+Cổng
+Vị trí
+Chất liệu nồi
+Power
+Loại nguồn điện
+Công suất điện
+Công suất tiêu thụ
+Công suất vỉ nướng
+Công suất tiêu thụ (chế độ vi sóng)
+Loại khoan
+Kìm nhổ điện
+Máy ép
+Công suất (watt/mã lực)
+Độ cận (Đi-ốp)
+Điện áp đầu ra
+Công suất đầu ra (Amp)
+Cỡ đĩa (inches)
+Loại cưa
+Nguồn điện
+Nguồn cung cấp
+Loại điều khiển điện
+Cung cấp năng lượng
+Kích thước phụ kiện máy công cụ (mm)
+Phụ kiện dụng cụ điện
+Cường độ (amp)
+Số pin đi kèm
+Chỉ số BTU
+Đặc điểm dụng cụ điện
+Kèm dụng cụ
+Dụng cụ có thể tương thích với các loại bề mặt
+Mô-men xoắn (lb-in)
+Máy hàn
+Loại Pin
+Dung lượng pin sạc dự phòng
+Tính năng pin sạc dự phong
+Loại ổ cắm điện
+Đội Premier League
+Áp suất
+Giá
+Tốc độ in
+Cổng kết nối máy in
+Chức năng máy in
+Riêng tư
+Bộ vi xử lý
+Tốc độ bộ xử lý (GHz)
+processor_type
+Lựa chọn sản phẩm
+Loại sản phẩm
+Chính sách Bảo hành
+Warranty Policy (English)
+Dung tích (ml)
+Loại máy chiếu
+Promo Tag
+Đặc điểm quần áo bảo hộ
+Đặc điểm giày bảo hộ
+คุณสมบัติเด่น
+Ngày phát hành
+Nhà xuất bản
+Kiểu kéo
+Công suất lọc
+Phương pháp lọc
+Số lượng
+Cơ cấu thanh răng
+Chất liệu vợt
+Kiểu đan dây
+Tính năng Radio
+Loại phát thanh
+CB Radio & Máy quét
+ram_memory
+range hood features
+Phạm vi gắn kết
+Tốc độ đọc
+Tính năng nhận
+Đầu thu
+Độ tuổi phù hợp
+Recommended Gender
+Khuyến nghị sử dụng
+dung lượng kênh máy thu âm
+Làm đầy lại
+Đặc điểm tủ lạnh
+Loại tủ lạnh
+region_coverage
+Rơ Le
+Loại phanh & công cụ sữa chữa
+Loại thay thế
+Độ phân giải
+Thời gian phản hồi
+rgb lighting
+Cỡ nhẫn
+Room Size
+Loại cáp
+Chất liệu thảm
+Mặt thảm
+Hình dáng thảm
+Kích thước thảm
+Độ dày thảm (mm)
+Loại thảm
+Loại Rum
+Loại bậc lên xuống
+Loại két sắt
+Safety Feature
+Loại sake
+Loại sandal
+Độ phân giải quét
+Scarf Style
+Hương thơm
+Đặc điểm mùi hương
+Kích thước màn hình (inches)
+screen_type
+Số chỗ ngồi
+Tính năng của máy quay an ninh
+loại camera an ninh
+Loại hệ thống an ninh
+Loại cảm biến
+Series A Đội
+Loại tô phục vụ
+Phụ kiện dụng cụ phục vụ
+Dịch vụ
+Số lượng chi tiết trong bộ sản phẩm
+Set Size
+Số loại cài đặt
+Đặc điểm máy may
+Tốc độ may (Mũi/phút)
+Shalat Style
+Hình dạng
+Shaper Style
+Tính năng
+Loại
+Loại tấm trải giường
+Thiết kế kệ
+Hạn sử dụng
+Loại giảm sốc
+Accessory Type
+Loại
+Loại khóa giày
+Kiểu trang trí giày
+Giày theo cỡ
+Đặc điểm nổi bật
+Loại tín hiệu
+sim_slots
+Kích thước
+Quấn áo cỡ trẻ em
+Kích cỡ giày dép trẻ em
+Kích thước tã
+Kích cỡ mũ bảo hiểm
+Thể Tích (Lit)
+Kích thước đồ chơi
+Cỡ mặc
+Công dụng
+Tình trạng da
+Loại da
+Chiều dài váy
+Kiểu váy
+Phong cách
+Sleeping Capacity (number of persons)
+Tay áo
+Các tính năng của mắt kính thông minh
+Smart TV
+Kích thước mặt (mm)
+Bộ nhớ khả dụng
+Dòng sản phẩm tương thích
+Kích thước đồng hồ
+Loại máy nghe nhạc
+Chiều cao của sneaker cổ cao
+Kiểu Dáng Sneaker
+Loại xích đi tuyết
+Sock Tight Style
+Số ổ cắm
+Loại sofa
+Phần mềm tương thích
+Bán theo
+Loại mặt bàn ủi
+Giải pháp
+Tên của card âm thanh
+Cấu hình loa
+Loa ngoài điện thoại
+Tính năng loa
+Đặc điểm nổi bật
+Ngày bắt đầu khuyến mãi
+Giá đặc biệt
+Ngày kết thúc khuyến mãi
+speed_class
+Tốc độ quay (RPM)
+Đặc điểm cây lau
+Age (years)
+Bộ hướng gió sau
+Dung tích bình nước thể thao (lít)
+Loại đồ chơi thể thao cho bé
+Loại vở
+Loại bấm sách
+Loại bảng
+Loại giấy dùng cho máy in
+Loại kẹp
+Loại bút xóa
+Loại dao
+Loại dụng cụ sắp xếp bàn làm việc
+Loại nhật ký
+Loại phong bì
+Loại chốt
+Loại giũa
+Loại cờ
+Loại keo
+Đặc điểm nhãn dính
+Loại nhãn dính
+Loại in nhãn
+Loại máy in nhãn
+Độ cứng bút chì
+Độ dày bút chì
+Loại bút đánh dấu
+Đặc điểm vở
+Thùng carton
+Loại giấy
+Loại
+Số tờ giấy/ream
+Độ dày (gsm)
+Loại bút
+Loại bút chì
+Loại bấm giấy
+Loại băng dính
+Tính năng
+steamer material
+Phân tầng
+Bánh xe & Phụ kiện
+Loại đồ chơi giáo dục
+Chiều cao ghế
+storage_capacity_new
+Đặc điểm dụng cụ chứa đồ
+Nguyên tắc lưu trữ
+Loại ống chứa đồ
+Loại bảo quản
+Cửa hàng
+Chất liệu dây đeo đồng hồ
+Nhớt Theo Thì
+Phong cách
+Kiểu mũ bảo hiểm
+Tính năng bút Stylus
+Loa subwoofer
+Kích thước
+Khả năng chống nắng
+Loại tròng kính mát
+Loại dụng cụ bánh xe & Giảm sốc
+Swimwear Type
+Công Tắc
+Bộ nhớ hệ thống
+Chân bàn
+Đặc điểm bàn
+Chiều cao bàn
+Kết nối Cellular
+đặc điểm máy tính bảng
+Tính năng
+Phụ kiện uống trà
+Dung tích ấm trà (tách)
+Phân loại trà
+Dụng cụ phục vụ uống trà/cà phê
+Loại trà
+Kiểu cổ
+Độ dài tay áo
+Loại Tequila
+test_multi_text_attribute
+test_sku_value
+test_value_normalization
+Độ dày thảm
+Mật độ sợi vải
+Tay ném
+Chiều rộng của cà vạt
+Thời gian đặt chỗ
+Model lốp
+Cỡ lốp
+Tiêu đề
+Ngày kết thúc (Ngày/tháng/năm)
+Dạng mũi giày
+Loại cản trước
+Form dáng
+Loại lồng
+Top Type
+Top type
+Đặc điểm
+Bàn di chuột
+Towel Material
+Cỡ khăn
+Loại dụng cụ tời kéo
+Loại tời kéo
+Số lượng các mảnh
+Độ tuổi lớn nhất có thể sử dụng
+Độ tuổi nhỏ nhất có thể sử dụng
+Kiếu thiết bị giám xác
+Loại phụ kiện xe Rơ moóc
+Kích cỡ (Feet)
+Tốc độ truyền (Mbps)
+Transmission & Parts type
+Cỡ du lịch
+Nắp Chụp Lazang, niền và phụ kiện Lazang
+trimmer groomer clipper application
+Loại sàn & cốp sau xe tải
+Khóa TSA
+Loại bàn xoay
+Loại TV apdapter
+Độ phân giải
+Công nghệ màn hình
+Dịch vụ đi kèm
+Loại
+Loại máy điều hòa không khí
+Loại lọc không khí
+Kiểu bóng
+Loại ổ đĩa
+Type Care
+Loại Ốp lưng/Bao da
+Loại switch
+Loại bộ gõ dành cho buổi hòa nhạc
+Loại rèm
+Loại
+Loại
+Loại tã
+Loại túi đựng tã
+Loại kĩ thuật số
+bát thức ăn tự động
+Dụng cụ thể hình
+Thức ăn cho thú nhỏ
+Type Free
+Loại đồng hồ đo
+Loại màu nhuộm
+Loại pin/ác quy
+Sự kiện
+Loại máy xay sinh tố
+Loại bảng
+Type of Bundle
+Loại khóa học
+Giải trí
+Type of Fitness
+Loại gót giày
+Loại bếp từ
+Loại bếp hồng ngoại
+Loại máy ép trái cây
+Nhà hàng
+Loại nồi cơm điện
+Type of Sports
+Loại hình tham quan/du lịch
+Loại phương tiện
+Loại sơn
+Thức ăn cho động vật bò sát
+Chuồng & nơi trú ẩn cho động vật bò sát
+Loại nước sốt/nước sốt thịt
+Loại máy quét
+Loại miếng dán màn hình
+Loại hội thảo
+Dụng cụ thể thao
+Công viên giải trí
+Loại hình khối
+Nguồn điện
+Dạng sản phẩm
+Type of Washes
+Loại máy giặt
+Loại nhạc cụ hơi
+Danh mục dù
+unit_metric
+Số lượng đơn vị
+Kích cỡ đóng gói
+Loại đóng gói
+Toàn cầu
+Dụng cụ xếp quần áp
+Tần suất thay đổi kính
+Số cổng USB
+Hỗ trợ kết nối USB
+Dụng cụ nấu ăn
+Dụng cụ quầy bar
+Đặc điểm mặt bếp
+Chất liệu mặt bếp
+Loại mặt bếp
+Loại dụng cụ cắt phô mai
+Đặc điểm dụng cụ nấu
+Dụng cụ nấu trái cây
+Dụng cụ nấu tỏi
+Dụng cụ đo lường
+Dụng cụ nấu thịt
+Dụng cụ chứa dầu
+Loại dụng cụ mở hộp
+Đặc điểm dụng cụ nấu pasta
+Loại dụng cụ làm pasta
+Dụng cụ bóc vỏ
+Loại dụng cụ đựng muối & tiêu
+Loại dụng cụ phục vụ
+Loại dụng cụ nấu bếp đặc biệt
+Loại dụng cụ gia vị
+Loại dụng cụ lọc
+Đặc điểm nhiệt kế
+Loại nhiệt kế
+Vacuum Cleaner Features
+Loại máy hút bụi
+Chất liệu
+Phiên bản
+Chế độ ăn đặc thù
+Đường dẫn video
+Độ phân giải video
+video_resolution
+Khung ngắm
+Niên vụ
+Độ nhớt
+Loại máy ghi âm
+Thể tích (ml)
+Size
+Tính năng thực tế ảo
+Kiểu tay áo Blouse
+Chiều dài tay áo
+Kiểu trang phục bơi
+Độ dày của bánh waffle
+Kiểu thắt lưng
+Tính năng treo tường
+Wall Mounted
+Loại lò vi sóng treo tường
+Loại ví
+Bộ tủ
+Loại cửa tủ
+Chất liệu tủ
+Thời gian bảo hành
+Bảo hành
+Loại bảo hành
+Công suất giặt (kg)
+Hướng dẫn giặt
+Đặc tính giặt giũ
+Các chế độ giặt
+Cỡ mặt đồng hồ theo đơn vị mm
+Kích thước mặt đồng hồ
+Màu dây đồng hồ
+Phụ kiện bơm nước
+water dispenser features
+water dispenser type
+Hiệu quả nước (số đánh dấu)
+Tính năng
+Loại máy làm nóng nước
+Năng lượng sử dụng
+water_resistance
+water_resistant
+Waterproof
+Chống nước
+Wattage
+Công suất
+Kết nối đồng hồ
+Đặc điểm đồng hồ
+Chức năng
+Loại chất liệu dây
+Weight
+Weight Capacity
+Khối lượng kim loại quý
+Cân nặng hoặc độ tuổi
+Loại tạ
+Tạ (kg)
+Loại vòng bulông bánh xe
+Đường kính mâm (Inches)
+Vật liệu bánh xe
+Offset của mâm (mm)
+PCD bánh xe (mm)
+Độ rộng của mâm (inches)
+Chất liệu bánh xe
+Cỡ bánh xe
+Loại bánh xe
+Whisky Style
+Loại Whisky
+Loại dụng cụ kim khí cho cửa sổ
+Cánh
+wiper_size
+Không dây
+loại sạc không dây
+Kết nối không dây
+Dải tín hiệu không dây
+Tốc độ truyền không dây (Mbps)
+Xu Hướng Nữ
+Kích thước loa siêu trầm
+Loại đèn làm việc
+Vùng rượu
+Tốc độ ghi
+Năm
+Tính năng của thảm

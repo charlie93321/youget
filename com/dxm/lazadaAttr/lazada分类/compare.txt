@@ -1,0 +1,190 @@
+value is not match:type_of_battery,Loại pin/ác quy,Loại pin
+value is not match:video_resolution,video_resolution,Độ phân giải video
+value is not match:waterproof,Waterproof,Chống nước
+value is not match:color_thumbnail,Color thumbnail,Hình đại diện màu sắc
+value is not match:storage_capacity_new,storage_capacity_new,Khả năng lưu trữ
+value is not match:processor_type,processor_type,Loại bộ vi xử lý
+value is not match:condition,condition,Tình trạng
+value is not match:resolution,Độ phân giải,resolution
+value is not match:compatible_devices,Thiết bị tương thích,compatible_devices
+value is not match:input_type,Kiểu đầu vào,Loại đầu vào
+value is not match:color_thumbnail,Color thumbnail,Hình đại diện màu sắc
+value is not match:storage_capacity_new,storage_capacity_new,Khả năng lưu trữ
+value is not match:input_type,Kiểu đầu vào,Input Type
+value is not match:model,Dòng sản phẩm,Model
+value is not match:storage_capacity_new,storage_capacity_new,Storage Capacity
+value is not match:color_thumbnail,Color thumbnail,Hình đại diện màu sắc
+value is not match:author,Tác giả,author
+value is not match:edition,Phiên bản,edition
+value is not match:isbn_issn,ISBN/ISSN,isbn_issn
+value is not match:language,Ngôn ngữ,language
+value is not match:publisher,Nhà xuất bản,publisher
+value is not match:year,Năm,year
+value is not match:color_family,Nhóm màu,color_family
+value is not match:size,Kích thước,size
+value is not match:model,Dòng sản phẩm,Model
+value is not match:core_construction,Cấu trúc lõi,Cấu trúc nệm
+value is not match:recommended_gender,Recommended Gender,Giới tính
+value is not match:assembly,hội,, tổ hợp,Lắp ráp
+value is not match:Product_Length,Product_Length,Chiều dài
+value is not match:Product_width,Product_width,Chiều rộng
+value is not match:flavor,Flavor,Hương vị
+value is not match:model,Dòng sản phẩm,Model
+value is not match:country_origin_hb,Country of origin,Nước sản xuất
+value is not match:freshness_metric,Freshness Metric,Độ tươi sống
+value is not match:unit_metric,unit_metric,Đơn vị số liệu
+value is not match:volume,Thể tích (ml),Dung tích sản phẩm (ml)
+value is not match:model,Dòng sản phẩm,Model
+value is not match:country_origin_hb,Country of origin,Xuất xứ
+value is not match:unit_quantity,Số lượng đơn vị,Số lượng
+value is not match:dimensions_rm,Kích thước,dimensions_rm
+value is not match:unit_metric,unit_metric,Đơn vị
+value is not match:about_product,về sản phẩm,about_product
+value is not match:fmlt_skin_care,Hình dạng sản phẩm,Dạng sản phẩm
+value is not match:flavor_nutrition,Hương vị dinh dưỡng,Mùi vị & Thành phần dinh dưỡng
+value is not match:color_thumbnail,Color thumbnail,Màu sắc
+value is not match:model,Dòng sản phẩm,Model
+value is not match:country_origin_hb,Country of origin,Nước sản xuất
+value is not match:scent,Hương thơm,scent
+value is not match:flavor,Flavor,Hương vị
+value is not match:about_product,về sản phẩm,about_product
+value is not match:unit_metric,unit_metric,Đơn vị số liệu
+value is not match:auto_battery_size,Auto Battery Size,Battery Size
+value is not match:items_per_each,Mỗi mục,items_per_each
+value is not match:inverter,Loại máy biến tần,Inverter
+value is not match:power_consumption,Công suất tiêu thụ,Công suất (W)
+value is not match:type_air_conditioner,Loại máy điều hòa không khí,Type Air Conditioner
+value is not match:capacity,Dung tích,Capacity
+value is not match:washing_features,Đặc tính giặt giũ,Washing features
+value is not match:wattage_ha,Công suất,Wattage
+value is not match:type_washing,Loại máy giặt,Type of Washing Machine
+value is not match:purification_method,Phương pháp lọc,Purification Method
+value is not match:color_thumbnail,Color thumbnail,Hình ảnh thu nhỏ
+value is not match:la_installation,Provide Installation,Dịch vụ lắp đặt
+value is not match:material,Chất liệu,material
+value is not match:No_of_pieces,Không miếng nào,No_of_pieces
+value is not match:scent,Hương thơm,Hương
+value is not match:pattern,Họa tiết,pattern
+value is not match:style,Phong cách,style
+value is not match:net_width,Chiều rộng (mm),Net Width (mm)
+value is not match:clothing_material,Chất liệu vải,clothing_material
+value is not match:light_bulb_type,light_bulb_type,Loại bóng đèn
+value is not match:curtain_length,Chiều dài màn,Chiều dài (cm)
+value is not match:year,Năm,Năm phát hành
+value is not match:set_size,Set Size,Kích cỡ bộ
+value is not match:clothing_material,Chất liệu vải,clothing_material
+value is not match:jackets_closure_type,Kiểu khóa áo khoác,Kiểu khóa kéo
+value is not match:collar_type,Collar Style / Neckline,Loại cổ áo / đường viền cổ
+value is not match:number_of_pieces,Multipack,Sản phẩm bao gồm
+value is not match:occasion,Occasion,Địa điểm ứng dụng
+value is not match:pants_fit_type,Fit Type,Loại ôm
+value is not match:jeans_fit_type,Loại quần jean,Form dáng quần
+value is not match:tee_neckline,Kiểu cổ,Đường viền cổ áo
+value is not match:waterproof,Waterproof,waterproof
+value is not match:size,Kích thước,size
+value is not match:model,Dòng sản phẩm,model
+value is not match:delivery_and_handling,Giao hàng và xử lý,delivery_and_handling
+value is not match:mahp_or_mahs,mahp hay mahs,mahp_or_mahs
+value is not match:operating_system,Hệ điều hành,operating_system
+value is not match:resolution,Độ phân giải,resolution
+value is not match:type_of_battery,Loại pin/ác quy,type_of_battery
+value is not match:weight_or_age_range,Cân nặng hoặc độ tuổi,weight_or_age_range
+value is not match:storage_guidelines,Nguyên tắc lưu trữ,storage_guidelines
+value is not match:color_thumbnail,Color thumbnail,color_thumbnail
+value is not match:gtin,GTIN,gtin
+value is not match:mpn,MPN,mpn
+value is not match:color_thumbnail,Color thumbnail,Hình đại diện màu sắc
+value is not match:model,Dòng sản phẩm,Model
+value is not match:recommended_gender,Recommended Gender,Giới tính
+value is not match:fea_chars_brands,Thương hiệu nổi bật,Nhân vật
+value is not match:size,Kích thước,size
+value is not match:wheels,Chất liệu bánh xe,Cân nặng
+value is not match:product_type,Loại sản phẩm,Product Type
+value is not match:fa_season,Mùa,Season
+value is not match:outer_material,Chất liệu bên ngoài,Chất liệu ngoài
+value is not match:shelf_expiry,Hạn sử dụng,shelf_expiry
+value is not match:occasion,Occasion,Địa điểm ứng dụng
+value is not match:volume,Thể tích (ml),Volume
+value is not match:flavor,Flavor,Hương vị em bé
+value is not match:weight,Weight,Cân nặng
+value is not match:size_baby_clothing,Quấn áo cỡ trẻ em,Kích cỡ quần áo trẻ em
+value is not match:Maximum_recommended_age_to,Tuổi tối đa được đề nghị,Độ tuổi phù hợp
+value is not match:Minimum_recommended_age_from,Tuổi tối thiểu được đề nghị,Kích cỡ quần áo trẻ em
+value is not match:Weight,Weight,Cân nặng
+value is not match:model,Dòng sản phẩm,model
+value is not match:type_of_battery,Loại pin/ác quy,Loại pin
+value is not match:scent,Hương thơm,Mùi hương
+value is not match:patterned,patterned,Có họa tiết
+value is not match:material,Chất liệu,Material
+value is not match:age_group,Age Group,age_group
+value is not match:size,Kích thước,size
+value is not match:auto_battery_size,Auto Battery Size,Battery Size
+value is not match:dimensions_rm,Kích thước,dimensions_rm
+value is not match:material,Chất liệu,material
+value is not match:wheels,Chất liệu bánh xe,Bánh xe
+value is not match:shape,Hình dạng,Eyewear Shape
+value is not match:net_depth,Chiều sâu (mm),Net Depth (mm)
+value is not match:net_width,Chiều rộng (mm),Net Width (mm)
+value is not match:input_voltage,Điện áp đầu vào,Điện áp đầu vào (V)
+value is not match:power_source,Nguồn điện,Nguồn cung cấp
+value is not match:horsepower,Mã lực,Air Conditioner Rated Capacity (HP)
+value is not match:model,Dòng sản phẩm,Model
+value is not match:model,Dòng sản phẩm,Model
+value is not match:power_consumption,Công suất tiêu thụ,Công suất (W)
+value is not match:Power_Consumption_(W),Power Consumption (W),Công suất tiêu thụ điện năng
+value is not match:wattage,Wattage,Công suất
+value is not match:input_voltage,Điện áp đầu vào,Điện áp vào (V)
+value is not match:settings,Số loại cài đặt,Cài đặt
+value is not match:power_grinder_type,Máy ép,Grinder Type
+value is not match:glassware_jug_type,Loại bình,Jug Type
+value is not match:number_of_disc,Số đĩa,Number of Disc
+value is not match:connectivity,Kết nối,Connectivity
+value is not match:model,Dòng sản phẩm,Model
+value is not match:material,Chất liệu,material
+value is not match:input_voltage,Điện áp đầu vào,Điện áp đầu vào (V)
+value is not match:cable_type,Cable Type,Loại dây cáp
+value is not match:light_bulb_type,light_bulb_type,Loại bóng đèn
+value is not match:size,Kích thước,Product Size
+value is not match:recommended_gender,Recommended Gender,Giới tính
+value is not match:about_product,về sản phẩm,about_product
+value is not match:product_type,Loại sản phẩm,Product Type
+value is not match:size,Kích thước,size
+value is not match:model,Dòng sản phẩm,Model
+value is not match:usage_contact_lens,Tần suất thay đổi kính,Lens Replacement Frequency
+value is not match:material_type,Material,Chất liệu
+value is not match:number_of_pieces,Multipack,Nhiều kiện
+value is not match:metal,Metal,Chất liệu gọng
+value is not match:material,Chất liệu,Material
+value is not match:main_stone,Main stone,Chất liệu đá chính
+value is not match:occasion,Occasion,Hoàn cảnh
+value is not match:water_resistant,water_resistant,Khả năng chống nước
+value is not match:power_lenses,Độ cận (Đi-ốp),Optical Power (Diopter)
+value is not match:clothing_material,Chất liệu vải,clothing_material
+value is not match:is_unisex,Is Unisex,is_unisex
+value is not match:number_of_pieces,Multipack,Nhiều kiện
+value is not match:collar_type,Collar Style / Neckline,Loại cổ áo / đường viền cổ
+value is not match:material_filter,Material,Chất liệu
+value is not match:occasion,Occasion,Địa điểm ứng dụng
+value is not match:size,Kích thước,size
+value is not match:clothing_material,Chất liệu vải,clothing_material
+value is not match:model,Dòng sản phẩm,Mẫu mã
+value is not match:material,Chất liệu,Material
+value is not match:case_type,Loại ốp lưng,Loại vỏ
+value is not match:occasion,Occasion,Địa điểm ứng dụng
+value is not match:number_of_pieces,Multipack,Nhiều kiện
+value is not match:model,Dòng sản phẩm,Mẫu mã
+value is not match:country_origin_hb,Country of origin,Xuất xứ
+value is not match:wattage,Wattage,Công suất
+value is not match:recommended_gender,Recommended Gender,Giới tính
+value is not match:finish,Finish,Hiệu ứng trang điểm mặt
+value is not match:pattern,Họa tiết,pattern
+value is not match:size,Kích thước,size
+value is not match:age_group,Age Group,age_group
+value is not match:recommended_gender,Recommended Gender,recommended_gender
+value is not match:model,Dòng sản phẩm,Model
+value is not match:model,Dòng sản phẩm,Model
+value is not match:recommended_gender,Recommended Gender,Giới tính
+value is not match:water_resistance,water_resistance,Chống nước
+value is not match:weight_capacity,Weight Capacity,Dung lượng
+value is not match:color_thumbnail,Color thumbnail,Hình đại diện màu sắc
+value is not match:model,Dòng sản phẩm,Model

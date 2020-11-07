@@ -1,0 +1,941 @@
+{
+  "data": [
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "name",
+      "input_type": "text",
+      "options": [],
+      "is_mandatory": 1,
+      "attribute_type": "normal",
+      "label": "Name"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "short_description",
+      "input_type": "richText",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Short Description"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "description",
+      "input_type": "richText",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Long Description (Lorikeet)"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "video",
+      "input_type": "text",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Video URL"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 1,
+      "name": "color_family",
+      "input_type": "multiEnumInput",
+      "options": [
+        {
+          "name": "Antique White"
+        },
+        {
+          "name": "Apricot"
+        },
+        {
+          "name": "Aqua"
+        },
+        {
+          "name": "Army Green"
+        },
+        {
+          "name": "Avocado"
+        },
+        {
+          "name": "Beige"
+        },
+        {
+          "name": "Black"
+        },
+        {
+          "name": "Blue"
+        },
+        {
+          "name": "Blue Gray"
+        },
+        {
+          "name": "Blueberry"
+        },
+        {
+          "name": "Blush Pink"
+        },
+        {
+          "name": "Bronze"
+        },
+        {
+          "name": "Brown"
+        },
+        {
+          "name": "Burgundy"
+        },
+        {
+          "name": "Cacao"
+        },
+        {
+          "name": "Camel"
+        },
+        {
+          "name": "Champagne"
+        },
+        {
+          "name": "Champagne Pink"
+        },
+        {
+          "name": "Charcoal"
+        },
+        {
+          "name": "Cherry"
+        },
+        {
+          "name": "Chestnut"
+        },
+        {
+          "name": "Chili Red"
+        },
+        {
+          "name": "Chocolate"
+        },
+        {
+          "name": "Cinnamon"
+        },
+        {
+          "name": "Clear"
+        },
+        {
+          "name": "Coffee"
+        },
+        {
+          "name": "Cream"
+        },
+        {
+          "name": "Dark Ash"
+        },
+        {
+          "name": "Dark Brown"
+        },
+        {
+          "name": "Dark Grey"
+        },
+        {
+          "name": "Dark blue"
+        },
+        {
+          "name": "Deep Black"
+        },
+        {
+          "name": "Deep Blue"
+        },
+        {
+          "name": "Deep Gray"
+        },
+        {
+          "name": "Deep green"
+        },
+        {
+          "name": "Emerald Green"
+        },
+        {
+          "name": "Floral"
+        },
+        {
+          "name": "Fluorescent Green"
+        },
+        {
+          "name": "Fluorescent Yellow"
+        },
+        {
+          "name": "Fuchsia"
+        },
+        {
+          "name": "Galaxy"
+        },
+        {
+          "name": "Glitter Black"
+        },
+        {
+          "name": "Glitter Blue"
+        },
+        {
+          "name": "Glow Yellow"
+        },
+        {
+          "name": "Gold"
+        },
+        {
+          "name": "Green"
+        },
+        {
+          "name": "Grey"
+        },
+        {
+          "name": "Hotpink"
+        },
+        {
+          "name": "Ivory"
+        },
+        {
+          "name": "Jade"
+        },
+        {
+          "name": "Jet Black"
+        },
+        {
+          "name": "Khaki"
+        },
+        {
+          "name": "Lake Blue"
+        },
+        {
+          "name": "Lavender"
+        },
+        {
+          "name": "Lemon Yellow"
+        },
+        {
+          "name": "Light Ash"
+        },
+        {
+          "name": "Light Black"
+        },
+        {
+          "name": "Light Grey"
+        },
+        {
+          "name": "Light blue"
+        },
+        {
+          "name": "Light green"
+        },
+        {
+          "name": "Light yellow"
+        },
+        {
+          "name": "Magenta"
+        },
+        {
+          "name": "Mahogany"
+        },
+        {
+          "name": "Mango"
+        },
+        {
+          "name": "Maroon"
+        },
+        {
+          "name": "Matte Black"
+        },
+        {
+          "name": "Metallic Cherry"
+        },
+        {
+          "name": "Metallic Lilac"
+        },
+        {
+          "name": "Metallic Teal"
+        },
+        {
+          "name": "Mint"
+        },
+        {
+          "name": "Multicolor"
+        },
+        {
+          "name": "Navy Blue"
+        },
+        {
+          "name": "Neo Bright"
+        },
+        {
+          "name": "Neon"
+        },
+        {
+          "name": "Neutral"
+        },
+        {
+          "name": "Not Specified"
+        },
+        {
+          "name": "Ochre Brown"
+        },
+        {
+          "name": "Off White"
+        },
+        {
+          "name": "Olive"
+        },
+        {
+          "name": "Orange"
+        },
+        {
+          "name": "Orchid Grey"
+        },
+        {
+          "name": "Peach"
+        },
+        {
+          "name": "Peanut"
+        },
+        {
+          "name": "Pink"
+        },
+        {
+          "name": "Purple"
+        },
+        {
+          "name": "Rainbow"
+        },
+        {
+          "name": "Red"
+        },
+        {
+          "name": "Rose"
+        },
+        {
+          "name": "Rose Gold"
+        },
+        {
+          "name": "Rose Red"
+        },
+        {
+          "name": "Sand"
+        },
+        {
+          "name": "Sand Brown"
+        },
+        {
+          "name": "Silver"
+        },
+        {
+          "name": "Space Grey"
+        },
+        {
+          "name": "Tan"
+        },
+        {
+          "name": "Teal"
+        },
+        {
+          "name": "Turquoise"
+        },
+        {
+          "name": "Violet"
+        },
+        {
+          "name": "Watermelon red"
+        },
+        {
+          "name": "White"
+        },
+        {
+          "name": "Wither Black"
+        },
+        {
+          "name": "Yellow"
+        },
+        {
+          "name": "…"
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "Color Family"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "country_origin_hb",
+      "input_type": "text",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Country of origin"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "racquet_material",
+      "input_type": "enumInput",
+      "options": [
+        {
+          "name": "Aluminum"
+        },
+        {
+          "name": "Carbon Graphite"
+        },
+        {
+          "name": "Graphite Steel"
+        },
+        {
+          "name": "Hi Tech Graphite"
+        },
+        {
+          "name": "Nano carbon"
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Racket Material"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "racquet_stringing",
+      "input_type": "enumInput",
+      "options": [
+        {
+          "name": "Strung"
+        },
+        {
+          "name": "Unstrung"
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Racquet Stringing"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "brand",
+      "input_type": "singleSelect",
+      "options": [],
+      "is_mandatory": 1,
+      "attribute_type": "normal",
+      "label": "Brand"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "model",
+      "input_type": "text",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Model"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "age_group",
+      "input_type": "singleSelect",
+      "options": [
+        {
+          "name": "Adults"
+        },
+        {
+          "name": "Children"
+        },
+        {
+          "name": "Youth"
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Age Group"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "__images__",
+      "input_type": "img",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "Images"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "color_thumbnail",
+      "input_type": "img",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "Color thumbnail"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "warranty_type",
+      "input_type": "singleSelect",
+      "options": [
+        {
+          "name": "Electronic Warranty"
+        },
+        {
+          "name": "International Manufacturer Warranty"
+        },
+        {
+          "name": "International Seller Warranty"
+        },
+        {
+          "name": "Invoice"
+        },
+        {
+          "name": "Local Manufacturer Warranty"
+        },
+        {
+          "name": "Local Supplier Warranty"
+        },
+        {
+          "name": "Local supplier warranty"
+        },
+        {
+          "name": "No Warranty"
+        },
+        {
+          "name": "Product Box or Serial Number"
+        },
+        {
+          "name": "Warranty Card and Invoice"
+        },
+        {
+          "name": "Warranty Paper and Invoice"
+        },
+        {
+          "name": "Warranty Stamp"
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Warranty Type"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "package_content",
+      "input_type": "text",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "What's in the box"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "Delivery_Option_Instant",
+      "input_type": "singleSelect",
+      "options": [
+        {
+          "name": "No"
+        },
+        {
+          "name": "Yes"
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Delivery Option Instant"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "SellerSku",
+      "input_type": "text",
+      "options": [],
+      "is_mandatory": 1,
+      "attribute_type": "sku",
+      "label": "SellerSKU"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "warranty",
+      "input_type": "singleSelect",
+      "options": [
+        {
+          "name": "1 Month"
+        },
+        {
+          "name": "10 Months"
+        },
+        {
+          "name": "10 Years"
+        },
+        {
+          "name": "11 Months"
+        },
+        {
+          "name": "12 Months"
+        },
+        {
+          "name": "15 Years"
+        },
+        {
+          "name": "15 months"
+        },
+        {
+          "name": "18 Months"
+        },
+        {
+          "name": "2 Months"
+        },
+        {
+          "name": "2 Years"
+        },
+        {
+          "name": "20 Years"
+        },
+        {
+          "name": "25 Years"
+        },
+        {
+          "name": "3 Months"
+        },
+        {
+          "name": "3 Years"
+        },
+        {
+          "name": "30 Years"
+        },
+        {
+          "name": "4 Months"
+        },
+        {
+          "name": "4 Years"
+        },
+        {
+          "name": "5 Months"
+        },
+        {
+          "name": "5 Years"
+        },
+        {
+          "name": "50 Years"
+        },
+        {
+          "name": "6 Months"
+        },
+        {
+          "name": "6 Years"
+        },
+        {
+          "name": "7 Months"
+        },
+        {
+          "name": "7 Years"
+        },
+        {
+          "name": "8 Months"
+        },
+        {
+          "name": "8 Years"
+        },
+        {
+          "name": "9 Months"
+        },
+        {
+          "name": "9 Years"
+        },
+        {
+          "name": "Life Time Warranty"
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Warranty Period"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "name_en",
+      "input_type": "text",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Name (English)"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "quantity",
+      "input_type": "numeric",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "Quantity"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "product_warranty",
+      "input_type": "text",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Warranty Policy"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "price",
+      "input_type": "numeric",
+      "options": [],
+      "is_mandatory": 1,
+      "attribute_type": "sku",
+      "label": "Price"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "product_warranty_en",
+      "input_type": "text",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Warranty Policy (English)"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "special_price",
+      "input_type": "numeric",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "Special Price"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "delivery_option_express",
+      "input_type": "singleSelect",
+      "options": [
+        {
+          "name": "No"
+        },
+        {
+          "name": "Yes"
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Delivery Option Express"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "description_en",
+      "input_type": "richText",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "English Long Description (optional)"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "special_from_date",
+      "input_type": "date",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "Start date of promotion"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "special_to_date",
+      "input_type": "date",
+      "options": [],
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "End date of promotion"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "delivery_option_economy",
+      "input_type": "singleSelect",
+      "options": [
+        {
+          "name": "No"
+        },
+        {
+          "name": "Yes"
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Delivery Option Economy"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "package_weight",
+      "input_type": "numeric",
+      "options": [],
+      "is_mandatory": 1,
+      "attribute_type": "sku",
+      "label": "Package Weight (kg)"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "package_length",
+      "input_type": "numeric",
+      "options": [],
+      "is_mandatory": 1,
+      "attribute_type": "sku",
+      "label": "Package Length (cm)"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "package_width",
+      "input_type": "numeric",
+      "options": [],
+      "is_mandatory": 1,
+      "attribute_type": "sku",
+      "label": "Package Width (cm)"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "package_height",
+      "input_type": "numeric",
+      "options": [],
+      "is_mandatory": 1,
+      "attribute_type": "sku",
+      "label": "Package Height (cm)"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "tax_class",
+      "input_type": "singleSelect",
+      "options": [
+        {
+          "name": "default"
+        },
+        {
+          "name": "tax 0"
+        },
+        {
+          "name": "tax 5"
+        },
+        {
+          "name": "tax 7"
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "Taxes"
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "Hazmat",
+      "input_type": "multiSelect",
+      "options": [
+        {
+          "name": "Battery"
+        },
+        {
+          "name": "Flammable"
+        },
+        {
+          "name": "Liquid"
+        },
+        {
+          "name": "None"
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Dangerous Goods"
+    }
+  ],
+  "code": "0",
+  "request_id": "0ba9f84516046667196884491"
+}
